@@ -1,0 +1,101 @@
+:root {
+  --primaryColor: #20b48d;
+  --UiLightColor: white;
+  --UiMediumColor: #eaeeef;
+  --UiDarkColor: #626262;
+  --UiDarkerColor: #454545;
+  --UiDarkestColor: #292828;
+  --btnPrimaryColor: var(--primaryColor);
+  --btnHoverColor: #272727;
+  --navbarHeight: 65px;
+  --btnActiveColor: #00ffb3;
+  --btnPrimaryFontColor: white;
+  --heartColor: #fb7272;
+  /* --colorDashPurchases: rgb(255, 105, 162); */
+  --colorDashPurchases: rgb(255, 105, 115);
+  --colorDashSales: rgb(105, 195, 255);
+  --textColorDashCard: "#ffffff";
+}
+
+.Disponible,
+.Vendido,
+.Reservado {
+  border-radius: 5px;
+  padding: 0.3rem;
+  background-color: #00b97c;
+  color: white;
+  font-weight: 600;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.Vendido {
+  background-color: rgb(201, 15, 15);
+}
+.Reservado {
+  background-color: rgb(221, 152, 24);
+}
+
+.nothingFound {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 600;
+
+}
+
+.Items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.Item {
+  padding: 20px 0;
+  width: 30%;
+  transition: box-shadow, 0.4s, ease-in-out;
+  border-radius: 3px;
+}
+@media (max-width: 1050px) {
+  background #fff,
+  .Item {
+    width: 48%;
+  }
+}
+@media (max-width: 550px) {
+  background #fff,
+  .Item {
+    width: 100%;
+    margin: auto;
+  }
+}
+
+/* ----- Back to Top ----- */
+
+.back-to-top {
+  border-style: none;
+  position: fixed;
+  bottom: 2rem;
+  right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  width: 4rem;
+  background-color: #00b97c;
+  border-radius: 50%;
+  z-index: 10;
+  transition: all .4s;
+}
+
+.back-to-top:hover {
+  box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
+  -webkit-box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
+  -moz-box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
+}
+
+.back-to-top__image {
+  height: 70%;
+}
+

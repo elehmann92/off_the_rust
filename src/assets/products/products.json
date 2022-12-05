@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Inflador Con Manómetro Bulit Serie 200 De Pie",
+      "categories": ["Herramientas", "Bicicletas"],
+      "description": "Cabezal multiválvula, apto para válvulas Schrader, Presta y Dunlop. Sirve para bicicletas, motos y autos. Incluye picos para pelotas e inflables. Tanto el tubo interior como exterior son de acero. Infla a 160psi. Incluye manómetro con lectura en bar y psi",
+      "price": 4000,
+      "status": "Disponible",
+      "images": ["inflador.jpeg"]
+    },
+    {
+      "id": 2,
+      "name": "PS4 + 2 controles",
+      "categories": ["Tecnología", "Consolas"],
+      "description": "PS4 500 GB. 2 controles.",
+      "price": 95000,
+      "status": "Reservado",
+      "images": ["ps41.jpg", "ps42.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Bicicleta Golon Pista",
+      "categories": ["Bicicletas"],
+      "description": "Bicicleta Golon Pista. Rodado 28. 7 cambios. Componentes Shimano.",
+      "price": 120000,
+      "status": "Disponible",
+      "images": ["Golon Urbana.jpeg"]
+    }
+  ]
+}
