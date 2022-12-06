@@ -25,7 +25,7 @@ function Cards() {
   return (
     <div className="Items">
       {!productsToDisplay.length ? (
-        <div className="nothingFound">NADA POR AQUÍ</div>
+        <div className="nothingFound">Ups! No tenemos nada con ese nombre. Probá con otra cosa 😊</div>
       ) : (
         productsToDisplay.map((product) => (
           <MultiActionAreaCard key={product.id} product={product} />

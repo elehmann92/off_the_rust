@@ -8,6 +8,7 @@ import Typography from "@mui/material/Typography";
 import InputBase from "@mui/material/InputBase";
 import MenuIcon from "@mui/icons-material/Menu";
 import SearchIcon from "@mui/icons-material/Search";
+import FilterAltIcon from '@mui/icons-material/FilterAlt';
 import { useState } from "react";
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
@@ -57,12 +58,11 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 
 export default function SearchAppBar() {
   const [input, setInput] = useState("");
-  const dispatch = useDispatch()
+  const dispatch = useDispatch();
 
-
-  useEffect(()=>{
-    dispatch(searchProducts(input))
-  },[input])
+  useEffect(() => {
+    dispatch(searchProducts(input));
+  }, [input]);
 
   return (
     <div className="NavContainer">
@@ -79,7 +79,7 @@ export default function SearchAppBar() {
               aria-label="open drawer"
               sx={{ mr: 2 }}
             >
-              <MenuIcon />
+              <FilterAltIcon />
             </IconButton>
             <Typography
               variant="h6"
@@ -89,12 +89,20 @@ export default function SearchAppBar() {
             >
               <b>SE VENDE TUTTI !</b>
             </Typography>
+            <img
+              className="whatsapp_logo"
+              src="/whatsapp-logo-11.png"
+              alt="whatsapp"
+              onClick={() =>
+                window.open("https://wa.me/5491155790833", "_blank")
+              }
+            />
             <Search>
               <SearchIconWrapper>
                 <SearchIcon />
               </SearchIconWrapper>
               <StyledInputBase
-                placeholder="Search…"
+                placeholder="Busca..."
                 inputProps={{ "aria-label": "search" }}
                 value={input}
                 name="inputSearch"

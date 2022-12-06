@@ -5,7 +5,7 @@ function BackToTopButton({scrollUp}) {
     <div>
       <button onClick={scrollUp} className="back-to-top" title="Back to Top">
         <img
-          src="/public/arrow-up.svg"
+          src="/arrow-up.svg"
           alt="Back to Top"
           className="back-to-top__image"
         />

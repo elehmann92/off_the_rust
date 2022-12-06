@@ -37,7 +37,7 @@
 .nothingFound {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   font-weight: 600;
-
+  color: rgb(201, 15, 15);
 }
 
 .Items {
@@ -86,16 +86,32 @@
   background-color: #00b97c;
   border-radius: 50%;
   z-index: 10;
-  transition: all .4s;
+  transition: all 0.4s;
 }
 
 .back-to-top:hover {
-  box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
-  -webkit-box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
-  -moz-box-shadow: -2px 1px 54px 5px rgba(12,214,148,0.75);
+  box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
+  -webkit-box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
+  -moz-box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
 }
 
 .back-to-top__image {
   height: 70%;
 }
 
+.whatsapp_logo {
+  height: 2rem;
+  background-color: transparent;
+  transition: 300ms;
+}
+
+.whatsapp_logo:hover {
+  scale: 1.2;
+}
+
+@media (max-width: 600px) {
+  background #fff,
+  .whatsapp_logo {
+    margin-right: 1rem;
+  }
+}
