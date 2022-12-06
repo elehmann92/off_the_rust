@@ -16,7 +16,6 @@ export default function FilterButton() {
     setAnchorEl(event.currentTarget);
   };
   const handleClose = (category) => {
-    console.log(category);
     dispatch(setCategoryFilter(category));
     setAnchorEl(null);
   };

@@ -9,7 +9,7 @@ products.forEach((product) =>
 );
 
 const initialState = {
-  allProducts: products,
+  allProducts: products.filter((product) => product.status !== "Vendido"),
   productsToDisplay: [],
   categories: categories.sort(),
   categoryFilter: "",
