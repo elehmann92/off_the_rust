@@ -1,9 +1,18 @@
 import { products } from "../assets/products/products.json";
-import { SEARCH_PRODUCTS } from "./actionTypes";
+import { SEARCH_PRODUCTS, SET_CATEGORY_FILTER } from "./actionTypes";
+
+const categories = [];
+products.forEach((product) =>
+  product.categories.forEach((category) => {
+    !categories.includes(category) && categories.push(category);
+  })
+);
 
 const initialState = {
   allProducts: products,
   productsToDisplay: [],
+  categories: categories.sort(),
+  categoryFilter: "",
 };
 
 export default (state = initialState, { type, payload }) => {
@@ -17,7 +26,18 @@ export default (state = initialState, { type, payload }) => {
         ),
       };
     }
-
+    case SET_CATEGORY_FILTER: {
+      return {
+        ...stateCopy,
+        categoryFilter: payload,
+        productsToDisplay:
+          payload === ""
+            ? stateCopy.allProducts
+            : stateCopy.allProducts.filter((product) =>
+                product.categories.includes(payload)
+              ),
+      };
+    }
     default:
       return state;
   }

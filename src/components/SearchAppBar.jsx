@@ -1,18 +1,12 @@
 import * as React from "react";
 import { styled, alpha } from "@mui/material/styles";
-import AppBar from "@mui/material/AppBar";
-import Box from "@mui/material/Box";
-import Toolbar from "@mui/material/Toolbar";
-import IconButton from "@mui/material/IconButton";
-import Typography from "@mui/material/Typography";
-import InputBase from "@mui/material/InputBase";
-import MenuIcon from "@mui/icons-material/Menu";
+import {AppBar, Box, Toolbar,IconButton ,Typography, InputBase} from "@mui/material"
 import SearchIcon from "@mui/icons-material/Search";
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
-import { useState } from "react";
-import { useEffect } from "react";
+import { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { searchProducts } from "../redux/actions";
+import FilterButton from "./FilterButton";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -72,15 +66,7 @@ export default function SearchAppBar() {
           style={{ backgroundColor: "var(--primaryColor)" }}
         >
           <Toolbar>
-            <IconButton
-              size="large"
-              edge="start"
-              color="inherit"
-              aria-label="open drawer"
-              sx={{ mr: 2 }}
-            >
-              <FilterAltIcon />
-            </IconButton>
+            <FilterButton/>
             <Typography
               variant="h6"
               noWrap
@@ -89,14 +75,14 @@ export default function SearchAppBar() {
             >
               <b>SE VENDE TUTTI !</b>
             </Typography>
-            <img
+            {/* <img
               className="whatsapp_logo"
               src="/whatsapp-logo-11.png"
               alt="whatsapp"
               onClick={() =>
                 window.open("https://wa.me/5491155790833", "_blank")
               }
-            />
+            /> */}
             <Search>
               <SearchIconWrapper>
                 <SearchIcon />
