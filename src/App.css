@@ -37,7 +37,8 @@
 .nothingFound {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   font-weight: 600;
-  color: rgb(201, 15, 15);
+  font-size: 2rem;
+  color: var(--primaryColor);
 }
 
 .Items {
@@ -73,7 +74,7 @@
 
 /* ----- Back to Top ----- */
 
-.back-to-top {
+.back-to-top, .back-to-back {
   border-style: none;
   position: fixed;
   bottom: 2rem;
@@ -83,19 +84,28 @@
   align-items: center;
   height: 4rem;
   width: 4rem;
-  background-color: #00b97c;
+  background-color: var(--primaryColor);
   border-radius: 50%;
   z-index: 10;
   transition: all 0.4s;
 }
 
-.back-to-top:hover {
+.back-to-back {
+  transform: rotate(270deg);
+  position: fixed;
+  top: 80px;
+  left: 1rem;
+  height: 3rem;
+  width: 3rem;
+}
+
+.back-to-top:hover, .back-to-back:hover {
   box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
   -webkit-box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
   -moz-box-shadow: -2px 1px 54px 5px rgba(12, 214, 148, 0.75);
 }
 
-.back-to-top__image {
+.back-to-top__image, .back-to-back__image {
   height: 70%;
 }
 

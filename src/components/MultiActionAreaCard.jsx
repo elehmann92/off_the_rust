@@ -10,6 +10,7 @@ import {
   Typography,
   Modal,
 } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 
 const style = {
   position: "absolute",
@@ -25,6 +26,7 @@ const style = {
 };
 
 export default function MultiActionAreaCard({ product }) {
+  const navigate = useNavigate()
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -32,7 +34,7 @@ export default function MultiActionAreaCard({ product }) {
   return (
     <div className="Item">
       <Card sx={{ maxWidth: 345, margin: "auto" }}>
-        <CardActionArea>
+        <CardActionArea onClick={() => navigate(`/products/${product.id}`)}>
           <CardMedia
             component="img"
             height="350"

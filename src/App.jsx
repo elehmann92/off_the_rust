@@ -4,7 +4,7 @@ import { Routes } from "react-router-dom";
 import { Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import Products from "./pages/Products";
-import About from "./pages/About";
+import ProductDetail from "./pages/ProductDetail";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/products" element={<Products />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/products/:id" element={<ProductDetail />} />
       </Routes>
     </div>
   );

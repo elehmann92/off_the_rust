@@ -1,5 +1,9 @@
 import { products } from "../assets/products/products.json";
-import { SEARCH_PRODUCTS, SET_CATEGORY_FILTER } from "./actionTypes";
+import {
+  GET_SINGLE_PRODUCT,
+  SEARCH_PRODUCTS,
+  SET_CATEGORY_FILTER,
+} from "./actionTypes";
 
 const categories = [];
 products.forEach((product) =>
@@ -11,6 +15,7 @@ products.forEach((product) =>
 const initialState = {
   allProducts: products.filter((product) => product.status !== "Vendido"),
   productsToDisplay: [],
+  singleProduct: null,
   categories: categories.sort(),
   categoryFilter: "",
 };
@@ -36,6 +41,14 @@ export default (state = initialState, { type, payload }) => {
             : stateCopy.allProducts.filter((product) =>
                 product.categories.includes(payload)
               ),
+      };
+    }
+    case GET_SINGLE_PRODUCT: {
+      return {
+        ...stateCopy,
+        singleProduct: stateCopy.allProducts.find(
+          (product) => product.id === parseInt(payload)
+        ) || null,
       };
     }
     default:
