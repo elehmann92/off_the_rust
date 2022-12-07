@@ -17,6 +17,10 @@
   --textColorDashCard: "#ffffff";
 }
 
+* {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
 .Disponible,
 .Vendido,
 .Reservado {
@@ -39,6 +43,7 @@
   font-weight: 600;
   font-size: 2rem;
   color: var(--primaryColor);
+  text-align: center;
 }
 
 .Items {
@@ -110,9 +115,15 @@
 }
 
 .whatsapp_logo {
-  height: 2rem;
+  border-style: none;
+  position: fixed;
+  top: 80px;
+  left: 5rem;
+  height: 3rem;
+  width: 3rem;
   background-color: transparent;
   transition: 300ms;
+  z-index: 1;
 }
 
 .whatsapp_logo:hover {
@@ -124,4 +135,42 @@
   .whatsapp_logo {
     margin-right: 1rem;
   }
+}
+
+.carouselContainer {
+  /* max-width: 700px; */
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.carouselContainer > * {
+  padding: 1rem;
+}
+
+@media (max-width: 800px) {
+  .carouselContainer {
+    max-width: 700px;
+    flex-direction: column;
+    margin: auto;
+  }
+}
+
+.image-wrapper {
+  margin: auto;
+}
+.image-wrapper > img{
+  max-width: 450px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+@media (max-width: 600px) {
+  .image-wrapper > img{
+    max-width: 300px;
+  }
+}
+
+
+.productDetailContainer{
+  margin-top: 70px;
 }
