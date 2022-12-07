@@ -5,7 +5,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import FilterAltIcon from '@mui/icons-material/FilterAlt';
 import { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
-import { searchProducts } from "../redux/actions";
+import { searchProducts, setCategoryFilter } from "../redux/actions";
 import FilterButton from "./FilterButton";
 
 const Search = styled("div")(({ theme }) => ({
@@ -75,14 +75,6 @@ export default function SearchAppBar() {
             >
               <b>SE VENDE TUTTI !</b>
             </Typography>
-            {/* <img
-              className="whatsapp_logo"
-              src="/whatsapp-logo-11.png"
-              alt="whatsapp"
-              onClick={() =>
-                window.open("https://wa.me/5491155790833", "_blank")
-              }
-            /> */}
             <Search>
               <SearchIconWrapper>
                 <SearchIcon />
@@ -92,7 +84,10 @@ export default function SearchAppBar() {
                 inputProps={{ "aria-label": "search" }}
                 value={input}
                 name="inputSearch"
-                onChange={(e) => setInput(e.target.value)}
+                onChange={(e) => {
+                  setInput(e.target.value);
+                  dispatch(setCategoryFilter(""))
+                }}
               />
             </Search>
           </Toolbar>
