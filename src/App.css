@@ -167,12 +167,17 @@
   }
 }
 
+.carousel-root {
+  max-width: 600px;
+}
 .image-wrapper {
+  max-width: 400px;
   margin: auto;
 }
 .image-wrapper > img {
-  max-width: 450px;
-  object-fit: cover;
+  /* max-width: 450px; */
+  object-fit: contain;
+  max-height: 400px;
   border-radius: 4px;
 }
 @media (max-width: 600px) {

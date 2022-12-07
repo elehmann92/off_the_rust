@@ -26,6 +26,15 @@
       "price": 120000,
       "status": "Disponible",
       "images": ["Golon Urbana.jpeg"]
+    },
+    {
+      "id": 6,
+      "name": "Cómoda",
+      "categories": ["Muebles"],
+      "description": "Cómoda de madera de pinto macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
+      "price": 15000,
+      "status": "Disponible",
+      "images": ["Comoda1.jpg", "Comoda 2.jpg", "Comoda3.jpg", "Comoda4.jpg", "Comoda5.jpg" ]
     }
   ]
 }
