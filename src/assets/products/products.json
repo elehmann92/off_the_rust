@@ -7,7 +7,7 @@
       "description": "Cabezal multiválvula, apto para válvulas Schrader, Presta y Dunlop. Sirve para bicicletas, motos y autos. Incluye picos para pelotas e inflables. Tanto el tubo interior como exterior son de acero. Infla a 160psi. Incluye manómetro con lectura en bar y psi",
       "price": 4000,
       "status": "Disponible",
-      "images": ["inflador.jpeg"]
+      "images": ["inflador.jpg"]
     },
     {
       "id": 2,
@@ -25,8 +25,28 @@
       "description": "Bicicleta Golo Fixie Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano.",
       "price": 120000,
       "status": "Disponible",
-      "images": ["Golon Urbana.jpeg"]
+      "images": ["Golon Urbana.jpg"]
     },
+    {
+      "id": 4,
+      "name": "Cajonera",
+      "categories": ["Muebles"],
+      "description": "Cajonera chifonier de madera de pinto macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Incluye vidrio protector. Medidas: 40(fondo)x60(ancho)x90(alto)",
+      "price": 10000,
+      "status": "Disponible",
+      "images": ["cajonera 1.jpg"]
+    },
+
+    {
+      "id": 5,
+      "name": "Biblioteca",
+      "categories": ["Muebles"],
+      "description": "Biblioteca de madera de pinto macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
+      "price": 6000,
+      "status": "Disponible",
+      "images": ["Biblioteca 1.jpg"]
+    },
+
     {
       "id": 6,
       "name": "Cómoda",
@@ -34,7 +54,63 @@
       "description": "Cómoda de madera de pinto macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
       "price": 15000,
       "status": "Disponible",
-      "images": ["Comoda1.jpg", "Comoda 2.jpg", "Comoda3.jpg", "Comoda4.jpg", "Comoda5.jpg" ]
+      "images": [
+        "Comoda1.jpg",
+        "Comoda 2.jpg",
+        "Comoda3.jpg",
+        "Comoda4.jpg",
+        "Comoda5.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mesa + Sillas",
+      "categories": ["Muebles"],
+      "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
+      "price": 40000,
+      "status": "Disponible",
+      "images": [
+        "Mesa + sillas 1.jpg",
+        "Mesa + sillas2.jpg",
+        "Mesa + sillas3.jpg",
+        "Mesa + sillas4.jpg"
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Mesa",
+      "categories": ["Muebles"],
+      "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
+      "price": 12000,
+      "status": "Disponible",
+      "images": ["Mesa + sillas 1.jpg"]
+    },
+
+    {
+      "id": 9,
+      "name": "Mesas de Luz",
+      "categories": ["Muebles"],
+      "description": "JUEGO DE MESAS DE LUZ estilo escandinavas de madera de pinto macizo. Cuenta con dos cajones y un estante de 30 x 36 x 16 cm. Pintada en color blanco y barniz al agua. Incluye vidrio protector en tapa superior. Medidas: 30 (fondo) x40(ancho) x 75(alto).",
+      "price": 15000,
+      "status": "Disponible",
+      "images": [
+        "mesa de luz A 1.jpg",
+        "mesa de luz A 2.jpg",
+        "mesa de luz A3.jpg",
+        "mesa de luz B1.jpg",
+        "mesa de luz B2.jpg",
+        "mesa de luz B3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Puff Cajonera",
+      "categories": ["Muebles"],
+      "description": " Puff con tres cajones. Estructura de madera enchapada en color blanco. Medidas: 55 (fondo) x 40(ancho) x 45(alto).",
+      "price": 10000,
+      "status": "Disponible",
+      "images": ["puff cajones 1.jpg", "puff cajones2.jpg", "puff cajones3.jpg"]
     }
   ]
 }

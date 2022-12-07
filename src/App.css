@@ -170,8 +170,12 @@
 .carousel-root {
   max-width: 600px;
 }
+.react-carousel-slide {
+  height: 100%;
+  display: flex
+}
 .image-wrapper {
-  max-width: 400px;
+  /* max-width: 400px; */
   margin: auto;
 }
 .image-wrapper > img {
@@ -180,11 +184,11 @@
   max-height: 400px;
   border-radius: 4px;
 }
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .image-wrapper > img {
     max-width: 300px;
   }
-}
+} */
 
 .productDetailContainer {
   margin-top: 70px;
