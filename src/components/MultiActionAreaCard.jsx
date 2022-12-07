@@ -11,6 +11,7 @@ import {
   Modal,
 } from "@mui/material";
 import { useNavigate } from "react-router-dom";
+import AvailabilityLabel from "./availabilityLabel";
 
 const style = {
   position: "absolute",
@@ -45,7 +46,8 @@ export default function MultiActionAreaCard({ product }) {
             <Typography gutterBottom variant="h5" component="div">
               {product.name}
             </Typography>
-            <label className={product.status}>{product.status}</label>
+            <AvailabilityLabel product={product}/>
+            {/* <label className={product.status}>{product.status}</label> */}
             <Typography
               variant="body2"
               color="text.secondary"

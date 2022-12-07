@@ -1,5 +1,7 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel as ReactCarousel } from "react-responsive-carousel";
+import CategoryLabel from "./CategoryLabel";
+import AvailabilityLabel from "./availabilityLabel";
 // import img1 from "/ps41.jpg";
 // import img2 from "/ps42.jpg";
 
@@ -45,8 +47,15 @@ export const Carousel = ({ product }) => (
           </div>
         ))}
     </ReactCarousel>
-    <div>
+    <div className="descriptionContainer">
+      <AvailabilityLabel product={product}/>
       <h2>{product?.name}</h2>
+      <h3>$ {product?.price.toLocaleString("de-DE")}</h3>
+      <div className="categoryHolder">
+        {product?.categories.map((category) => (
+          <CategoryLabel key={category} category={category} />
+        ))}
+      </div>
       <p>{product?.description}</p>
     </div>
   </div>
