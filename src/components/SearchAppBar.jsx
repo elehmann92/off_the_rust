@@ -1,12 +1,20 @@
 import * as React from "react";
 import { styled, alpha } from "@mui/material/styles";
-import {AppBar, Box, Toolbar,IconButton ,Typography, InputBase} from "@mui/material"
+import {
+  AppBar,
+  Box,
+  Toolbar,
+  IconButton,
+  Typography,
+  InputBase,
+} from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
-import FilterAltIcon from '@mui/icons-material/FilterAlt';
+import FilterAltIcon from "@mui/icons-material/FilterAlt";
 import { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { searchProducts, setCategoryFilter } from "../redux/actions";
 import FilterButton from "./FilterButton";
+import { useNavigate } from "react-router-dom";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -53,6 +61,7 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 export default function SearchAppBar() {
   const [input, setInput] = useState("");
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   useEffect(() => {
     dispatch(searchProducts(input));
@@ -66,7 +75,7 @@ export default function SearchAppBar() {
           style={{ backgroundColor: "var(--primaryColor)" }}
         >
           <Toolbar>
-            <FilterButton/>
+            <FilterButton />
             <Typography
               variant="h6"
               noWrap
@@ -86,7 +95,11 @@ export default function SearchAppBar() {
                 name="inputSearch"
                 onChange={(e) => {
                   setInput(e.target.value);
-                  dispatch(setCategoryFilter(""))
+                  dispatch(setCategoryFilter(""));
+                }}
+                onClick={(e) => {
+                  window.location.pathname !== "/products" &&
+                    navigate("/products");
                 }}
               />
             </Search>

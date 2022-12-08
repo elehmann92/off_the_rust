@@ -1,19 +1,23 @@
 import React from "react";
 import { useState, useEffect } from "react";
+import { useDispatch } from "react-redux";
 import { useSelector } from "react-redux";
 import products from "../assets/products/products.json";
+import { setCategoryFilter } from "../redux/actions";
 import BackToTopButton from "./BackToTopButton";
 import MultiActionAreaCard from "./MultiActionAreaCard";
 
 function Cards() {
   const [backToTopButton, setBackToTopButton] = useState(false);
-  const { productsToDisplay } = useSelector((state) => state);
+  const { productsToDisplay, categoryFilter } = useSelector((state) => state);
+  const dispatch = useDispatch()
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
       setBackToTopButton(window.scrollY > 200);
     });
-  }, []);
+    dispatch(setCategoryFilter(categoryFilter))
+  }, [categoryFilter]);
 
   const scrollUp = () => {
     window.scrollTo({
