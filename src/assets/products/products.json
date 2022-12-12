@@ -70,10 +70,10 @@
       "price": 40000,
       "status": "Disponible",
       "images": [
-        "Mesa + sillas 1.jpg",
-        "Mesa + sillas2.jpg",
-        "Mesa + sillas3.jpg",
-        "Mesa + sillas4.jpg"
+        "MesaConSillas 1.jpg",
+        "MesaConSillas2.jpg",
+        "MesaConSillas3.jpg",
+        "MesaConSillas4.jpg"
       ]
     },
 
@@ -84,7 +84,7 @@
       "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
       "status": "Disponible",
-      "images": ["Mesa + sillas 1.jpg"]
+      "images": ["MesaConSillas 1.jpg"]
     },
 
     {
