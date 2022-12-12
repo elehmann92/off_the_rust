@@ -11,7 +11,7 @@ import {
   Modal,
 } from "@mui/material";
 import { useNavigate } from "react-router-dom";
-import AvailabilityLabel from "./availabilityLabel";
+import AvailabilityLabel from "./AvailabilityLabel";
 
 const style = {
   position: "absolute",
