@@ -6,7 +6,7 @@
       "categories": ["Herramientas", "Bicicletas"],
       "description": "Cabezal multiválvula, apto para válvulas Schrader, Presta y Dunlop. Sirve para bicicletas, motos y autos. Incluye picos para pelotas e inflables. Tanto el tubo interior como exterior son de acero. Infla a 160psi. Incluye manómetro con lectura en bar y psi",
       "price": 4000,
-      "status": "Vendido",
+      "status": "Disponible",
       "images": ["inflador.jpg"]
     },
     {
@@ -15,7 +15,7 @@
       "categories": ["Tecnología", "Consolas"],
       "description": "PS4 500 GB. 2 controles. Sin caja. 1 Consola Playstation 4 500GB. 2 Joysticks Inalambricos Originales. No incluye caja.",
       "price": 99000,
-      "status": "Reservado",
+      "status": "Disponible",
       "images": ["ps41.jpg", "ps42.jpg"]
     },
     {
