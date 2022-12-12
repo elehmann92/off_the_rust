@@ -1,7 +1,7 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel as ReactCarousel } from "react-responsive-carousel";
 import CategoryLabel from "./CategoryLabel";
-import AvailabilityLabel from "./availabilityLabel";
+import AvailabilityLabel from "./AvailabilityLabel";
 // import img1 from "/ps41.jpg";
 // import img2 from "/ps42.jpg";
 
