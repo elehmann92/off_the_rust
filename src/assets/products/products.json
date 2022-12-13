@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Bicicleta Golon Pista",
       "categories": ["Bicicletas"],
-      "description": "Bicicleta Golo Fixie Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano.",
+      "description": "Bicicleta Golon Fixie Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
       "status": "Disponible",
       "images": ["Golon Urbana.jpg"]
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "Cajonera",
       "categories": ["Muebles"],
-      "description": "Cajonera chifonier de madera de pinto macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Incluye vidrio protector. Medidas: 40(fondo)x60(ancho)x90(alto)",
+      "description": "Cajonera chifonier de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Incluye vidrio protector. Medidas: 40(fondo)x60(ancho)x90(alto)",
       "price": 10000,
       "status": "Disponible",
       "images": ["cajonera 1.jpg"]
@@ -65,7 +65,7 @@
     {
       "id": 7,
       "name": "Mesa + Sillas",
-      "categories": ["Muebles"],
+      "categories": ["Muebles", "Mesas", "Sillas"],
       "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
       "price": 40000,
       "status": "Disponible",
@@ -80,13 +80,27 @@
     {
       "id": 8,
       "name": "Mesa",
-      "categories": ["Muebles"],
+      "categories": ["Muebles", "Mesas"],
       "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
       "status": "Disponible",
-      "images": ["MesaConSillas 1.jpg"]
+      "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"]
     },
 
+    {
+      "id": 14,
+      "name": "Kit 4 sillas director",
+      "categories": ["Muebles", "Sillas"],
+      "description": "JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
+      "price": 32000,
+      "status": "Disponible",
+      "images": [
+        "silla_director1.jpeg",
+        "silla_director2.jpeg",
+        "silla_director3.jpeg",
+        "silla_director4.jpeg"
+      ]
+    },
     {
       "id": 9,
       "name": "Mesas de Luz",
@@ -111,6 +125,60 @@
       "price": 10000,
       "status": "Disponible",
       "images": ["puff cajones 1.jpg", "puff cajones2.jpg", "puff cajones3.jpg"]
+    },
+    {
+      "id": 11,
+      "name": "Adidas Ultraboost 22",
+      "categories": ["Calzado", "Indumentaria"],
+      "description": "Zapatillas Adidas Ultraboost 22. Talle 40 (US 8 1/2). Usadas.",
+      "price": 40000,
+      "status": "Disponible",
+      "images": [
+        "zapas_adidas_negras1.jpeg",
+        "zapas_adidas_negras2.jpeg",
+        "zapas_adidas_negras3.jpeg",
+        "zapas_adidas_negras4.jpeg",
+        "zapas_adidas_negras5.jpeg",
+        "zapas_adidas_negras6.jpeg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Colchón Inflable 1 plaza",
+      "categories": ["Colchones", "Camas"],
+      "description": "Colchón inflable reforzado de una plaza. Medidas 185 x 76 x 22 cm. Color azul.",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "colchon_inflable3.webp",
+        "colchon_inflable.jpeg",
+        "colchon_inflable2.jpeg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Kit Mancuernas + Colchoneta",
+      "categories": ["Fitness"],
+      "description": "Kit 2 mancuernas cromadas con ganchos de ajuste. Discos de hierro de fundición. Total 25 kgs en discos: 2 x 5 kg. + 4 x 2,5 kg. + 4 x 1,25 kg. Incluye colchoneta de yoga/abodominales medidas 100 x 50 x 4 cm. Relleno de espuma.",
+      "price": 12500,
+      "status": "Disponible",
+      "images": [
+        "colchoneta_y_pesas.jpeg",
+        "colchoneta_azul.jpeg",
+        "colchoneta_y_pesas2.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Zapatos Negros Sport - Zara",
+      "categories": ["Calzado", "Indumentaria"],
+      "description": "Zapatos Negros Sport Zara. Talle 40 AR (US 8 1/2). Cuerina negra con suela de goma blanca. Excelente estado.",
+      "price": 6000,
+      "status": "Disponible",
+      "images": [
+        "zapatos_sport.jpeg",
+        "zapatos_sport2.jpeg"
+      ]
     }
   ]
 }
