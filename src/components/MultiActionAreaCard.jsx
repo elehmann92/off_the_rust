@@ -27,7 +27,7 @@ const style = {
 };
 
 export default function MultiActionAreaCard({ product }) {
-  const navigate = useNavigate()
+  const navigate = useNavigate();
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -77,6 +77,15 @@ export default function MultiActionAreaCard({ product }) {
             <Typography id="modal-modal-description" sx={{ mt: 2 }}>
               {product.description}
             </Typography>
+            <img
+              className="whatsapp_logo"
+              src="/whatsapp-logo-11.png"
+              alt="whatsapp"
+              onClick={() =>
+                window.open("https://wa.me/5491155790833", "_blank")
+              }
+              style={{position:'fixed', top: "80%", left: "85%"}}
+            />
           </Box>
         </Modal>
       </Card>

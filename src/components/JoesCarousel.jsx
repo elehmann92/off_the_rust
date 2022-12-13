@@ -29,6 +29,7 @@ export const Carousel = ({ product }) => (
       showThumbs={false}
       swipeable={true}
       emulateTouch={true}
+      useKeyboardArrows={true}
     >
       {product?.images
         .map((image, ix) => {
