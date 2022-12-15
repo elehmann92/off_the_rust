@@ -3,7 +3,7 @@
     {
       "id": 24,
       "name": "Botines Adidas Futsal",
-      "categories": ["Deportes","Calzado","Indumentaria"],
+      "categories": ["Deportes", "Calzado", "Indumentaria"],
       "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
       "price": 15000,
       "status": "Disponible",
@@ -17,8 +17,7 @@
         "Adidas_sala_super7.jpeg",
         "Adidas_sala_super8.jpeg"
       ]
-    }
-    ,
+    },
     {
       "id": 1,
       "name": "Inflador Con Manómetro Bulit Serie 200 De Pie",
@@ -41,7 +40,7 @@
       "id": 3,
       "name": "Bicicleta Golon Pista",
       "categories": ["Bicicletas"],
-      "description": "Bicicleta Golon Fixie Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
+      "description": "Bicicleta Golon Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
       "status": "Disponible",
       "images": ["Golon Urbana.jpg"]
@@ -143,7 +142,11 @@
       "description": " Puff con tres cajones. Estructura de madera enchapada en color blanco. Medidas: 55 (fondo) x 40(ancho) x 45(alto).",
       "price": 10000,
       "status": "Disponible",
-      "images": ["puff cajones 1.jpg", "puff cajones2.jpg", "puff cajones3.jpg"]
+      "images": [
+        "puff cajones 3.jpg",
+        "puff cajones 1.jpg",
+        "puff cajones 2.jpg"
+      ]
     },
     {
       "id": 11,
@@ -194,10 +197,7 @@
       "description": "Zapatos Negros Sport Zara. Talle 40 AR (US 8 1/2). Cuerina negra con suela de goma blanca. Excelente estado.",
       "price": 6000,
       "status": "Disponible",
-      "images": [
-        "zapatos_sport.jpeg",
-        "zapatos_sport2.jpeg"
-      ]
+      "images": ["zapatos_sport.jpeg", "zapatos_sport2.jpeg"]
     },
     {
       "id": 16,
@@ -262,11 +262,7 @@
       "description": "Pava eléctrica de calentamiento binario (no gradual). Con capacidad para 1.7 litros. Corte automático una vez alcanzada temperatura de hervor. Posee indicador de nivel del agua. Tecnología y rapidez para tus infusiones.",
       "price": 3500,
       "status": "Disponible",
-      "images": [
-        "pava_bixler.webp",
-        "pava_bixler2.webp",
-        "pava_bixler3.webp"
-      ]
+      "images": ["pava_bixler.webp", "pava_bixler2.webp", "pava_bixler3.webp"]
     },
     {
       "id": 21,
@@ -275,10 +271,7 @@
       "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
       "price": 3500,
       "status": "Disponible",
-      "images": [
-        "Candado_U_exocet.webp",
-        "Candado_U_exocet2.webp"
-      ]
+      "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"]
     },
     {
       "id": 22,
@@ -301,9 +294,19 @@
       "description": "PALETA CLASS ONE EXTREME. -Componentes: fibra de vidrio. -Núcleo: goma eva. -Formato: circular. -Balance: medio, cercano al puño de la paleta.-Perfil: 38mm. Tiene algunos golpes.",
       "price": 7000,
       "status": "Disponible",
+      "images": ["Classone_extreme.webp", "Classone_extreme2.webp"]
+    },
+    {
+      "id": 25,
+      "name": "Velador Nórdico de Madera",
+      "categories": ["Iluminación", "Decoración"],
+      "description": "Excelente pieza de iluminación y decoración estilo nórdico, confeccionada en madera artesanalmente",
+      "price": 7500,
+      "status": "Disponible",
       "images": [
-        "Classone_extreme.webp",
-        "Classone_extreme2.webp"
+        "velador_nordico_1.jpeg",
+        "velador_nordico_2.jpeg",
+        "velador_nordico_3.jpeg"
       ]
     }
   ]
