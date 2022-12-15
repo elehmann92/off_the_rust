@@ -5,7 +5,7 @@ function BackToBackButton() {
   const navigate = useNavigate()
   return (
     <div>
-      <button onClick={() => navigate('/products')} className="back-to-back" title="Back to Back">
+      <button onClick={() => navigate(-1)} className="back-to-back" title="Back to Back">
         <img
           src="/arrow-up.svg"
           alt="Back to Back"
