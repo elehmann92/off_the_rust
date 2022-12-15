@@ -39,6 +39,7 @@ export default function MultiActionAreaCard({ product }) {
           <CardMedia
             component="img"
             height="350"
+            sx={{objectFit: "contain" }}
             image={`/${product.images[0]}`}
             alt={product.name}
           />
