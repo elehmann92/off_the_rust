@@ -1,6 +1,25 @@
 {
   "products": [
     {
+      "id": 24,
+      "name": "Botines Adidas Futsal",
+      "categories": ["Deportes","Calzado","Indumentaria"],
+      "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
+      "price": 15000,
+      "status": "Disponible",
+      "images": [
+        "Adidas_sala_super.webp",
+        "Adidas_sala_super2.webp",
+        "Adidas_sala_super3.webp",
+        "Adidas_sala_super4.webp",
+        "Adidas_sala_super5.webp",
+        "Adidas_sala_super6.webp",
+        "Adidas_sala_super7.jpeg",
+        "Adidas_sala_super8.jpeg"
+      ]
+    }
+    ,
+    {
       "id": 1,
       "name": "Inflador Con Manómetro Bulit Serie 200 De Pie",
       "categories": ["Herramientas", "Bicicletas"],
@@ -11,12 +30,12 @@
     },
     {
       "id": 2,
-      "name": "PS4 + 2 controles",
+      "name": "PS4 + 2 controles + 3 juegos",
       "categories": ["Tecnología", "Consolas"],
-      "description": "PS4 500 GB. 2 controles. Sin caja. 1 Consola Playstation 4 500GB. 2 Joysticks Inalambricos Originales. No incluye caja.",
+      "description": "PS4 500 GB. 2 controles. Sin caja. 1 Consola Playstation 4 500GB. 2 Joysticks Inalambricos Originales. No incluye caja. Incluye Juegos: Assassin's Creed Syndicate; Tom Clancy's The Division 1; Fifa 16",
       "price": 99000,
       "status": "Disponible",
-      "images": ["ps41.jpg", "ps42.jpg"]
+      "images": ["ps40.jpg"]
     },
     {
       "id": 3,
@@ -178,6 +197,113 @@
       "images": [
         "zapatos_sport.jpeg",
         "zapatos_sport2.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Soporte Pie Guitarra Bajo",
+      "categories": ["Instrumentos"],
+      "description": "SOPORTE ATRIL PARA GUITARRA, BAJO CUELLO BASE. Adecuado para guitarras eléctricas, acústicas y bajos. Fuerte tubo y el trípode con base de hierro antideslizantes tapas de goma. Grueso acolchado de goma para proteger su instrumento. Tope de seguridad superior para evitar caídas. Diseño totalmente plegable para el almacenamiento y transporte. Altura ajustable. Color negro",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "soporte_guitarra.webp",
+        "soporte_guitarra2.jpeg",
+        "soporte_guitarra.jpeg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pie Stagg Wis-a30 Para Saxo Alto / Tenor",
+      "categories": ["Instrumentos"],
+      "description": "Sirve tanto para Saxo Alto como para Saxo Tenor. Liviano y resistente. Tetones de goma antideslizantes. Caño hueco pintado de negro. Articulaciones con tornillos de acero y tuerca autofrenante. Soportes superior e inferior cubiertos con neoprene para no rayar el instrumento. Fácil de desarmar y transportar. De fácil adaptación para Alto / Tenor, mediante el soporte inferior que está tomado con una mariposa. Desmontable.",
+      "price": 4000,
+      "status": "Disponible",
+      "images": [
+        "soporte_saxo.webp",
+        "soporte_saxo6.webp",
+        "soporte_saxo4.webp",
+        "soporte_saxo5.webp",
+        "soporte_saxo.jpeg",
+        "soporte_saxo2.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Tostadora TOP HOUSE Ks2006 750 W Blanco",
+      "categories": ["Electrodomésticos"],
+      "description": "Tostadora TOP HOUSE Ks2006, Con Cuerpo De Plástico Y Ranuras En Acero Inoxidable, Tiene Un Botón De Detención Que Corta Con El Proceso De Tostado Sin Necesidad De Completar El Ciclo. Potencia 750W. 7 niveles de tostado. Origen China.",
+      "price": 3000,
+      "status": "Disponible",
+      "images": [
+        "tostadora_tophouse.jpg",
+        "tostadora_tophouse2.jpg",
+        "tostadora_tophouse3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Dolce Gusto Piccolo XS",
+      "categories": ["Electrodomésticos"],
+      "description": "Cafetera Nescafé Moulinex Dolce Gusto Piccolo XS de corte manual black para cápsulas monodosis 220V. Color negro. Para cápsulas monodosis. Carga 0,8 litros. Potencia 1340 W. Capsulas compatibles: Dolce Gusto. Tiene un pequeño desperfecto que no altera la extracción del café y es resolvible con cambio de repuestos.",
+      "price": 12000,
+      "status": "Disponible",
+      "images": [
+        "dolce_gusto1.webp",
+        "dolce_gusto2.webp",
+        "dolce_gusto3.webp",
+        "dolce_gusto4.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pava eléctrica Bixler PEB-03A blanca y roja 220V 1.7L",
+      "categories": ["Electrodomésticos"],
+      "description": "Pava eléctrica de calentamiento binario (no gradual). Con capacidad para 1.7 litros. Corte automático una vez alcanzada temperatura de hervor. Posee indicador de nivel del agua. Tecnología y rapidez para tus infusiones.",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "pava_bixler.webp",
+        "pava_bixler2.webp",
+        "pava_bixler3.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Candado Exocet Traba U Std 320 P/ Bicicletas o Motos.",
+      "categories": ["Bicicletas"],
+      "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "Candado_U_exocet.webp",
+        "Candado_U_exocet2.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Smartband Xiaomi Mi Band 4",
+      "categories": ["Tecnología"],
+      "description": "** NO INCLUYE CORREA (se consigue fácil en ML) ** Xiaomi Mi Band 4 Pulsera de Actividad,Monitores de Actividad,Pantalla Pulsómetro Fitness Tracker, Pulsera Smartwatch con 0.95 Pantalla AMOLED a Color,con iOS y Android,Negro(Versión Global). Bluetooth 5.0, acelerómetro, giroscopio, sensor de frecuencia cardíaca PPG, sensor de proximidad. Pantalla 0,95 pulgadas amoled 120 x 240 px. 24 bit, 400 nits. Peso 22,1 g. 135 mAh LiPo. En uso normal dura aprox 10 / 15 días. Puede durar hasta 25 con funcionalidades acotadas. IP68, sumergible 5atm (hasta 50 metros). Opera con la aplicación Mi Fit",
+      "price": 4000,
+      "status": "Disponible",
+      "images": [
+        "xiaomi_miband4.webp",
+        "xiaomi_miband41.webp",
+        "xiaomi_miband42.webp",
+        "xiaomi_miband43.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Paleta Paddle Padel Class One Extreme",
+      "categories": ["Deportes"],
+      "description": "PALETA CLASS ONE EXTREME. -Componentes: fibra de vidrio. -Núcleo: goma eva. -Formato: circular. -Balance: medio, cercano al puño de la paleta.-Perfil: 38mm. Tiene algunos golpes.",
+      "price": 7000,
+      "status": "Disponible",
+      "images": [
+        "Classone_extreme.webp",
+        "Classone_extreme2.webp"
       ]
     }
   ]
