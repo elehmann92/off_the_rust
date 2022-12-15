@@ -3,7 +3,7 @@
     {
       "id": 24,
       "name": "Botines Adidas Futsal",
-      "categories": ["Deportes", "Calzado", "Indumentaria"],
+      "categories": ["Indumentaria"],
       "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
       "price": 15000,
       "status": "Disponible",
@@ -21,7 +21,7 @@
     {
       "id": 1,
       "name": "Inflador Con Manómetro Bulit Serie 200 De Pie",
-      "categories": ["Herramientas", "Bicicletas"],
+      "categories": ["Bici y Accesorios"],
       "description": "Cabezal multiválvula, apto para válvulas Schrader, Presta y Dunlop. Sirve para bicicletas, motos y autos. Incluye picos para pelotas e inflables. Tanto el tubo interior como exterior son de acero. Infla a 160psi. Incluye manómetro con lectura en bar y psi",
       "price": 4000,
       "status": "Disponible",
@@ -30,7 +30,7 @@
     {
       "id": 2,
       "name": "PS4 + 2 controles + 3 juegos",
-      "categories": ["Tecnología", "Consolas"],
+      "categories": ["Tecnología"],
       "description": "PS4 500 GB. 2 controles. Sin caja. 1 Consola Playstation 4 500GB. 2 Joysticks Inalambricos Originales. No incluye caja. Incluye Juegos: Assassin's Creed Syndicate; Tom Clancy's The Division 1; Fifa 16",
       "price": 99000,
       "status": "Disponible",
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "name": "Bicicleta Golon Pista",
-      "categories": ["Bicicletas"],
+      "categories": ["Bici y Accesorios"],
       "description": "Bicicleta Golon Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
       "status": "Disponible",
@@ -83,7 +83,7 @@
     {
       "id": 7,
       "name": "Mesa + Sillas",
-      "categories": ["Muebles", "Mesas", "Sillas"],
+      "categories": ["Muebles"],
       "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
       "price": 40000,
       "status": "Disponible",
@@ -98,7 +98,7 @@
     {
       "id": 8,
       "name": "Mesa",
-      "categories": ["Muebles", "Mesas"],
+      "categories": ["Muebles"],
       "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
       "status": "Disponible",
@@ -108,7 +108,7 @@
     {
       "id": 14,
       "name": "Kit 4 sillas director",
-      "categories": ["Muebles", "Sillas"],
+      "categories": ["Muebles"],
       "description": "JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
       "price": 32000,
       "status": "Disponible",
@@ -151,7 +151,7 @@
     {
       "id": 11,
       "name": "Adidas Ultraboost 22",
-      "categories": ["Calzado", "Indumentaria"],
+      "categories": ["Indumentaria"],
       "description": "Zapatillas Adidas Ultraboost 22. Talle 40 (US 8 1/2). Usadas.",
       "price": 40000,
       "status": "Disponible",
@@ -167,7 +167,7 @@
     {
       "id": 12,
       "name": "Colchón Inflable 1 plaza",
-      "categories": ["Colchones", "Camas"],
+      "categories": ["Camas"],
       "description": "Colchón inflable reforzado de una plaza. Medidas 185 x 76 x 22 cm. Color azul.",
       "price": 3500,
       "status": "Disponible",
@@ -180,7 +180,7 @@
     {
       "id": 13,
       "name": "Kit Mancuernas + Colchoneta",
-      "categories": ["Fitness"],
+      "categories": ["Deportes y Fitness"],
       "description": "Kit 2 mancuernas cromadas con ganchos de ajuste. Discos de hierro de fundición. Total 25 kgs en discos: 2 x 5 kg. + 4 x 2,5 kg. + 4 x 1,25 kg. Incluye colchoneta de yoga/abodominales medidas 100 x 50 x 4 cm. Relleno de espuma.",
       "price": 12500,
       "status": "Disponible",
@@ -193,7 +193,7 @@
     {
       "id": 15,
       "name": "Zapatos Negros Sport - Zara",
-      "categories": ["Calzado", "Indumentaria"],
+      "categories": ["Indumentaria"],
       "description": "Zapatos Negros Sport Zara. Talle 40 AR (US 8 1/2). Cuerina negra con suela de goma blanca. Excelente estado.",
       "price": 6000,
       "status": "Disponible",
@@ -267,7 +267,7 @@
     {
       "id": 21,
       "name": "Candado Exocet Traba U Std 320 P/ Bicicletas o Motos.",
-      "categories": ["Bicicletas"],
+      "categories": ["Bici y Accesorios"],
       "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
       "price": 3500,
       "status": "Disponible",
@@ -290,7 +290,7 @@
     {
       "id": 23,
       "name": "Paleta Paddle Padel Class One Extreme",
-      "categories": ["Deportes"],
+      "categories": ["Deportes y Fitness"],
       "description": "PALETA CLASS ONE EXTREME. -Componentes: fibra de vidrio. -Núcleo: goma eva. -Formato: circular. -Balance: medio, cercano al puño de la paleta.-Perfil: 38mm. Tiene algunos golpes.",
       "price": 7000,
       "status": "Disponible",
@@ -299,7 +299,7 @@
     {
       "id": 25,
       "name": "Velador Nórdico de Madera",
-      "categories": ["Iluminación", "Decoración"],
+      "categories": ["Deco"],
       "description": "Excelente pieza de iluminación y decoración estilo nórdico, confeccionada en madera artesanalmente",
       "price": 7500,
       "status": "Disponible",
