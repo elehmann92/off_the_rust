@@ -14,6 +14,13 @@ products.forEach((product) =>
 
 const initialState = {
   allProducts: products.filter((product) => product.status !== "Vendido"),
+  totalUploaded: products.reduce((acc, ele) => (acc += ele.price), 0),
+  totalAvailable: products
+    .filter((product) => product.status !== "Vendido")
+    .reduce((acc, ele) => (acc += ele.price),0),
+  totalSold: products
+  .filter((product) => product.status === "Vendido")
+  .reduce((acc, ele) => (acc += ele.price),0),
   productsToDisplay: [],
   singleProduct: null,
   categories: categories.sort(),
@@ -46,9 +53,10 @@ export default (state = initialState, { type, payload }) => {
     case GET_SINGLE_PRODUCT: {
       return {
         ...stateCopy,
-        singleProduct: stateCopy.allProducts.find(
-          (product) => product.id === parseInt(payload)
-        ) || null,
+        singleProduct:
+          stateCopy.allProducts.find(
+            (product) => product.id === parseInt(payload)
+          ) || null,
       };
     }
     default:
