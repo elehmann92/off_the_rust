@@ -589,6 +589,84 @@
         "copas_tirabuzon.jpeg",
         "copas_tirabuzon2.jpeg"
       ]
+    },
+    {
+      "id": 48,
+      "name": "Maceta Floreada Redonda",
+      "categories": ["Deco"],
+      "description": "Maceta de cerámica esmaltada. Motivos floreados. Medidas 13 x 8 cm",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "maceta_floreada_1.jpeg",
+        "maceta_floreada_2.jpeg"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Maceta Floreada Cúbica",
+      "categories": ["Deco"],
+      "description": "Maceta de cerámica esmaltada. Formato cúbico. Motivos floreados. Medidas 13 x 13 x 12 cm",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "maceta_floreada_B_1.jpeg",
+        "maceta_floreada_B_2.jpeg"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Maceta Cilíndrica",
+      "categories": ["Deco"],
+      "description": "Maceta de cerámica esmaltada. Formato cilíndrico. Medidas 13 x 12 cm",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "maceta_decorada_1.jpeg",
+        "maceta_decorada_2.jpeg"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Maceta Negra",
+      "categories": ["Deco"],
+      "description": "Maceta de cerámica bombé. Color negro. Medidas 15 x 15 cm",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "maceta_negra_1.jpeg",
+        "maceta_negra_2.jpeg"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Sillones Mimbre Exterior x 2",
+      "categories": ["Muebles"],
+      "description": "Juego de 2 sillones de mimbre para exterior con almohadón. Medidas 60 x 70 x 85 (ancho x largo x alto). Altura del asiento: 43 cm.",
+      "price": 30000,
+      "status": "Disponible",
+      "images": [
+        "sillon_exterior_1.jpeg",
+        "sillon_exterior_2.jpeg"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Set Cuchillos de Queso Laguiole",
+      "categories": ["Muebles"],
+      "description": "Set de queso de diseño francés con 3 cuchillos de distintos tamaños. Presentado en una cuna de madera que del dorso puede usarse de tabla. Packaging: caja rígida de cartón laminada, con ventana de cristal PVC. Producto aprobado por el I.N.A.L. para el contacto con alimentos. Medidas de la tabla: 28 x 12 x 2 cm. Marca Laguiole",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "laguiole_1.jpg",
+        "laguiole_2.jpg",
+        "laguiole_3.jpg",
+        "laguiole_4.png",
+        "laguiole_5.jpg",
+        "laguiole_6.jpg",
+        "laguiole_7.jpg",
+        "laguiole_8.jpg"
+      ]
     }
   ]
 }
