@@ -714,6 +714,23 @@
         "plafon_esmerilado_2.jpg",
         "plafon_esmerilado_3.jpg"
       ]
+    },
+    {
+      "id": 57,
+      "name": "Aspiradora Nex Ciclónica 1200 1.2l",
+      "categories": ["Electrodomésticos"],
+      "description": "Marca NEX. Aspiradora Trineo sin Bolsa Nex con potencia de 1200W y  capacidad de 1,2 Litros. Cuenta con un cable de 4 metros, tubo de plástico, cepillo para piso y boquilla para ranuras. Posee un Filtro Hepa. Control de velocidad y cable retráctil. ",
+      "price": 10000,
+      "status": "Disponible",
+      "images": [
+        "aspiradora_nex_1.jpg",
+        "aspiradora_nex_2.webp",
+        "aspiradora_nex_3.webp",
+        "aspiradora_nex_4.jpeg",
+        "aspiradora_nex_5.jpeg",
+        "aspiradora_nex_6.jpeg",
+        "aspiradora_nex_7.jpeg"
+      ]
     }
   ]
 }
