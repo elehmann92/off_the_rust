@@ -234,7 +234,7 @@
       "categories": ["Electrodomésticos"],
       "description": "Tostadora TOP HOUSE Ks2006, Con Cuerpo De Plástico Y Ranuras En Acero Inoxidable, Tiene Un Botón De Detención Que Corta Con El Proceso De Tostado Sin Necesidad De Completar El Ciclo. Potencia 750W. 7 niveles de tostado. Origen China.",
       "price": 3000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "tostadora_tophouse.jpg",
         "tostadora_tophouse2.jpg",
@@ -608,7 +608,7 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Formato cúbico. Motivos floreados. Medidas 13 x 13 x 12 cm",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "maceta_floreada_B_1.jpeg",
         "maceta_floreada_B_2.jpeg"
@@ -620,7 +620,7 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Formato cilíndrico. Medidas 13 x 12 cm",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "maceta_decorada_1.jpeg",
         "maceta_decorada_2.jpeg"
