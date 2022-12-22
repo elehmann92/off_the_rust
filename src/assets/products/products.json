@@ -205,7 +205,7 @@
       "categories": ["Instrumentos"],
       "description": "SOPORTE ATRIL PARA GUITARRA, BAJO CUELLO BASE. Adecuado para guitarras eléctricas, acústicas y bajos. Fuerte tubo y el trípode con base de hierro antideslizantes tapas de goma. Grueso acolchado de goma para proteger su instrumento. Tope de seguridad superior para evitar caídas. Diseño totalmente plegable para el almacenamiento y transporte. Altura ajustable. Color negro",
       "price": 3500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "soporte_guitarra.webp",
         "soporte_guitarra2.jpeg",
@@ -535,7 +535,7 @@
       "id": 43,
       "name": "Hornito Aromático a vela 2",
       "categories": ["Deco"],
-      "description": "Hornito aromático a vela de cerámica. Acabado brillante exterior",
+      "description": "Hornito aromático a vela de cerámica. Acabado brillante exterior. Marca The Candle Shop",
       "price": 1200,
       "status": "Disponible",
       "images": [
@@ -584,7 +584,7 @@
       "categories": ["Cocina"],
       "description": "Juego de 5 copas de vidrio con detalles. Estilo tallo antiguo victoriano. Capacidad 140ml",
       "price": 3500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "copas_tirabuzon.jpeg",
         "copas_tirabuzon2.jpeg"
@@ -721,7 +721,7 @@
       "categories": ["Electrodomésticos"],
       "description": "Marca NEX. Aspiradora Trineo sin Bolsa Nex con potencia de 1200W y  capacidad de 1,2 Litros. Cuenta con un cable de 4 metros, tubo de plástico, cepillo para piso y boquilla para ranuras. Posee un Filtro Hepa. Control de velocidad y cable retráctil. ",
       "price": 10000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "aspiradora_nex_1.jpg",
         "aspiradora_nex_2.webp",
