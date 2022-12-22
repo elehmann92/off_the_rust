@@ -3,7 +3,7 @@
     {
       "id": 24,
       "name": "Botines Adidas Futsal",
-      "categories": ["Indumentaria"],
+      "categories": ["Indumentaria","Deportes y Fitness"],
       "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
       "price": 15000,
       "status": "Disponible",
@@ -69,12 +69,12 @@
       "id": 6,
       "name": "Cómoda",
       "categories": ["Muebles"],
-      "description": "Cómoda de madera de pinto macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
+      "description": "Cómoda de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior esmalte en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
       "price": 15000,
       "status": "Disponible",
       "images": [
-        "Comoda1.jpg",
         "Comoda 2.jpg",
+        "Comoda1.jpg",
         "Comoda3.jpg",
         "Comoda4.jpg",
         "Comoda5.jpg"
@@ -84,7 +84,7 @@
       "id": 7,
       "name": "Mesa + Sillas",
       "categories": ["Muebles"],
-      "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
+      "description": "MESA estilo escandinava de madera de pino macizo. Pintada en esmalte blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
       "price": 40000,
       "status": "Disponible",
       "images": [
@@ -99,7 +99,7 @@
       "id": 8,
       "name": "Mesa",
       "categories": ["Muebles"],
-      "description": "MESA estilo escandinava de madera de pinto macizo. Pintada en color blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
+      "description": "MESA estilo escandinava de madera de pino macizo. Pintada en esmalte blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
       "status": "Disponible",
       "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"]
@@ -109,7 +109,7 @@
       "id": 9,
       "name": "Mesas de Luz",
       "categories": ["Muebles"],
-      "description": "JUEGO DE MESAS DE LUZ estilo escandinavas de madera de pinto macizo. Cuenta con dos cajones y un estante de 30 x 36 x 16 cm. Pintada en color blanco y barniz al agua. Incluye vidrio protector en tapa superior. Medidas: 30 (fondo) x40(ancho) x 75(alto).",
+      "description": "JUEGO DE MESAS DE LUZ estilo escandinavas de madera de pino macizo. Cuenta con dos cajones y un estante de 30 x 36 x 16 cm. Pintada en esmalte blanco y barniz al agua. Incluye vidrio protector en tapa superior. Medidas: 30 (fondo) x40(ancho) x 75(alto).",
       "price": 15000,
       "status": "Disponible",
       "images": [
@@ -666,6 +666,53 @@
         "laguiole_6.jpg",
         "laguiole_7.jpg",
         "laguiole_8.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Set Fuentes vidrio para horno x 4",
+      "categories": ["Cocina"],
+      "description": "Juego de 4 fuentes de distintas medidas. Todas de vidrio templado apto para horno y microondas. Grande: 40 x 23 x 5 cm. Mediana cuadrada: 30 x 25 x 7 cm. Mediana rectangular: 30 x 17 x 5 cm. Budinera: 26,5 x 13 x 7,5 cm.",
+      "price": 5500,
+      "status": "Disponible",
+      "images": [
+        "fuentes_vidrio_2.jpeg",
+        "fuentes_vidrio_1.jpeg",
+        "fuentes_vidrio_3.jpeg",
+        "fuentes_vidrio_4.jpeg",
+        "fuentes_vidrio_5.jpeg",
+        "fuentes_vidrio_6.jpeg",
+        "fuentes_vidrio_7.jpeg",
+        "fuentes_vidrio_8.jpeg",
+        "fuentes_vidrio_9.jpeg",
+        "fuentes_vidrio_10.jpeg"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Zapatos London Cuero Negro Talle 38 - Luciano Marra",
+      "categories": ["Indumentaria"],
+      "description": "Stiletto de cuero vacuno color negro, con forro interno de cuero ecológico. Fondo de suela color negro. Taco aguja de 12,5 cm de alto y plataforma interna de 3,5 cm de alto. Marca Luciano Marra. Modelo London Cuero Negro",
+      "price": 5000,
+      "status": "Disponible",
+      "images": [
+        "Zapatos taco 0.jpg",
+        "Zapatos taco 3.jpg",
+        "Zapatos taco 1.jpg",
+        "Zapatos taco 2.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Plafón Cuadrado Vidrio Esmerilado 25x25cm",
+      "categories": ["Deco"],
+      "description": "Plafón Cuadrado Vidrio Esmerilado 25x25cm. Zócalo E-27. Medidas L25xA25 cm.",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "plafon_esmerilado_1.jpg",
+        "plafon_esmerilado_2.jpg",
+        "plafon_esmerilado_3.jpg"
       ]
     }
   ]
