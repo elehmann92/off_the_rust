@@ -59,7 +59,7 @@
       "id": 5,
       "name": "Biblioteca",
       "categories": ["Muebles"],
-      "description": "Biblioteca de madera de pinto macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
+      "description": "Biblioteca de madera de pino macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
       "price": 6000,
       "status": "Disponible",
       "images": ["biblioteca.jpeg", "biblioteca2.jpeg"]
@@ -238,7 +238,10 @@
       "images": [
         "tostadora_tophouse.jpg",
         "tostadora_tophouse2.jpg",
-        "tostadora_tophouse3.jpg"
+        "tostadora_tophouse3.jpg",
+        "tostadora_tophouse4.jpg",
+        "tostadora_tophouse5.jpg",
+        "tostadora_tophouse6.jpg"
       ]
     },
     {
@@ -252,7 +255,10 @@
         "dolce_gusto1.webp",
         "dolce_gusto2.webp",
         "dolce_gusto3.webp",
-        "dolce_gusto4.webp"
+        "dolce_gusto4.webp",
+        "dolce_gusto5.jpeg",
+        "dolce_gusto6.jpeg",
+        "dolce_gusto7.jpeg"
       ]
     },
     {
@@ -262,7 +268,13 @@
       "description": "Pava eléctrica de calentamiento binario (no gradual). Con capacidad para 1.7 litros. Corte automático una vez alcanzada temperatura de hervor. Posee indicador de nivel del agua. Tecnología y rapidez para tus infusiones.",
       "price": 3500,
       "status": "Disponible",
-      "images": ["pava_bixler.webp", "pava_bixler2.webp", "pava_bixler3.webp"]
+      "images": ["pava_bixler.webp",
+      "pava_bixler2.webp",
+      "pava_bixler3.webp",
+      "pava_bixler4.jpeg",
+      "pava_bixler5.jpeg",
+      "pava_bixler6.jpeg"
+    ]
     },
     {
       "id": 21,
@@ -377,6 +389,132 @@
         "Phillips_40PFG5000_1.webp",
         "Phillips_40PFG5000_2.webp",
         "Phillips_40PFG5000_3.webp"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Bowls Cerámica decorada x 2",
+      "categories": ["Cocina"],
+      "description": "Bowls de cerámica pintada x 2 unidades. Copetinero. Diámetro 12cm. 6cm alto",
+      "price": 2000,
+      "status": "Disponible",
+      "images": ["bowlcitos_ceramica.jpeg", "bowlcitos_ceramica_2.jpeg"]
+    },
+    {
+      "id": 32,
+      "name": "Bowls Cerámica lisa x 2",
+      "categories": ["Cocina"],
+      "description": "Bowls de cerámica lisa x 2 unidades. Sopero. Diámetro 15cm. 7cm alto",
+      "price": 2000,
+      "status": "Disponible",
+      "images": ["juego_bowls_ceramica.jpeg", "bowls_ceramica_2.jpeg"]
+    },
+    {
+      "id": 33,
+      "name": "Platos playos grandes x 10",
+      "categories": ["Cocina"],
+      "description": "Juego de 10 platos playos. Cerámica. 25 cm diámetro",
+      "price": 8000,
+      "status": "Disponible",
+      "images": ["platos_grandes_1.jpeg", "platos_grandes_2.jpeg"]
+    },
+    {
+      "id": 34,
+      "name": "Platos playos chicos x 5",
+      "categories": ["Cocina"],
+      "description": "Juego de 5 platos playos. Cerámica. 20 cm diámetro",
+      "price": 3500,
+      "status": "Disponible",
+      "images": ["platos chicos.jpeg", "platos chicos_2.jpeg"]
+    },
+    {
+      "id": 35,
+      "name": "Platos Hondos soperos x 7 u.",
+      "categories": ["Cocina"],
+      "description": "Juego de 7 platos hondos soperos. Distitos colores. Cerámica. 16 cm diámetro x 5cm alto",
+      "price": 5000,
+      "status": "Disponible",
+      "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"]
+    },
+    {
+      "id": 36,
+      "name": "Tetera Inside Tea Connection",
+      "categories": ["Cocina"],
+      "description": "Juego de Té. Compuesto por tetera, reloj de arena medidor y cuchara de madera. Tetera con manija de cuero. Volumen 500 ml.",
+      "price": 5000,
+      "status": "Disponible",
+      "images": [
+        "juego_de_te_3.jpeg",
+        "juego_de_te.jpeg",
+        "juego_de_te_2.jpeg",
+        "juego_de_te_4.jpeg"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Juego Salseras / Diperas",
+      "categories": ["Cocina"],
+      "description": "Juego de 3 dipperas / salseras de cerámica. 2 de 22 x 6 + 1 de 13 x 6.",
+      "price": 2000,
+      "status": "Disponible",
+      "images": ["juego de picada.jpeg", "juego de picada_2.jpeg"]
+    },
+    {
+      "id": 38,
+      "name": "Juego Frascos de Vidrio Herméticos",
+      "categories": ["Cocina"],
+      "description": "Juego de 6 frascos de vidrio con cierre hermético. 2 chicos + 4 grandes. Tamaño chico: 17 x 10. Tamaño grande: 22 x 10",
+      "price": 4000,
+      "status": "Disponible",
+      "images": [
+        "juego_frascos_vidrio.jpeg",
+        "juego_frascos_vidrio_2.jpeg",
+        "juego_frascos_vidrio_3.jpeg",
+        "juego_frascos_vidrio_4.jpeg",
+        "juego_frascos_vidrio_5.jpeg"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Tostadora Sandwichera Wafflera Grill Tophouse",
+      "categories": ["Electrodomésticos"],
+      "description": "SANDWICHERA WAFFLERA Y GRILL 3 EN 1. Marca Tophouse. Modelo LW-616N. 220V. Sirve para preparar tostados y waffles! PLACAS INTERCAMBIABLES ANTIADHERENTE.",
+      "price": 6500,
+      "status": "Disponible",
+      "images": [
+        "sandwitchera_tophouse.webp",
+        "tostadora_sandwitchera.jpeg",
+        "tostadora_sandwitchera_2.jpeg",
+        "tostadora_sandwitchera_3.jpeg"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Purificador PSA Senior 3",
+      "categories": ["Cocina"],
+      "description": "Purificador de agua marca PSA con 6 filtros. 6 meses de uso. Es muy simple, la unidad PSA Senior 3 ha sido pensada para conectarse con facilidad al agua de red bacteriológicamente segura, sin necesidad de herramientas especiales ni de realizar perforaciones. Garantia / vida útil: 36 meses.",
+      "price": 17000,
+      "status": "Disponible",
+      "images": [
+        "filtro_psa_4.webp",
+        "filtro_psa_1.jpeg",
+        "filtro_psa_2.jpeg",
+        "filtro_psa_3.png",
+        "filtro_psa_5.jpeg"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Vasos De Whisky Cristal 'Mareado' x 2",
+      "categories": ["Cocina"],
+      "description": "Juego de 2 vasos de Whisky de cristal con base esférica. Capacidad 400ml. Diámetro de la boca 9cm. Altura 10cm. No contiene plomo. Corte en frio. Base esférica.",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "vaso_whisky_wolf_2.webp",
+        "vaso_whisky_wolf_3.webp",
+        "vaso_whisky_wolf_4.webp",
+        "vasos_whisky_wolf.jpeg"
       ]
     }
   ]
