@@ -516,6 +516,79 @@
         "vaso_whisky_wolf_4.webp",
         "vasos_whisky_wolf.jpeg"
       ]
+    },
+    {
+      "id": 42,
+      "name": "Hornito Aromático a vela 1",
+      "categories": ["Deco"],
+      "description": "Hornito aromático a vela de cerámica. Acabado mate exterior",
+      "price": 1200,
+      "status": "Disponible",
+      "images": [
+        "vela_hornito_b_1.jpeg",
+        "vela_hornito_b_2.jpeg",
+        "vela_hornito_b_3.jpeg",
+        "vela_hornito_b_4.jpeg"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Hornito Aromático a vela 2",
+      "categories": ["Deco"],
+      "description": "Hornito aromático a vela de cerámica. Acabado brillante exterior",
+      "price": 1200,
+      "status": "Disponible",
+      "images": [
+        "vela_hornito_1.jpeg",
+        "vela_hornito_2.jpeg"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Frascos Azucareros Cerámica x 2",
+      "categories": ["Cocina"],
+      "description": "Tarros azucareros pequeños x 2 unidades. Cerámica pintada. Diámetro 9cm. Altura 14cm (con tapa). Cierre hermético de goma.",
+      "price": 2000,
+      "status": "Disponible",
+      "images": [
+        "frasquitos_floreados_1.jpeg",
+        "frasquitos_floreados_2.jpeg"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Frascos de cerámica x 2",
+      "categories": ["Cocina"],
+      "description": "Frascos de cerámica x 2 unidades. Motivos Harina y Café. Tapa de madera con cierre hermético de goma. Medida chica: 11 x 12. Medida grande 16 x 12.",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "fracos_ceramica_madera_1.jpeg"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Compoteras forma manzana x 6",
+      "categories": ["Cocina"],
+      "description": "Juego de 6 compoteras con forma de manzana. Material vidrio templado. Apto microondas.",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "compotera_manzana.jpeg",
+        "compotera_manzana2.jpeg"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Copas de vidrio estilo tallo antiguo x 5 u.",
+      "categories": ["Cocina"],
+      "description": "Juego de 5 copas de vidrio con detalles. Estilo tallo antiguo victoriano. Capacidad 140ml",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "copas_tirabuzon.jpeg",
+        "copas_tirabuzon2.jpeg"
+      ]
     }
   ]
 }
