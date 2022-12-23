@@ -5,6 +5,7 @@ specifiers:
   '@emotion/styled': ^11.10.5
   '@mui/icons-material': ^5.10.16
   '@mui/material': ^5.10.16
+  '@mui/x-data-grid': ^5.17.16
   '@types/react': ^18.0.24
   '@types/react-dom': ^18.0.8
   '@vitejs/plugin-react': ^2.2.0
@@ -25,6 +26,7 @@ dependencies:
   '@emotion/styled': 11.10.5_qvatmowesywn4ye42qoh247szu
   '@mui/icons-material': 5.10.16_zzl2rsknh5hqp4j37lz5gcfppu
   '@mui/material': 5.10.16_lskpmcsdi7ipu6qpuapyu56ihm
+  '@mui/x-data-grid': 5.17.16_gdf3iu2ggqrklttzrxe7wuxlzu
   dotenv: 16.0.3
   pure-react-carousel: 1.30.1_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
@@ -674,6 +676,25 @@ packages:
       prop-types: 15.8.1
       react: 18.2.0
       react-is: 18.2.0
+    dev: false
+
+  /@mui/x-data-grid/5.17.16_gdf3iu2ggqrklttzrxe7wuxlzu:
+    resolution: {integrity: sha512-tzgjvO0DgiYWqU9soM6ORurtOrNsqpmdRxIjqJguLHxs2nP5hyhGEDRaHQIfEPv9eXNl9QL3kBO3VfgaFS5NPg==}
+    engines: {node: '>=12.0.0'}
+    peerDependencies:
+      '@mui/material': ^5.4.1
+      '@mui/system': ^5.4.1
+      react: ^17.0.2 || ^18.0.0
+      react-dom: ^17.0.2 || ^18.0.0
+    dependencies:
+      '@babel/runtime': 7.20.6
+      '@mui/material': 5.10.16_lskpmcsdi7ipu6qpuapyu56ihm
+      '@mui/utils': 5.10.16_react@18.2.0
+      clsx: 1.2.1
+      prop-types: 15.8.1
+      react: 18.2.0
+      react-dom: 18.2.0_react@18.2.0
+      reselect: 4.1.7
     dev: false
 
   /@popperjs/core/2.11.6:
@@ -1418,6 +1439,10 @@ packages:
 
   /regenerator-runtime/0.13.11:
     resolution: {integrity: sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==}
+    dev: false
+
+  /reselect/4.1.7:
+    resolution: {integrity: sha512-Zu1xbUt3/OPwsXL46hvOOoQrap2azE7ZQbokq61BQfiXvhewsKDwhMeZjTX9sX0nvw1t/U5Audyn1I9P/m9z0A==}
     dev: false
 
   /resolve-from/4.0.0:

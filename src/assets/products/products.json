@@ -26,7 +26,8 @@
       "price": 4000,
       "status": "Vendido",
       "images": ["inflador.jpg"],
-      "comprador":"nacho"
+      "comprador":"nacho",
+      "cobrado": "si"
     },
     {
       "id": 2,
@@ -177,7 +178,8 @@
         "colchon_inflable.jpeg",
         "colchon_inflable2.jpeg"
       ],
-      "comprador":"campa"
+      "comprador":"campa",
+      "cobrado": "no"
     },
     {
       "id": 13,
@@ -212,7 +214,9 @@
         "soporte_guitarra.webp",
         "soporte_guitarra2.jpeg",
         "soporte_guitarra.jpeg"
-      ]
+      ],
+      "comprador":"debo",
+      "cobrado": "no"
     },
     {
       "id": 17,
@@ -245,7 +249,8 @@
         "tostadora_tophouse5.jpg",
         "tostadora_tophouse6.jpg"
       ],
-      "comprador":"cabe"
+      "comprador":"cabe",
+      "cobrado": "no"
     },
     {
       "id": 19,
@@ -301,7 +306,8 @@
         "xiaomi_miband42.webp",
         "xiaomi_miband43.webp"
       ],
-      "comprador": "Tia delfi"
+      "comprador": "Tia delfi",
+      "cobrado": "si"
     },
     {
       "id": 23,
@@ -311,7 +317,8 @@
       "price": 5000,
       "status": "Vendido",
       "images": ["Classone_extreme.webp", "Classone_extreme2.webp"],
-      "comprador":"nacho"
+      "comprador":"nacho",
+      "cobrado": "no"
     },
     {
       "id": 25,
@@ -382,7 +389,8 @@
         "tv_lg_32lj600b_4.avif",
         "tv_lg_32lj600b_6.webp"
       ],
-      "comprador":"kam"
+      "comprador":"kam",
+      "cobrado": "no"
     },
     {
       "id": 30,
@@ -439,7 +447,7 @@
       "categories": ["Cocina"],
       "description": "Juego de 7 platos hondos soperos. Distitos colores. Cerámica. 16 cm diámetro x 5cm alto",
       "price": 5000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"]
     },
     {
@@ -508,7 +516,8 @@
         "filtro_psa_3.png",
         "filtro_psa_5.jpeg"
       ],
-      "comprador":"cabe"
+      "comprador":"cabe",
+      "cobrado": "no"
     },
     {
       "id": 41,
@@ -595,7 +604,9 @@
       "images": [
         "copas_tirabuzon.jpeg",
         "copas_tirabuzon2.jpeg"
-      ]
+      ],
+      "comprador":"da",
+      "cobrado": "no"
     },
     {
       "id": 48,
@@ -615,11 +626,13 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Formato cúbico. Motivos floreados. Medidas 13 x 13 x 12 cm",
       "price": 1500,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "maceta_floreada_B_1.jpeg",
         "maceta_floreada_B_2.jpeg"
-      ]
+      ],
+      "comprador":"cabe",
+      "cobrado": "no"
     },
     {
       "id": 50,
@@ -631,7 +644,9 @@
       "images": [
         "maceta_decorada_1.jpeg",
         "maceta_decorada_2.jpeg"
-      ]
+      ],
+      "comprador":"cabe",
+      "cobrado": "no"
     },
     {
       "id": 51,
@@ -694,7 +709,8 @@
         "fuentes_vidrio_9.jpeg",
         "fuentes_vidrio_10.jpeg"
       ],
-      "comprador":"nare"
+      "comprador":"nare",
+      "cobrado": "no"
     },
     {
       "id": 55,
@@ -738,7 +754,9 @@
         "aspiradora_nex_5.jpeg",
         "aspiradora_nex_6.jpeg",
         "aspiradora_nex_7.jpeg"
-      ]
+      ],
+      "comprador":"da",
+      "cobrado": "no"
     }
   ]
 }
