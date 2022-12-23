@@ -170,7 +170,7 @@
       "categories": ["Camas"],
       "description": "Colchón inflable reforzado de una plaza. Medidas 185 x 76 x 22 cm. Color azul.",
       "price": 3500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "colchon_inflable3.webp",
         "colchon_inflable.jpeg",
@@ -494,7 +494,7 @@
       "categories": ["Cocina"],
       "description": "Purificador de agua marca PSA con 6 filtros. 6 meses de uso. Es muy simple, la unidad PSA Senior 3 ha sido pensada para conectarse con facilidad al agua de red bacteriológicamente segura, sin necesidad de herramientas especiales ni de realizar perforaciones. Garantia / vida útil: 36 meses.",
       "price": 17000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "filtro_psa_4.webp",
         "filtro_psa_1.jpeg",
@@ -653,7 +653,7 @@
     {
       "id": 53,
       "name": "Set Cuchillos de Queso Laguiole",
-      "categories": ["Muebles"],
+      "categories": ["Cocina"],
       "description": "Set de queso de diseño francés con 3 cuchillos de distintos tamaños. Presentado en una cuna de madera que del dorso puede usarse de tabla. Packaging: caja rígida de cartón laminada, con ventana de cristal PVC. Producto aprobado por el I.N.A.L. para el contacto con alimentos. Medidas de la tabla: 28 x 12 x 2 cm. Marca Laguiole",
       "price": 3500,
       "status": "Disponible",
@@ -674,7 +674,7 @@
       "categories": ["Cocina"],
       "description": "Juego de 4 fuentes de distintas medidas. Todas de vidrio templado apto para horno y microondas. Grande: 40 x 23 x 5 cm. Mediana cuadrada: 30 x 25 x 7 cm. Mediana rectangular: 30 x 17 x 5 cm. Budinera: 26,5 x 13 x 7,5 cm.",
       "price": 5500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "fuentes_vidrio_2.jpeg",
         "fuentes_vidrio_1.jpeg",
