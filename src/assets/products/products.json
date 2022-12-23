@@ -239,7 +239,7 @@
       "name": "Tostadora TOP HOUSE Ks2006 750 W Blanco",
       "categories": ["Electrodomésticos"],
       "description": "Tostadora TOP HOUSE Ks2006, Con Cuerpo De Plástico Y Ranuras En Acero Inoxidable, Tiene Un Botón De Detención Que Corta Con El Proceso De Tostado Sin Necesidad De Completar El Ciclo. Potencia 750W. 7 niveles de tostado. Origen China.",
-      "price": 3000,
+      "price": 5000,
       "status": "Vendido",
       "images": [
         "tostadora_tophouse.jpg",
@@ -250,7 +250,7 @@
         "tostadora_tophouse6.jpg"
       ],
       "comprador":"cabe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 19,
@@ -507,7 +507,7 @@
       "name": "Purificador PSA Senior 3",
       "categories": ["Cocina"],
       "description": "Purificador de agua marca PSA con 6 filtros. 6 meses de uso. Es muy simple, la unidad PSA Senior 3 ha sido pensada para conectarse con facilidad al agua de red bacteriológicamente segura, sin necesidad de herramientas especiales ni de realizar perforaciones. Garantia / vida útil: 36 meses.",
-      "price": 17000,
+      "price": 12000,
       "status": "Vendido",
       "images": [
         "filtro_psa_4.webp",
@@ -625,28 +625,28 @@
       "name": "Maceta Floreada Cúbica",
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Formato cúbico. Motivos floreados. Medidas 13 x 13 x 12 cm",
-      "price": 1500,
+      "price": 2500,
       "status": "Vendido",
       "images": [
         "maceta_floreada_B_1.jpeg",
         "maceta_floreada_B_2.jpeg"
       ],
       "comprador":"cabe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 50,
       "name": "Maceta Cilíndrica",
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Formato cilíndrico. Medidas 13 x 12 cm",
-      "price": 1500,
-      "status": "Reservado",
+      "price": 2500,
+      "status": "Vendido",
       "images": [
         "maceta_decorada_1.jpeg",
         "maceta_decorada_2.jpeg"
       ],
       "comprador":"cabe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 51,
