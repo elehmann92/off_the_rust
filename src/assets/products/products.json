@@ -374,14 +374,15 @@
       "categories": ["Tecnología"],
       "description": "** INCLUYE CHROMECAST **. TV LG 32 pulgadas. Resolución 1366 x 768. Pantalla LED. Dimensiones Alto con Base 474 Profundidad con base 172. Ancho 734. Peso neto (kg) 4,5. Peso(kg) Pantalla con base 4,7. No le anda la antena WIFI, pero con el chromecast podés usar todas las funciones smart sin problemas.",
       "price": 40000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "tv_lg_32lj600b_1.jpg",
         "tv_lg_32lj600b_2.jpg",
         "tv_lg_32lj600b_3.webp",
         "tv_lg_32lj600b_4.avif",
         "tv_lg_32lj600b_6.webp"
-      ]
+      ],
+      "comprador":"kam"
     },
     {
       "id": 30,
