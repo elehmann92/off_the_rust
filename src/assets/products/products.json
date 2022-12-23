@@ -25,7 +25,8 @@
       "description": "Cabezal multiválvula, apto para válvulas Schrader, Presta y Dunlop. Sirve para bicicletas, motos y autos. Incluye picos para pelotas e inflables. Tanto el tubo interior como exterior son de acero. Infla a 160psi. Incluye manómetro con lectura en bar y psi",
       "price": 4000,
       "status": "Vendido",
-      "images": ["inflador.jpg"]
+      "images": ["inflador.jpg"],
+      "comprador":"nacho"
     },
     {
       "id": 2,
@@ -175,7 +176,8 @@
         "colchon_inflable3.webp",
         "colchon_inflable.jpeg",
         "colchon_inflable2.jpeg"
-      ]
+      ],
+      "comprador":"campa"
     },
     {
       "id": 13,
@@ -234,7 +236,7 @@
       "categories": ["Electrodomésticos"],
       "description": "Tostadora TOP HOUSE Ks2006, Con Cuerpo De Plástico Y Ranuras En Acero Inoxidable, Tiene Un Botón De Detención Que Corta Con El Proceso De Tostado Sin Necesidad De Completar El Ciclo. Potencia 750W. 7 niveles de tostado. Origen China.",
       "price": 3000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "tostadora_tophouse.jpg",
         "tostadora_tophouse2.jpg",
@@ -242,7 +244,8 @@
         "tostadora_tophouse4.jpg",
         "tostadora_tophouse5.jpg",
         "tostadora_tophouse6.jpg"
-      ]
+      ],
+      "comprador":"cabe"
     },
     {
       "id": 19,
@@ -291,13 +294,14 @@
       "categories": ["Tecnología"],
       "description": "** NO INCLUYE CORREA (se consigue fácil en ML) ** Xiaomi Mi Band 4 Pulsera de Actividad,Monitores de Actividad,Pantalla Pulsómetro Fitness Tracker, Pulsera Smartwatch con 0.95 Pantalla AMOLED a Color,con iOS y Android,Negro(Versión Global). Bluetooth 5.0, acelerómetro, giroscopio, sensor de frecuencia cardíaca PPG, sensor de proximidad. Pantalla 0,95 pulgadas amoled 120 x 240 px. 24 bit, 400 nits. Peso 22,1 g. 135 mAh LiPo. En uso normal dura aprox 10 / 15 días. Puede durar hasta 25 con funcionalidades acotadas. IP68, sumergible 5atm (hasta 50 metros). Opera con la aplicación Mi Fit",
       "price": 4000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "xiaomi_miband4.webp",
         "xiaomi_miband41.webp",
         "xiaomi_miband42.webp",
         "xiaomi_miband43.webp"
-      ]
+      ],
+      "comprador": "Tia delfi"
     },
     {
       "id": 23,
@@ -306,7 +310,8 @@
       "description": "PALETA CLASS ONE EXTREME. -Componentes: fibra de vidrio. -Núcleo: goma eva. -Formato: circular. -Balance: medio, cercano al puño de la paleta.-Perfil: 38mm. Tiene algunos golpes.",
       "price": 5000,
       "status": "Vendido",
-      "images": ["Classone_extreme.webp", "Classone_extreme2.webp"]
+      "images": ["Classone_extreme.webp", "Classone_extreme2.webp"],
+      "comprador":"nacho"
     },
     {
       "id": 25,
@@ -501,7 +506,8 @@
         "filtro_psa_2.jpeg",
         "filtro_psa_3.png",
         "filtro_psa_5.jpeg"
-      ]
+      ],
+      "comprador":"cabe"
     },
     {
       "id": 41,
@@ -686,7 +692,8 @@
         "fuentes_vidrio_8.jpeg",
         "fuentes_vidrio_9.jpeg",
         "fuentes_vidrio_10.jpeg"
-      ]
+      ],
+      "comprador":"nare"
     },
     {
       "id": 55,
