@@ -326,12 +326,14 @@
       "categories": ["Deco"],
       "description": "Excelente pieza de iluminación y decoración estilo nórdico, confeccionada en madera artesanalmente",
       "price": 7500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "velador_nordico_1.jpeg",
         "velador_nordico_2.jpeg",
         "velador_nordico_3.jpeg"
-      ]
+      ],
+      "comprador":"javi",
+      "cobrado": "no"
     },
     {
       "id": 26,
