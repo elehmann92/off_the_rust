@@ -759,6 +759,44 @@
       ],
       "comprador":"da",
       "cobrado": "no"
+    },
+    {
+      "id": 58,
+      "name": "Piano / Teclado Yamaha PSR 170",
+      "categories": ["Instrumentos"],
+      "description": "Teclado Yamaha PSR 170 de 5 octavas (61 teclas). Tiene display LCD, entrada para auriculares y un programa de enseñanza de más de 100 clásicos. Incluye transformador, atril y base. ",
+      "price": 50000,
+      "status": "Disponible",
+      "images": [
+        "Piano_yamaha_0.webp",
+        "Piano_yamaha_1.jpeg",
+        "Piano_yamaha_2.jpeg",
+        "Piano_yamaha_3.jpeg",
+        "Piano_yamaha_4.jpeg",
+        "Piano_yamaha_5.jpeg"
+      ],
+      "comprador":"",
+      "cobrado": ""
+    },
+    {
+      "id": 59,
+      "name": "Silla eames comedor nórdica x 1",
+      "categories": ["Muebles"],
+      "description": "Silla estilo escandinavo. Asiento plástico blanco mate. Estructura madera con refuerzos metálicos. Medidas 82 x 46 x 46. Altura del asiento 46 cm. Peso máximo soportado (estimado): 120 kg. Muy cómoda, resistente, moderna y elegante.",
+      "price": 4500,
+      "status": "Disponible",
+      "images": [
+        "silla_comedor_blanca_1.webp",
+        "silla_comedor_blanca_2.webp",
+        "silla_comedor_blanca_3.webp",
+        "silla_comedor_blanca_4.webp",
+        "silla_comedor_blanca_5.webp",
+        "silla_comedor_blanca_6.webp",
+        "silla_comedor_blanca_7.jpeg",
+        "silla_comedor_blanca_8.jpeg"
+      ],
+      "comprador":"",
+      "cobrado": ""
     }
   ]
 }
