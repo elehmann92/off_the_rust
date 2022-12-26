@@ -360,23 +360,8 @@
         "Soporte TV movible 4.jpg",
         "Soporte TV movible 5.jpg"
       ]
-    },
-    {
-      "id": 28,
-      "name": "Monitor LG 23MP55HQ",
-      "categories": ["Tecnología"],
-      "description": "Monitor LG 23mp55 1080p Ips 60hz. Pantalla 23 pulgadas. Ratio 16:9. Resolución 1920 x 1080. Gama de colores 72%. Input/output: D-Sub, Headphones, HDMI. Features: DDC/CI, HDCP, RTC, Auto resolución, Plug & Play, Dual inteligente, Efecto Foto. Incluye cable alimentación y HDMI",
-      "price": 35000,
-      "status": "Disponible",
-      "images": [
-        "lg23mp55_1.jpg",
-        "lg23mp55_2.webp",
-        "lg23mp55_3.webp",
-        "lg23mp55_4.webp",
-        "lg23mp55_5.webp",
-        "lg23mp55_6.webp"
-      ]
-    },
+    }
+    ,
     {
       "id": 29,
       "name": "LG Smart TV HD 32''",
