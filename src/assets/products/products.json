@@ -318,7 +318,7 @@
       "status": "Vendido",
       "images": ["Classone_extreme.webp", "Classone_extreme2.webp"],
       "comprador":"nacho",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 25,
@@ -326,7 +326,7 @@
       "categories": ["Deco"],
       "description": "Excelente pieza de iluminación y decoración estilo nórdico, confeccionada en madera artesanalmente",
       "price": 7500,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "velador_nordico_1.jpeg",
         "velador_nordico_2.jpeg",
@@ -350,7 +350,7 @@
       "categories": ["Deco"],
       "description": "Modelo: SP-7. Marca: IOFI. Norma: vesa. Medida: 75 x 75 mm / 100 x 100 mm / 100 x 200 mm / 200 x 100 mm / 200 x 200 mm. Móvil: si. Carga máxima: 30 Kg. Inclinación 20°.Giro: 90° Hacia ambos ladosCaracterísticas especiales: Carcasas cubre cables, Cobertor de tornillo Tipo de brazo: Doble brazo articulado. Incluye Kit de instalación :Tornillos con diferentes diámetros, Arandelas, etc",
       "price": 5000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "Soporte armado.webp",
         "Soporte armado plano.webp",
@@ -359,6 +359,25 @@
         "Soporte TV movible 3.jpg",
         "Soporte TV movible 4.jpg",
         "Soporte TV movible 5.jpg"
+      ],
+      "comprador": "kam",
+      "cobrado":"no"
+    },
+    {
+      "id": 28,
+      "name": "TV Monitor LCD Samsung P2470HN 24’’",
+      "categories": ["Tecnología"],
+      "description": "Monitor TV Full HD Samsung LCD 2'' P2470HN WideScreen Posee parlantes incorporados, sintonizador e incluye control remoto. Se envia en su caja original y  en excelente estado! Resolución 1920x1080 “Full HD”  Contraste dinámico 50000/1 Brillo de 300 cd/m² Tiempo de respuesta 5ms Angulo de visión de 170° Entrada HDMI Entrada DVI Entrada PC (VGA) Entrada audio 3.5’ (sincroniza con VGA) Entrada antena coaxil Entrada videocomponente Entrada RCA (AV) Salida audio análoga 3.5’ Salida audio óptica",
+      "price": 29000,
+      "status": "Disponible",
+      "images": [
+        "tv_samsung_0.webp",
+        "tv_samsung_01.jpeg",
+        "tv_samsung_1.jpeg",
+        "tv_samsung_2.jpeg",
+        "tv_samsung_3.jpeg",
+        "tv_samsung_4.jpeg",
+        "tv_samsung_5.webp"
       ]
     }
     ,
@@ -557,7 +576,8 @@
       "status": "Disponible",
       "images": [
         "frasquitos_floreados_1.jpeg",
-        "frasquitos_floreados_2.jpeg"
+        "frasquitos_floreados_2.jpeg",
+        "frasquitos_floreados_3.jpeg"
       ]
     },
     {
@@ -699,7 +719,7 @@
         "fuentes_vidrio_10.jpeg"
       ],
       "comprador":"nare",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 55,
