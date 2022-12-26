@@ -434,8 +434,10 @@
       "categories": ["Cocina"],
       "description": "Juego de 7 platos hondos soperos. Distitos colores. Cerámica. 16 cm diámetro x 5cm alto",
       "price": 5000,
-      "status": "Reservado",
-      "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"]
+      "status": "Vendido",
+      "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"],
+      "comprador":"manuel",
+      "cobrado": "no"
     },
     {
       "id": 36,
@@ -548,10 +550,10 @@
     },
     {
       "id": 44,
-      "name": "Frascos Azucareros Cerámica x 2",
+      "name": "Set Cerámico para café",
       "categories": ["Cocina"],
-      "description": "Tarros azucareros pequeños x 2 unidades. Cerámica pintada. Diámetro 9cm. Altura 14cm (con tapa). Cierre hermético de goma.",
-      "price": 2000,
+      "description": "Lechera + azucarera + tarros pequeños (x 2 unidades). Cerámica pintada. Diámetro 9cm. Altura 14cm (con tapa). Cierre hermético de goma.",
+      "price": 3000,
       "status": "Disponible",
       "images": [
         "frasquitos_floreados_1.jpeg",
