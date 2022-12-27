@@ -458,7 +458,7 @@
       "status": "Vendido",
       "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"],
       "comprador":"manuel",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 36,
@@ -816,7 +816,7 @@
       "status": "Vendido",
       "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"],
       "comprador":"Deiberg",
-      "cobrado": "no"
+      "cobrado": "si"
     }
   ]
 }
