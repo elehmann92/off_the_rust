@@ -44,8 +44,10 @@
       "categories": ["Bici y Accesorios"],
       "description": "Bicicleta Golon Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
-      "status": "Disponible",
-      "images": ["Golon Urbana.jpg"]
+      "status": "Reservado",
+      "images": ["Golon Urbana.jpg"],
+      "comprador":"chris fefe",
+      "cobrado":"no"
     },
     {
       "id": 4,
@@ -175,12 +177,14 @@
       "categories": ["Deportes y Fitness"],
       "description": "Kit 2 mancuernas cromadas con ganchos de ajuste. Discos de hierro de fundición. Total 25 kgs en discos: 2 x 5 kg. + 4 x 2,5 kg. + 4 x 1,25 kg. Incluye colchoneta de yoga/abodominales medidas 100 x 50 x 4 cm. Relleno de espuma.",
       "price": 12500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "colchoneta_y_pesas.jpeg",
         "colchoneta_azul.jpeg",
         "colchoneta_y_pesas2.jpeg"
-      ]
+      ],
+      "comprador":"chris fefe",
+      "cobrado":"no"
     },
     {
       "id": 15,
@@ -278,8 +282,10 @@
       "categories": ["Bici y Accesorios"],
       "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
       "price": 3500,
-      "status": "Disponible",
-      "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"]
+      "status": "Reservado",
+      "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"],
+      "comprador":"chris fefe",
+      "cobrado":"no"
     },
     {
       "id": 22,
@@ -471,13 +477,15 @@
       "categories": ["Cocina"],
       "description": "Juego de Té. Compuesto por tetera, reloj de arena medidor y cuchara de madera. Tetera con manija de cuero. Volumen 500 ml.",
       "price": 5000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "juego_de_te_3.jpeg",
         "juego_de_te.jpeg",
         "juego_de_te_2.jpeg",
         "juego_de_te_4.jpeg"
-      ]
+      ],
+      "comprador":"chris fefe",
+      "cobrado":"no"
     },
     {
       "id": 37,
@@ -540,13 +548,15 @@
       "categories": ["Cocina"],
       "description": "Juego de 2 vasos de Whisky de cristal con base esférica. Capacidad 400ml. Diámetro de la boca 9cm. Altura 10cm. No contiene plomo. Corte en frio. Base esférica.",
       "price": 3500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "vaso_whisky_wolf_2.webp",
         "vaso_whisky_wolf_3.webp",
         "vaso_whisky_wolf_4.webp",
         "vasos_whisky_wolf.jpeg"
-      ]
+      ],
+      "cobrado":"no",
+      "comprador":"chris fefe"
     },
     {
       "id": 42,
