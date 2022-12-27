@@ -341,8 +341,10 @@
       "categories": ["Travel"],
       "description": "Bolso confeccionado en combinación de 2 telas: nylon 600d y micro fibra 590. 55 x 30 x 23 cm. Volumen 37 lts. Manijas con unión de velcro más cinta para colgar con soporte de caucho. Múltiples bolsillos interiores y exteriores. Mosquetones de PVC. Base reforzada con 4 puntales para apoyo, costura doble, tapa costura en todo el bolso. Cierres con cinta más soga náutica de terminación. Work out, ejercicio .",
       "price": 4000,
-      "status": "Disponible",
-      "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"]
+      "status": "Reservado",
+      "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"],
+      "comprador":"Negro",
+      "cobrado": "no"
     },
     {
       "id": 27,
@@ -804,6 +806,17 @@
       ],
       "comprador":"",
       "cobrado": ""
+    },
+    {
+      "id": 60,
+      "name": "Bolso Deportivo",
+      "categories": ["Travel"],
+      "description": "Bolso confeccionado en combinación de 2 telas: nylon 600d y micro fibra 590. 55 x 30 x 23 cm. Volumen 37 lts. Manijas con unión de velcro más cinta para colgar con soporte de caucho. Múltiples bolsillos interiores y exteriores. Mosquetones de PVC. Base reforzada con 4 puntales para apoyo, costura doble, tapa costura en todo el bolso. Cierres con cinta más soga náutica de terminación. Work out, ejercicio .",
+      "price": 4000,
+      "status": "Vendido",
+      "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"],
+      "comprador":"Deiberg",
+      "cobrado": "no"
     }
   ]
 }
