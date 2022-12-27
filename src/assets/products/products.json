@@ -82,20 +82,6 @@
         "Comoda5.jpg"
       ]
     },
-    {
-      "id": 7,
-      "name": "Mesa + Sillas",
-      "categories": ["Muebles"],
-      "description": "MESA estilo escandinava de madera de pino macizo. Pintada en esmalte blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto). JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
-      "price": 40000,
-      "status": "Disponible",
-      "images": [
-        "MesaConSillas 1.jpg",
-        "MesaConSillas2.jpg",
-        "MesaConSillas3.jpg",
-        "MesaConSillas4.jpg"
-      ]
-    },
 
     {
       "id": 8,
@@ -103,8 +89,10 @@
       "categories": ["Muebles"],
       "description": "MESA estilo escandinava de madera de pino macizo. Pintada en esmalte blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
-      "status": "Disponible",
-      "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"]
+      "status": "Reservado",
+      "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"],
+      "comprador":"santi mafia",
+      "cobrado":"no"
     },
 
     {
