@@ -354,6 +354,25 @@
       "cobrado":"no"
     },
     {
+      "id": 7,
+      "name": "Soporte Tv Led Smart Iofi Fijo Chato 43 42 40 32 Pulgadas",
+      "categories": ["Deco"],
+      "description": "- Modelo: SP-7 Marca: IOFI Norma: vesa Medida: 200 X 200 mm - Móvil: no - Carga máxima: 35 Kg - Inclinación 0° - Giro: 0° - Distancia a la pared: 19 mm - Tipo de brazo: Fijo - Kit de tornillos para instalación: Si",
+      "price": 1500,
+      "status": "Disponible",
+      "images": [
+        "Soporte armado.webp",
+        "Soporte armado plano.webp",
+        "Soporte TV movible 1 .jpg",
+        "Soporte TV movible 2.jpg",
+        "Soporte TV movible 3.jpg",
+        "Soporte TV movible 4.jpg",
+        "Soporte TV movible 5.jpg"
+      ],
+      "comprador": "",
+      "cobrado":""
+    },
+    {
       "id": 28,
       "name": "TV Monitor LCD Samsung P2470HN 24’’",
       "categories": ["Tecnología"],
