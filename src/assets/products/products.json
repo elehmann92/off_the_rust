@@ -626,7 +626,7 @@
       "categories": ["Cocina"],
       "description": "Juego de 5 copas de vidrio con detalles. Estilo tallo antiguo victoriano. Capacidad 140ml",
       "price": 3500,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "copas_tirabuzon.jpeg",
         "copas_tirabuzon2.jpeg"
@@ -771,7 +771,7 @@
       "categories": ["Electrodomésticos"],
       "description": "Marca NEX. Aspiradora Trineo sin Bolsa Nex con potencia de 1200W y  capacidad de 1,2 Litros. Cuenta con un cable de 4 metros, tubo de plástico, cepillo para piso y boquilla para ranuras. Posee un Filtro Hepa. Control de velocidad y cable retráctil. ",
       "price": 10000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "aspiradora_nex_1.jpg",
         "aspiradora_nex_2.webp",
