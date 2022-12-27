@@ -361,13 +361,11 @@
       "price": 1500,
       "status": "Disponible",
       "images": [
-        "Soporte armado.webp",
-        "Soporte armado plano.webp",
-        "Soporte TV movible 1 .jpg",
-        "Soporte TV movible 2.jpg",
-        "Soporte TV movible 3.jpg",
-        "Soporte TV movible 4.jpg",
-        "Soporte TV movible 5.jpg"
+        "soporte_fijo_tv_1.webp",
+        "soporte_fijo_tv_2.webp",
+        "soporte_fijo_tv_3.webp",
+        "soporte_fijo_tv_4.webp",
+        "soporte_fijo_tv_5.jpg"
       ],
       "comprador": "",
       "cobrado":""
