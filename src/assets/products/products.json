@@ -758,12 +758,14 @@
       "categories": ["Deco"],
       "description": "Plafón Cuadrado Vidrio Esmerilado 25x25cm. Zócalo E-27. Medidas L25xA25 cm.",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "plafon_esmerilado_1.jpg",
         "plafon_esmerilado_2.jpg",
         "plafon_esmerilado_3.jpg"
-      ]
+      ],
+      "comprador":"Fer Merlos",
+      "cobrado": "no"
     },
     {
       "id": 57,
