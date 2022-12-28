@@ -3,7 +3,7 @@
     {
       "id": 24,
       "name": "Botines Adidas Futsal",
-      "categories": ["Indumentaria","Deportes y Fitness"],
+      "categories": ["Indumentaria", "Deportes y Fitness"],
       "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
       "price": 15000,
       "status": "Disponible",
@@ -26,7 +26,7 @@
       "price": 4000,
       "status": "Vendido",
       "images": ["inflador.jpg"],
-      "comprador":"nacho",
+      "comprador": "nacho",
       "cobrado": "si"
     },
     {
@@ -35,8 +35,10 @@
       "categories": ["Tecnología"],
       "description": "PS4 500 GB. 2 controles. Sin caja. 1 Consola Playstation 4 500GB. 2 Joysticks Inalambricos Originales. No incluye caja. Incluye Juegos: Assassin's Creed Syndicate; Tom Clancy's The Division 1; Fifa 16",
       "price": 99000,
-      "status": "Disponible",
-      "images": ["ps40.jpg"]
+      "status": "Vendido",
+      "images": ["ps40.jpg"],
+      "comprador": "tina",
+      "cobrado": "no"
     },
     {
       "id": 3,
@@ -46,8 +48,8 @@
       "price": 120000,
       "status": "Reservado",
       "images": ["Golon Urbana.jpg"],
-      "comprador":"chris fefe",
-      "cobrado":"no"
+      "comprador": "chris fefe",
+      "cobrado": "no"
     },
     {
       "id": 4,
@@ -93,8 +95,8 @@
       "price": 12000,
       "status": "Reservado",
       "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"],
-      "comprador":"santi mafia",
-      "cobrado":"no"
+      "comprador": "santi mafia",
+      "cobrado": "no"
     },
 
     {
@@ -168,7 +170,7 @@
         "colchon_inflable.jpeg",
         "colchon_inflable2.jpeg"
       ],
-      "comprador":"campa",
+      "comprador": "campa",
       "cobrado": "no"
     },
     {
@@ -183,8 +185,8 @@
         "colchoneta_azul.jpeg",
         "colchoneta_y_pesas2.jpeg"
       ],
-      "comprador":"chris fefe",
-      "cobrado":"no"
+      "comprador": "chris fefe",
+      "cobrado": "no"
     },
     {
       "id": 15,
@@ -207,7 +209,7 @@
         "soporte_guitarra2.jpeg",
         "soporte_guitarra.jpeg"
       ],
-      "comprador":"debo",
+      "comprador": "debo",
       "cobrado": "no"
     },
     {
@@ -241,7 +243,7 @@
         "tostadora_tophouse5.jpg",
         "tostadora_tophouse6.jpg"
       ],
-      "comprador":"cabe",
+      "comprador": "cabe",
       "cobrado": "si"
     },
     {
@@ -267,14 +269,17 @@
       "categories": ["Electrodomésticos"],
       "description": "Pava eléctrica de calentamiento binario (no gradual). Con capacidad para 1.7 litros. Corte automático una vez alcanzada temperatura de hervor. Posee indicador de nivel del agua. Tecnología y rapidez para tus infusiones.",
       "price": 3500,
-      "status": "Disponible",
-      "images": ["pava_bixler.webp",
-      "pava_bixler2.webp",
-      "pava_bixler3.webp",
-      "pava_bixler4.jpeg",
-      "pava_bixler5.jpeg",
-      "pava_bixler6.jpeg"
-    ]
+      "status": "Vendido",
+      "images": [
+        "pava_bixler.webp",
+        "pava_bixler2.webp",
+        "pava_bixler3.webp",
+        "pava_bixler4.jpeg",
+        "pava_bixler5.jpeg",
+        "pava_bixler6.jpeg"
+      ],
+      "comprador":"tina",
+      "cobrado":"no"
     },
     {
       "id": 21,
@@ -284,8 +289,8 @@
       "price": 3500,
       "status": "Reservado",
       "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"],
-      "comprador":"chris fefe",
-      "cobrado":"no"
+      "comprador": "chris fefe",
+      "cobrado": "no"
     },
     {
       "id": 22,
@@ -311,7 +316,7 @@
       "price": 5000,
       "status": "Vendido",
       "images": ["Classone_extreme.webp", "Classone_extreme2.webp"],
-      "comprador":"nacho",
+      "comprador": "nacho",
       "cobrado": "si"
     },
     {
@@ -326,7 +331,7 @@
         "velador_nordico_2.jpeg",
         "velador_nordico_3.jpeg"
       ],
-      "comprador":"javi",
+      "comprador": "javi",
       "cobrado": "no"
     },
     {
@@ -337,7 +342,7 @@
       "price": 4000,
       "status": "Reservado",
       "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"],
-      "comprador":"Negro",
+      "comprador": "Negro",
       "cobrado": "no"
     },
     {
@@ -357,7 +362,7 @@
         "Soporte TV movible 5.jpg"
       ],
       "comprador": "kam",
-      "cobrado":"no"
+      "cobrado": "no"
     },
     {
       "id": 7,
@@ -374,7 +379,7 @@
         "soporte_fijo_tv_5.jpg"
       ],
       "comprador": "",
-      "cobrado":""
+      "cobrado": ""
     },
     {
       "id": 28,
@@ -392,8 +397,7 @@
         "tv_samsung_4.jpeg",
         "tv_samsung_5.webp"
       ]
-    }
-    ,
+    },
     {
       "id": 29,
       "name": "LG Smart TV HD 32''",
@@ -408,7 +412,7 @@
         "tv_lg_32lj600b_4.avif",
         "tv_lg_32lj600b_6.webp"
       ],
-      "comprador":"kam",
+      "comprador": "kam",
       "cobrado": "no"
     },
     {
@@ -417,12 +421,14 @@
       "categories": ["Tecnología"],
       "description": "** INCLUYE CHROMECAST **. Led Full HD. 40 pulgadas. Resolución 1920 x 1080 p. Tamaño métrico 102 cm diagonales. Ratio 16:9. Lee USB para reproducción multimedia. No es SMART, pero con el chromecast prácticamente lo es 😊",
       "price": 40000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "Phillips_40PFG5000_1.webp",
         "Phillips_40PFG5000_2.webp",
         "Phillips_40PFG5000_3.webp"
-      ]
+      ],
+      "comprador": "tina",
+      "cobrado": "no"
     },
     {
       "id": 31,
@@ -430,8 +436,10 @@
       "categories": ["Cocina"],
       "description": "Bowls de cerámica pintada x 2 unidades. Copetinero. Diámetro 12cm. 6cm alto",
       "price": 2000,
-      "status": "Disponible",
-      "images": ["bowlcitos_ceramica.jpeg", "bowlcitos_ceramica_2.jpeg"]
+      "status": "Vendido",
+      "images": ["bowlcitos_ceramica.jpeg", "bowlcitos_ceramica_2.jpeg"],
+      "comprador": "tina",
+      "cobrado": "no"
     },
     {
       "id": 32,
@@ -467,8 +475,11 @@
       "description": "Juego de 7 platos hondos soperos. Distitos colores. Cerámica. 16 cm diámetro x 5cm alto",
       "price": 5000,
       "status": "Vendido",
-      "images": ["juego_platitos_soperos.jpeg", "juego_platitos_soperos_2.jpeg"],
-      "comprador":"manuel",
+      "images": [
+        "juego_platitos_soperos.jpeg",
+        "juego_platitos_soperos_2.jpeg"
+      ],
+      "comprador": "manuel",
       "cobrado": "si"
     },
     {
@@ -484,8 +495,8 @@
         "juego_de_te_2.jpeg",
         "juego_de_te_4.jpeg"
       ],
-      "comprador":"chris fefe",
-      "cobrado":"no"
+      "comprador": "chris fefe",
+      "cobrado": "no"
     },
     {
       "id": 37,
@@ -539,7 +550,7 @@
         "filtro_psa_3.png",
         "filtro_psa_5.jpeg"
       ],
-      "comprador":"cabe",
+      "comprador": "cabe",
       "cobrado": "no"
     },
     {
@@ -555,8 +566,8 @@
         "vaso_whisky_wolf_4.webp",
         "vasos_whisky_wolf.jpeg"
       ],
-      "cobrado":"no",
-      "comprador":"chris fefe"
+      "cobrado": "no",
+      "comprador": "chris fefe"
     },
     {
       "id": 42,
@@ -579,10 +590,7 @@
       "description": "Hornito aromático a vela de cerámica. Acabado brillante exterior. Marca The Candle Shop",
       "price": 1200,
       "status": "Disponible",
-      "images": [
-        "vela_hornito_1.jpeg",
-        "vela_hornito_2.jpeg"
-      ]
+      "images": ["vela_hornito_1.jpeg", "vela_hornito_2.jpeg"]
     },
     {
       "id": 44,
@@ -604,9 +612,7 @@
       "description": "Frascos de cerámica x 2 unidades. Motivos Harina y Café. Tapa de madera con cierre hermético de goma. Medida chica: 11 x 12. Medida grande 16 x 12.",
       "price": 2500,
       "status": "Disponible",
-      "images": [
-        "fracos_ceramica_madera_1.jpeg"
-      ]
+      "images": ["fracos_ceramica_madera_1.jpeg"]
     },
     {
       "id": 46,
@@ -615,10 +621,7 @@
       "description": "Juego de 6 compoteras con forma de manzana. Material vidrio templado. Apto microondas.",
       "price": 2500,
       "status": "Disponible",
-      "images": [
-        "compotera_manzana.jpeg",
-        "compotera_manzana2.jpeg"
-      ]
+      "images": ["compotera_manzana.jpeg", "compotera_manzana2.jpeg"]
     },
     {
       "id": 47,
@@ -627,11 +630,8 @@
       "description": "Juego de 5 copas de vidrio con detalles. Estilo tallo antiguo victoriano. Capacidad 140ml",
       "price": 3500,
       "status": "Vendido",
-      "images": [
-        "copas_tirabuzon.jpeg",
-        "copas_tirabuzon2.jpeg"
-      ],
-      "comprador":"da",
+      "images": ["copas_tirabuzon.jpeg", "copas_tirabuzon2.jpeg"],
+      "comprador": "da",
       "cobrado": "no"
     },
     {
@@ -641,10 +641,7 @@
       "description": "Maceta de cerámica esmaltada. Motivos floreados. Medidas 13 x 8 cm",
       "price": 1500,
       "status": "Disponible",
-      "images": [
-        "maceta_floreada_1.jpeg",
-        "maceta_floreada_2.jpeg"
-      ]
+      "images": ["maceta_floreada_1.jpeg", "maceta_floreada_2.jpeg"]
     },
     {
       "id": 49,
@@ -653,11 +650,8 @@
       "description": "Maceta de cerámica esmaltada. Formato cúbico. Motivos floreados. Medidas 13 x 13 x 12 cm",
       "price": 2500,
       "status": "Vendido",
-      "images": [
-        "maceta_floreada_B_1.jpeg",
-        "maceta_floreada_B_2.jpeg"
-      ],
-      "comprador":"cabe",
+      "images": ["maceta_floreada_B_1.jpeg", "maceta_floreada_B_2.jpeg"],
+      "comprador": "cabe",
       "cobrado": "si"
     },
     {
@@ -667,11 +661,8 @@
       "description": "Maceta de cerámica esmaltada. Formato cilíndrico. Medidas 13 x 12 cm",
       "price": 2500,
       "status": "Vendido",
-      "images": [
-        "maceta_decorada_1.jpeg",
-        "maceta_decorada_2.jpeg"
-      ],
-      "comprador":"cabe",
+      "images": ["maceta_decorada_1.jpeg", "maceta_decorada_2.jpeg"],
+      "comprador": "cabe",
       "cobrado": "si"
     },
     {
@@ -681,10 +672,7 @@
       "description": "Maceta de cerámica bombé. Color negro. Medidas 15 x 15 cm",
       "price": 1500,
       "status": "Disponible",
-      "images": [
-        "maceta_negra_1.jpeg",
-        "maceta_negra_2.jpeg"
-      ]
+      "images": ["maceta_negra_1.jpeg", "maceta_negra_2.jpeg"]
     },
     {
       "id": 52,
@@ -693,10 +681,7 @@
       "description": "Juego de 2 sillones de mimbre para exterior con almohadón. Medidas 60 x 70 x 85 (ancho x largo x alto). Altura del asiento: 43 cm.",
       "price": 30000,
       "status": "Disponible",
-      "images": [
-        "sillon_exterior_1.jpeg",
-        "sillon_exterior_2.jpeg"
-      ]
+      "images": ["sillon_exterior_1.jpeg", "sillon_exterior_2.jpeg"]
     },
     {
       "id": 53,
@@ -735,7 +720,7 @@
         "fuentes_vidrio_9.jpeg",
         "fuentes_vidrio_10.jpeg"
       ],
-      "comprador":"nare",
+      "comprador": "nare",
       "cobrado": "si"
     },
     {
@@ -764,7 +749,7 @@
         "plafon_esmerilado_2.jpg",
         "plafon_esmerilado_3.jpg"
       ],
-      "comprador":"Fer Merlos",
+      "comprador": "Fer Merlos",
       "cobrado": "si"
     },
     {
@@ -783,7 +768,7 @@
         "aspiradora_nex_6.jpeg",
         "aspiradora_nex_7.jpeg"
       ],
-      "comprador":"da",
+      "comprador": "da",
       "cobrado": "no"
     },
     {
@@ -801,7 +786,7 @@
         "Piano_yamaha_4.jpeg",
         "Piano_yamaha_5.jpeg"
       ],
-      "comprador":"",
+      "comprador": "",
       "cobrado": ""
     },
     {
@@ -821,7 +806,7 @@
         "silla_comedor_blanca_7.jpeg",
         "silla_comedor_blanca_8.jpeg"
       ],
-      "comprador":"",
+      "comprador": "",
       "cobrado": ""
     },
     {
@@ -832,7 +817,7 @@
       "price": 4000,
       "status": "Vendido",
       "images": ["Bolso gris 1.jpg", "Bolso gris 2.jpg", "Bolso gris 3.jpg"],
-      "comprador":"Deiberg",
+      "comprador": "Deiberg",
       "cobrado": "si"
     },
     {
@@ -843,7 +828,7 @@
       "price": 65000,
       "status": "Disponible",
       "images": ["lavarropas_drean_1.webp"],
-      "comprador":"",
+      "comprador": "",
       "cobrado": ""
     },
     {
@@ -859,8 +844,8 @@
         "heladera_tophouse_3.jpg",
         "heladera_tophouse_4.jpg",
         "heladera_tophouse_5.jpg"
-    ],
-      "comprador":"",
+      ],
+      "comprador": "",
       "cobrado": ""
     }
   ]
