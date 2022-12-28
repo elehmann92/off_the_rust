@@ -13,10 +13,10 @@ products.forEach((product) =>
 );
 
 const initialState = {
-  allProducts: products.filter((product) => product.status !== "Vendido"),
+  allProducts: products.filter((product) => product.status !== "Vendido" && product.status !== "Pausado"),
   totalUploaded: products.reduce((acc, ele) => (acc += ele.price), 0),
   totalAvailable: products
-    .filter((product) => product.status !== "Vendido")
+    .filter((product) => product.status !== "Vendido" && product.status !== "Pausado")
     .reduce((acc, ele) => (acc += ele.price),0),
   totalSold: products
   .filter((product) => product.status === "Vendido")
