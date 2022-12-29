@@ -849,6 +849,21 @@
       ],
       "comprador": "",
       "cobrado": ""
+    },
+    {
+      "id": 63,
+      "name": "Grabadora DVD portátil Samsung Slim AV SE-208DB",
+      "categories": ["Tecnología"],
+      "description": "Marca Samsung. Modelo DVD-RW-Externa (SE-208DB). Grabadora externa SE-208DB/TSBS, para que puedas pasar todas tus fotos, películas y vídeos a un DVD o CD de forma rápida y segura mediante la conexión USB. Pero al revés también funciona es decir, que puede leer diferentes formatos. Gracias al cable de alimentación USB, podrás grabar a máxima velocidad sin perder la señal. Su diseño te resultará tan cómodo, que podrás llevarlo a donde quieras, porque cabe en cualquier sitio. Será el complemento perfecto para tu ordenador. No requiere fuente de alimentación externa y soporta todos los formatos. Soporta: DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-ROM, DVD-Video, DVD+R DL, DVD-R DL, DVD-RAM, CD-ROM, CD-R, CD-RW, CD-DA, CD+E (G), CD-MIDI, CD-TEXT, CD-ROM XA, Mixed Mode CD, CD-I, CD-I Bridge (Photo-CD, Video-CD), multisession CD (Photo-CD, CD-EXTRA, Portfolio) Alimentación: USB (no requiere alimentación externa) Dimensiones: 146.0 x 20.8 x 144.0mm",
+      "price": 4000,
+      "status": "Disponible",
+      "images": [
+        "grabadora-samsung-se208_1.jpg",
+        "grabadora-samsung-se208_2.jpg",
+        "grabadora-samsung-se208_3.jpg"
+      ],
+      "comprador": "",
+      "cobrado": ""
     }
   ]
 }
