@@ -640,8 +640,10 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Motivos floreados. Medidas 13 x 8 cm",
       "price": 1500,
-      "status": "Disponible",
-      "images": ["maceta_floreada_1.jpeg", "maceta_floreada_2.jpeg"]
+      "status": "Reservado",
+      "images": ["maceta_floreada_1.jpeg", "maceta_floreada_2.jpeg"],
+      "comprador": "barbi",
+      "cobrado": "no"
     },
     {
       "id": 49,
