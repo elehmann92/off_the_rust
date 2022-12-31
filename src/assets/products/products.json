@@ -864,6 +864,21 @@
       ],
       "comprador": "",
       "cobrado": ""
+    },
+    {
+      "id": 64,
+      "name": "Baúl / Cofre / Arcón Madera de Pino.",
+      "categories": ["Muebles"],
+      "description": "Baúl de madera de pino. Medidas 60 x 40 x 45 (largo x ancho x alto). Con barniz protector. Manijas de soga de yute.",
+      "price": 4000,
+      "status": "Disponible",
+      "images": [
+        "Baul_madera_1.jpeg",
+        "Baul_madera_2.jpeg",
+        "Baul_madera_3.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
     }
   ]
 }
