@@ -682,8 +682,10 @@
       "categories": ["Muebles"],
       "description": "Juego de 2 sillones de mimbre para exterior con almohadón. Medidas 60 x 70 x 85 (ancho x largo x alto). Altura del asiento: 43 cm.",
       "price": 30000,
-      "status": "Disponible",
-      "images": ["sillon_exterior_1.jpeg", "sillon_exterior_2.jpeg"]
+      "status": "Vendido",
+      "images": ["sillon_exterior_1.jpeg", "sillon_exterior_2.jpeg"],
+      "comprador":"moni",
+      "cobrado":"si"
     },
     {
       "id": 53,
@@ -876,6 +878,139 @@
         "Baul_madera_1.jpeg",
         "Baul_madera_2.jpeg",
         "Baul_madera_3.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    },
+    {
+      "id": 65,
+      "name": "Freud, Obras Completas. Tomos 1 - 6, + tomo 13",
+      "categories": ["Libros"],
+      "description": "El precio corresponde a la colección de 7 tomos. Sigmund Freud, Obras Completas. Tomos 1 al 6 + tomo 13. Autor: La Nación. Editorial Siglo Veintiuno. Tapa blanda. Una colección dedicada al hombre que desestructuró el pensamiento del siglo XX. Todos los estudios, teorías y ensayos del padre del psicoanalisis. Una oportunidad para acercarse o para profundizar en su obra.Formato 15,5 x 23cm",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "Freud_coleccion_1.jpeg",
+        "Freud_coleccion_2.jpeg",
+        "Freud_coleccion_tomo1.jpeg",
+        "Freud_coleccion_tomo2.jpeg",
+        "Freud_coleccion_tomo3.jpeg",
+        "Freud_coleccion_tomo4.jpeg",
+        "Freud_coleccion_tomo5.jpeg",
+        "Freud_coleccion_tomo6.jpeg",
+        "Freud_coleccion_tomo13.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 66,
+      "name": "Gabriel Rolón - Cara a Cara",
+      "categories": ["Libros"],
+      "description": "El nuevo libro de Gabriel Rolón es una gran aventura. No reúne casos clínicos ni relatos de ficción, tampoco es un libro de teoría: es algo distinto. Es un trabajo en el que decide hablar consigo mismo para pensar sobre cada uno de los enigmas que lo desvelan: el deseo, el desamor, la muerte, los hijos, la pasión, la felicidad, el recuerdo y el olvido, entre otros. El desafío no es menor y Cara a cara va de frente. Porque este es, más que nada, un diálogo íntimo del analista con el analista, del hombre con el chico que fue, del licenciado que ahora sabe que ese título se juega en otra parte. Es un viaje que va del Psicoanálisis a la vida, y de la vida a un café. Y es ahí, en esa travesía con el corazón a flor de piel, donde nos encontramos con Gabriel Rolón como nunca antes, mano a mano en un espejo que le devuelve una imagen que lo interpela. Porque la verdad está muy lejos de cualquier reflejo, magia o inmediatez; él lo sabe. Eso es el análisis en una escala sensible. Y esa es la dimensión humana del analista.",
+      "price": 1000,
+      "status": "Disponible",
+      "images": [
+        "Gabriel_rolon_caraacara.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 67,
+      "name": "Gabriel Rolón - Historias de Diván",
+      "categories": ["Libros"],
+      "description": "Historias que van de la risa al llanto y de la pena a la alegría. Como la vida misma. Hace diez años, Gabriel Rolón iniciaba un viaje único de la mano de la publicación de Historias de diván. Un recorrido que no sólo lo convertiría en el escritor más vendido de la Argentina de la última década, sino que también le permitió llevar adelante una misión que él mismo se impuso desde el inicio: sostener el psicoanálisis en el lugar que merece como una disciplina capaz de transformar una vida, de dar alivio a quien padece un dolor. Hoy, con la mirada puesta en el espejo y en retrospectiva, fueron muchas las cosas que sucedieron: más de 300.000 ejemplares vendidos, traducciones al francés, portugués, alemán e italiano, series de televisión, obras de teatro, charlas, debates y congresos internacionales. Para agradecer una relación única entre un autor y sus lectores, y celebrar diez años de amistad es esta edición de Diez historias de diván. Pero también, para poder decir misión cumplida: Gabriel Rolón supo marcar –como nadie– un antes y un después en la difusión y en la defensa del psicoanálisis..",
+      "price": 1000,
+      "status": "Disponible",
+      "images": [
+        "Gabriel_rolon_historiasdedivan.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 68,
+      "name": "Gabriel Rolón - Historias Inconscientes",
+      "categories": ["Libros"],
+      "description": "Vidas al límite. El nuevo libro de Gabriel Rolón He asumido hace tiempo que jamás lograré extirpar el dolor de mis pacientes, porque el dolor es parte constitutiva de la vida. No importa cuánto alguien se analice, de todos modos sufrirá si pierde un amor, o si muere un ser querido. El dolor es inevitable, pero no el padecimiento. Y esa diferencia es la que hace que cada día vuelva al consultorio. Sé que tampoco lograré que desaparezca en ellos la sensación, aunque a veces leve y susurrada, de soledad. Pero es así, pues, como decía aquella vieja canción, estamos todos solos. En el año 2007 Gabriel Rolón publicaba Historias de diván, un verdadero fenómeno editorial en el que ponía en evidencia una manera inédita de transmitir algo tan íntimo como es el encuentro entre un analista y su paciente, una forma radicalmente distinta de poner el Psicoanálisis al alcance de cientos de miles de lectores. Hoy, siete años después de aquel primer trabajo, toma el riesgo de ir un poco más lejos, hacia una zona en la que quien padece llega a una situación límite. Por eso, por estas páginas transitan las adicciones, la discapacidad, el incesto, la mentira, la culpa, una histeria grave y sufriente, y un amor desmesurado al borde mismo de la locura. Al final de cada relato, el desarrollo de un concepto teórico y su articulación con el caso expuesto son una invitación a indagar, ya no sólo en lo acontecido durante las sesiones, sino también en el marco conceptual que sostiene la práctica clínica. Lejos está la intención de llevar esta propuesta a un texto de estudio sobre Psicoanálisis. Se trata mejor de compartir experiencias vitales, irrepetibles. Momentos sostenidos en la pura pasión de quien mira al miedo a los ojos para hacer más llevadero un mundo que duele. Y es ahí, en esa zona entre perturbadora y turbulenta, donde sale al cruce Historias inconscientes. Como testimonio y a la vez palabra de acción. Como el libro que confirma definitivamente a Gabriel Rolón entre los autores más importantes de la última década..",
+      "price": 1000,
+      "status": "Disponible",
+      "images": [
+        "Gabriel_rolon_historiasinconscientes.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 70,
+      "name": "Gabriel Rolón - Los padecientes",
+      "categories": ["Libros"],
+      "description": "Un thriller psicológico cargado de zonas oscuras. Los padecientes Gabriel Rolón Hace poco menos de un año que Pablo Rouviot, un reconocido psicoanalista, terminó una turbulenta historia de amor desde entonces, se ha transformado en un hombre taciturno y solitario. Una noche, una joven de 27 años llega a su consultorio y le formula un pedido bastante particular. El cuerpo de su padre, un poderoso empresario, fue encontrado acuchillado en un descampado cercano a su casa, y su hermano, un joven con graves problemas psicológicos, está acusado de haber sido el responsable del crimen. Paula necesita que la ayude a demostrar que su hermano es inimputable, alguien incapaz de comprender la peligrosidad de sus actos. Sin embargo, antes de responderle, Pablo decide hacer algunas averiguaciones y de a poco recompone una trama siniestra en la que nada es lo que parece. Médicos, policías, abogados y amantes se confabulan en un cuadro turbio que se suma a una historia familiar cargada de violencia y zonas oscuras. Desde ese momento, el día a día del psicólogo se transforma en una pesadilla en la que únicamente lo moviliza una obsesión: llegar a la verdad, por más dolorosa que sea. Los padecientes, la primera novela de Gabriel Rolón, es un thriller psicológico que lleva algo de luz a los umbrales de las relaciones humanas sin por eso perder de vista dos características que lo convierten en un libro vibrante: su pulso cinematográfico y el vértigo de un policial que corta el aliento..",
+      "price": 1000,
+      "status": "Disponible",
+      "images": [
+        "Gabriel_rolon_lospadecientes.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 71,
+      "name": "Germán Torres - Salvaje Bakery - Pan de Garage",
+      "categories": ["Libros"],
+      "description": "Llega Pan de garage, el primer libro del panadero y creador de Salvaje Bakery, Germán Torres. El pan puede volver a ser ese alimento real que nos hacía felices. El primer alimento, el más noble y compartido. El que tiene aroma, el que cruje y te deja una sonrisa en la cara después de probarlo. El que está horneado en el día y no sobrevive artificialmente por semanas en la góndola de un supermercado. Esa es la premisa de la que parte Pan de garage, el primer libro del panadero y creador de Salvaje Bakery, Germán Torres. Con espíritu rockero, el mismo que suena cada día en su local de Palermo, Torres nos guía en el camino de reconocer, hacer y utilizar este buen pan.  Cómo empezar de cero una masa madre, alimentarla y conservarla, de qué manera calibrar la acidez, la sal, la humedad y cómo preparar distintos panes: de campo, integral, de centeno, de burger, baguette, focaccia y brioche para usarlos en ochenta recetas. Alejado de los tecnicismos y más cerca del instinto y de una búsqueda vital. Del aprendizaje a través de la prueba y el error.",
+      "price": 3000,
+      "status": "Disponible",
+      "images": [
+        "German_torres_pandegarage.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 72,
+      "name": "Yuval Noah Harari - Homo Deus",
+      "categories": ["Libros"],
+      "description": "Tras el éxito de Sapiens. De animales a dioses, Yuval Noah Harari vuelve su mirada al futuro para ver hacia dónde nos dirigimos.La guerra es algo obsoleto. Es más probable quitarse la vida que morir en un conflicto bélico.La hambruna está desapareciendo. Es más habitual sufrir obesidad que pasar hambre.La muerte es solo un problema técnico. Adiós igualdad. Hola inmortalidad.¿Qué nos depara el futuro?Yuval Noah Harari, autor bestseller de Sapiens. De animales a dioses, augura un mundo no tan lejano en el cual nos veremos enfrentados a una nueva serie de retos. Homo Deus explora los proyectos, los sueños y las pesadillas que irán moldeando el siglo XXI -desde superar la muerte hasta la creación de la inteligencia artificial.- Cuando tu Smartphone te conozca mejor de lo que te conoces a ti mismo, ¿seguirás escogiendo tu trabajo, a tu pareja y a tu presidente?- Cuando la inteligencia artificial nos desmarque del mercado laboral, ¿encontrarán los millones de desempleados algún tipo de significado en las drogas o los juegos virtuales?- Cuando los cuerpos y cerebros sean productos de diseño, ¿cederá la selección natural el paso al diseño inteligente?Esto es el futuro de la evolución. Esto es Homo Deus.",
+      "price": 2000,
+      "status": "Disponible",
+      "images": [
+        "Harari_homodeus.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 73,
+      "name": "John Katzenbach - Personas Desconocidas",
+      "categories": ["Libros"],
+      "description": "Katzenbach nos ofrece un thriller de ritmo imparable, protagonistas convincentes y trama compleja pero fascinante al mismo tiempo. Gabriel Gabe Dickenson y Marta Rodríguez-Johnson han servido a la policía de manera impecable, hasta que un día sus vidas se tuercen irreversiblemente. Ahora están condenados a trabajar juntos en esos casos olvidados y nunca aclarados que nadie quiere, en realidad, resolver. Es una manera de matar el tiempo mientras esperan a que sus jefes decidan que hacer con ellos. Sin embargo, entre ese montón de archivos polvorientos, Marta y Gabe están a punto de encontrar la clave para resolver no solo cuatro extraños asesinatos cometidos dos décadas atrás, sino también una de esas impactantes desapariciones que marcaron un antes y un después en toda una comunidad. Si hacen las preguntas adecuadas, hallarán la respuesta. Pero puede que sea mejor no preguntar. Porque lo que no sospechan es que quien está detrás de esas muertes se encuentra muy cerca de ellos. Y prefiere que no se sepa la verdad. ¿Podrán un policía alcohólico y una especialista en narcóticos incapaz de empuñar un arma enfrentarse al poder de su departamento para resolver un crimen imposible?",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "john_katzenbach_personasdesconocidas.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    }
+    ,
+    {
+      "id": 74,
+      "name": "Jean Piaget - La psicología de la inteligencia",
+      "categories": ["Libros"],
+      "description": "Colección La Nación",
+      "price": 800,
+      "status": "Disponible",
+      "images": [
+        "Piaget_psicologiadelainteligencias.jpeg"
       ],
       "comprador": "",
       "cobrado": ""
