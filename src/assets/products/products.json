@@ -1036,6 +1036,21 @@
       "images": ["Koppitz_testguestalticovisomor.jpeg"],
       "comprador": "",
       "cobrado": ""
+    },
+    {
+      "id": 79,
+      "name": "Cubos Madera de pino x 3",
+      "categories": ["Muebles", "Deco"],
+      "description": "PRECIO POR EL COMBO DE 3. Cubos de madera de pino x 3 unidades. Medidas externas 40 x 40 x 40 cm. Barnizados con Cetol.",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "cubos_madera_1.jpeg",
+        "cubos_madera_2.jpeg",
+        "cubos_madera_3.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
     }
   ]
 }
