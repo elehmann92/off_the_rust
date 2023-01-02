@@ -17,7 +17,7 @@ const rows = products.map((product) => {
     comprador: product.comprador || null,
     status: product.status,
     cobrado: product.cobrado || null,
-    price: product.price,
+    price: product.price?.toLocaleString("de-DE"),
     name: product.name,
   };
 });
