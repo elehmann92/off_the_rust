@@ -219,8 +219,8 @@
       "name": "Pie Stagg Wis-a30 Para Saxo Alto / Tenor",
       "categories": ["Instrumentos"],
       "description": "Sirve tanto para Saxo Alto como para Saxo Tenor. Liviano y resistente. Tetones de goma antideslizantes. Caño hueco pintado de negro. Articulaciones con tornillos de acero y tuerca autofrenante. Soportes superior e inferior cubiertos con neoprene para no rayar el instrumento. Fácil de desarmar y transportar. De fácil adaptación para Alto / Tenor, mediante el soporte inferior que está tomado con una mariposa. Desmontable.",
-      "price": 4000,
-      "status": "Disponible",
+      "price": 3700,
+      "status": "Vendido",
       "images": [
         "soporte_saxo.webp",
         "soporte_saxo6.webp",
@@ -228,7 +228,9 @@
         "soporte_saxo5.webp",
         "soporte_saxo.jpeg",
         "soporte_saxo2.jpeg"
-      ]
+      ],
+      "comprador":"Daniela Ballani (ML)",
+      "cobrado":"no"
     },
     {
       "id": 18,
