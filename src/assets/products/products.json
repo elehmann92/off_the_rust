@@ -6,7 +6,7 @@
       "categories": ["Indumentaria", "Deportes y Fitness"],
       "description": "Modelo FV2560. Futsal, futbol sala. Excelente estado, casi sin uso. Talle 40.5 (US 8 1/2)",
       "price": 15000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "Adidas_sala_super.webp",
         "Adidas_sala_super2.webp",
@@ -16,7 +16,9 @@
         "Adidas_sala_super6.webp",
         "Adidas_sala_super7.jpeg",
         "Adidas_sala_super8.jpeg"
-      ]
+      ],
+      "comprador":"César Ríos (ML) RC9959605",
+      "cobrado":"no"
     },
     {
       "id": 1,
