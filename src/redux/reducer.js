@@ -7,10 +7,13 @@ import {
 
 const categories = [];
 products.forEach((product) =>
-  product.categories.forEach((category) => {
+  product.status !== 'Vendido' && product.categories.forEach((category) => {
     !categories.includes(category) && categories.push(category);
   })
 );
+
+// Shuffle init
+products.sort((a,b) => 0.5 - Math.random())
 
 const initialState = {
   allProducts: products.filter((product) => product.status !== "Vendido" && product.status !== "Pausado"),
