@@ -48,7 +48,7 @@
       "categories": ["Bici y Accesorios"],
       "description": "Bicicleta Golon Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
-      "status": "Reservado",
+      "status": "Disponible",
       "images": ["Golon Urbana.jpg"],
       "comprador": "chris fefe",
       "cobrado": "no"
@@ -293,7 +293,7 @@
       "categories": ["Bici y Accesorios"],
       "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
       "price": 3500,
-      "status": "Reservado",
+      "status": "Disponible",
       "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"],
       "comprador": "chris fefe",
       "cobrado": "no"
