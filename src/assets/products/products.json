@@ -79,7 +79,7 @@
       "categories": ["Muebles"],
       "description": "Cómoda de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior esmalte en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
       "price": 15000,
-      "status": "Reservado",
+      "status": "Disponible",
       "images": [
         "Comoda 2.jpg",
         "Comoda1.jpg",
@@ -87,8 +87,8 @@
         "Comoda4.jpg",
         "Comoda5.jpg"
       ],
-      "comprador":"javi",
-      "cobrado":"no"
+      "comprador":"",
+      "cobrado":""
     },
 
     {
