@@ -124,14 +124,16 @@
       "name": "Kit 4 sillas director",
       "categories": ["Muebles"],
       "description": "JUEGO DE 4 SILLAS DIRECTOR PLEGABLES. Tela color crudo desmontable y lavable. Medidas: 53 (ancho) x 85 (alto) x 40 (prof.). Altura asiento: 45cm.",
-      "price": 32000,
-      "status": "Disponible",
+      "price": 28000,
+      "status": "Vendido",
       "images": [
         "silla_director1.jpeg",
         "silla_director2.jpeg",
         "silla_director3.jpeg",
         "silla_director4.jpeg"
-      ]
+      ],
+      "comprador": "Lucy",
+      "cobrado": "no"
     },
     {
       "id": 10,
@@ -879,14 +881,14 @@
       "categories": ["Muebles"],
       "description": "Baúl de madera de pino. Medidas 60 x 40 x 45 (largo x ancho x alto). Con barniz protector. Manijas de soga de yute.",
       "price": 4000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "Baul_madera_1.jpeg",
         "Baul_madera_2.jpeg",
         "Baul_madera_3.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Lucy",
+      "cobrado": "no"
     },
     {
       "id": 65,
@@ -1024,22 +1026,22 @@
       "name": "Elizabeth Munsterberg Koppitz - El Dibujo De La Figura Humana En Los Niños",
       "categories": ["Libros"],
       "description": "El Dibujo De La Figura Humana En Los Niños. Autora: Koppitz. Idioma español. Editorial Guadalupe. Edición 2015. ISBN: 9789505008254",
-      "price": 1200,
-      "status": "Disponible",
+      "price": 1000,
+      "status": "Vendido",
       "images": ["Koppitz_eldibujohumanodelosninos.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Lucy",
+      "cobrado": "no"
     },
     {
       "id": 78,
       "name": "Elizabeth Munsterberg Koppitz - Test Guestáltico Visomotor para Niños",
       "categories": ["Libros"],
       "description": "Test Guestaltico Visomotor Para Niños. Autora: Koppitz. Idioma español. Editorial Guadalupe. Edición 2017. ISBN: 9789505000258",
-      "price": 1200,
-      "status": "Disponible",
+      "price": 1000,
+      "status": "Vendido",
       "images": ["Koppitz_testguestalticovisomor.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Lucy",
+      "cobrado": "no"
     },
     {
       "id": 79,
