@@ -75,15 +75,19 @@ export default function SearchAppBar() {
           style={{ backgroundColor: "var(--primaryColor)" }}
         >
           <Toolbar>
+            <img
+              onClick={() => navigate('/products')}
+              style={{ height: "40px", cursor: "pointer" }}
+              src="/favicon.png"
+              alt="moving out"
+            />
             <FilterButton />
             <Typography
               variant="h6"
               noWrap
               component="div"
               sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
-            >
-              <b>SE VENDE TUTTI !</b>
-            </Typography>
+            ></Typography>
             <Search>
               <SearchIconWrapper>
                 <SearchIcon />
