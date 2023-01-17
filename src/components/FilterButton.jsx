@@ -6,10 +6,12 @@ import FilterAltIcon from "@mui/icons-material/FilterAlt";
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
 import { setCategoryFilter } from "../redux/actions";
+import { useNavigate } from "react-router-dom";
 
 export default function FilterButton() {
   const { categories, categoryFilter } = useSelector((state) => state);
   const dispatch = useDispatch();
+  const navigate = useNavigate();
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
   const handleClick = (event) => {
@@ -18,6 +20,7 @@ export default function FilterButton() {
   const handleClose = (category) => {
     dispatch(setCategoryFilter(category));
     setAnchorEl(null);
+    if (window.location.href.slice(-9) !== "/products") navigate("/products");
   };
 
   return (
