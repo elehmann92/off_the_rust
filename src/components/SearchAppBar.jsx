@@ -76,7 +76,10 @@ export default function SearchAppBar() {
         >
           <Toolbar>
             <img
-              onClick={() => navigate('/products')}
+              onClick={() => {
+                navigate('/products');
+                dispatch(setCategoryFilter(""))
+              }}
               style={{ height: "40px", cursor: "pointer" }}
               src="/favicon.png"
               alt="moving out"
