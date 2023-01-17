@@ -961,10 +961,10 @@
       "categories": ["Libros"],
       "description": "Llega Pan de garage, el primer libro del panadero y creador de Salvaje Bakery, Germán Torres. El pan puede volver a ser ese alimento real que nos hacía felices. El primer alimento, el más noble y compartido. El que tiene aroma, el que cruje y te deja una sonrisa en la cara después de probarlo. El que está horneado en el día y no sobrevive artificialmente por semanas en la góndola de un supermercado. Esa es la premisa de la que parte Pan de garage, el primer libro del panadero y creador de Salvaje Bakery, Germán Torres. Con espíritu rockero, el mismo que suena cada día en su local de Palermo, Torres nos guía en el camino de reconocer, hacer y utilizar este buen pan.  Cómo empezar de cero una masa madre, alimentarla y conservarla, de qué manera calibrar la acidez, la sal, la humedad y cómo preparar distintos panes: de campo, integral, de centeno, de burger, baguette, focaccia y brioche para usarlos en ochenta recetas. Alejado de los tecnicismos y más cerca del instinto y de una búsqueda vital. Del aprendizaje a través de la prueba y el error.",
       "price": 3000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["German_torres_pandegarage.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Benjamín Sánchez (ML)",
+      "cobrado": "no"
     },
     {
       "id": 72,
