@@ -150,19 +150,19 @@
     },
     {
       "id": 11,
-      "name": "Adidas Ultraboost 22",
-      "categories": ["Indumentaria"],
-      "description": "Zapatillas Adidas Ultraboost 22. Talle 40 (US 8 1/2). Usadas.",
-      "price": 40000,
-      "status": "Disponible",
+      "name": "Barra Dominadas (blanca)",
+      "categories": ["Deportes y Fitness"],
+      "description": "BARRA DOMINADAS. BARRA 4 AGARRES. - Distancia entre orificios de sujeción 52 cm. - Estética y fuerte, la mejor en ejercicios de dominadas. - Pintura   Electrostática (resistente a la intemperie). - Medidas: 105 cm ancho x 60 cm largo (medido desde la pared). - Incluye 4 grips soft colocados en los agarres para una  ejercitación.",
+      "price": 6500,
+      "status": "Publicado",
       "images": [
-        "zapas_adidas_negras1.jpeg",
-        "zapas_adidas_negras2.jpeg",
-        "zapas_adidas_negras3.jpeg",
-        "zapas_adidas_negras4.jpeg",
-        "zapas_adidas_negras5.jpeg",
-        "zapas_adidas_negras6.jpeg"
-      ]
+        "barra_dominadas1.webp",
+        "barra_dominadas2.jpeg",
+        "barra_dominadas3.jpeg",
+        "barra_dominadas4.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
     },
     {
       "id": 12,
