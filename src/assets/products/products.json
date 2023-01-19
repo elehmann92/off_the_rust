@@ -48,7 +48,7 @@
       "categories": ["Bici y Accesorios"],
       "description": "Bicicleta Golon Híbrida. Rodado 28 (70cm). 7 cambios. Componentes Shimano. Ruedas de pista, 2,5cm espesor.",
       "price": 120000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Golon Urbana.jpg"],
       "comprador": "chris fefe",
       "cobrado": "no"
@@ -133,7 +133,7 @@
         "silla_director4.jpeg"
       ],
       "comprador": "Lucy",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 10,
@@ -192,7 +192,7 @@
         "colchoneta_y_pesas2.jpeg"
       ],
       "comprador": "chris fefe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 15,
@@ -294,11 +294,11 @@
       "name": "Candado Exocet Traba U Std 320 P/ Bicicletas o Motos.",
       "categories": ["Bici y Accesorios"],
       "description": "TRABA U EXOCET 320 SEGURIDAD PARA MOTOS Y BICICLETAS. Apertura de llave. Cuenta con 2 llaves.",
-      "price": 3500,
-      "status": "Disponible",
+      "price": 0,
+      "status": "Vendido",
       "images": ["Candado_U_exocet.webp", "Candado_U_exocet2.webp"],
       "comprador": "chris fefe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 22,
@@ -504,7 +504,7 @@
         "juego_de_te_4.jpeg"
       ],
       "comprador": "chris fefe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 37,
@@ -574,8 +574,8 @@
         "vaso_whisky_wolf_4.webp",
         "vasos_whisky_wolf.jpeg"
       ],
-      "cobrado": "no",
-      "comprador": "chris fefe"
+      "comprador": "chris fefe",
+      "cobrado": "si"
     },
     {
       "id": 42,
@@ -888,7 +888,7 @@
         "Baul_madera_3.jpeg"
       ],
       "comprador": "Lucy",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 65,
@@ -1016,10 +1016,10 @@
       "categories": ["Libros"],
       "description": "En sus tronos viven los reyes. Y en el cielo; o entre las ramas mas altas de los arboles; habitan los pajaros. Sin embargo; en este libro; tambien hay pajaros prisioneros; que solo sueñan con su libertad; y otros que; siendo libres; luchan sin descanso para cumplir el sueño de un amigo. Hay reyes que cambiaron el destino de sus pueblos y otros que solo vivieron en las leyendas. Entre estas paginas hay; incluso; cuentos sin reyes ni pajaros¿ Pero todos ellos tienen algo en comun: la magia de la palabra poetica de Liliana Bodoc.",
       "price": 999,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Liliana_bodoc_reyesypajaros.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Lucy",
+      "cobrado": "si"
     },
     {
       "id": 77,
@@ -1030,7 +1030,7 @@
       "status": "Vendido",
       "images": ["Koppitz_eldibujohumanodelosninos.jpeg"],
       "comprador": "Lucy",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 78,
@@ -1041,7 +1041,7 @@
       "status": "Vendido",
       "images": ["Koppitz_testguestalticovisomor.jpeg"],
       "comprador": "Lucy",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 79,
