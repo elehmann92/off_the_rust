@@ -51,7 +51,7 @@
       "status": "Vendido",
       "images": ["Golon Urbana.jpg"],
       "comprador": "chris fefe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 4,
