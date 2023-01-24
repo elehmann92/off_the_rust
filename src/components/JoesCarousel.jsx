@@ -57,7 +57,7 @@ export const Carousel = ({ product }) => (
           <CategoryLabel key={category} category={category} />
         ))}
       </div>
-      <p>{product?.description}</p>
+      <p id="productDescription">{product?.description}</p>
     </div>
   </div>
 );
