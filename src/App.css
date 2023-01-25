@@ -146,6 +146,33 @@
   height: 70%;
 }
 
+.back-to-top.zoom-in {
+  animation: zoom-in 500ms ease-in-out;
+}
+
+@keyframes zoom-in {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.back-to-top.zoom-out {
+  animation: zoom-out 500ms ease-in-out;
+}
+
+@keyframes zoom-out {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0);
+  }
+}
+
+
 .whatsapp_logo {
   border-style: none;
   position: fixed;
