@@ -97,10 +97,10 @@
       "categories": ["Muebles"],
       "description": "MESA estilo escandinava de madera de pino macizo. Pintada en esmalte blanco y barniz al agua. Medidas: 120 (largo) x70(ancho) x 80(alto).",
       "price": 12000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": ["Mesa_pino.jpeg", "Mesa_pino2.jpeg", "Mesa_pino3.jpeg"],
       "comprador": "santi mafia",
-      "cobrado": "no"
+      "cobrado": "si"
     },
 
     {
@@ -927,10 +927,10 @@
       "categories": ["Libros"],
       "description": "Historias que van de la risa al llanto y de la pena a la alegría. Como la vida misma. Hace diez años, Gabriel Rolón iniciaba un viaje único de la mano de la publicación de Historias de diván. Un recorrido que no sólo lo convertiría en el escritor más vendido de la Argentina de la última década, sino que también le permitió llevar adelante una misión que él mismo se impuso desde el inicio: sostener el psicoanálisis en el lugar que merece como una disciplina capaz de transformar una vida, de dar alivio a quien padece un dolor. Hoy, con la mirada puesta en el espejo y en retrospectiva, fueron muchas las cosas que sucedieron: más de 300.000 ejemplares vendidos, traducciones al francés, portugués, alemán e italiano, series de televisión, obras de teatro, charlas, debates y congresos internacionales. Para agradecer una relación única entre un autor y sus lectores, y celebrar diez años de amistad es esta edición de Diez historias de diván. Pero también, para poder decir misión cumplida: Gabriel Rolón supo marcar –como nadie– un antes y un después en la difusión y en la defensa del psicoanálisis..",
       "price": 1000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Gabriel_rolon_historiasdedivan.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Mercadolibre",
+      "cobrado": "si"
     },
     {
       "id": 68,
