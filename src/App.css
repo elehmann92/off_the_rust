@@ -160,7 +160,8 @@
 }
 
 .back-to-top.zoom-out {
-  animation: zoom-out 500ms ease-in-out;
+  animation: zoom-out 0.5s;
+  animation-fill-mode: forwards;
 }
 
 @keyframes zoom-out {
