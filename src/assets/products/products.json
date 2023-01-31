@@ -971,10 +971,10 @@
       "categories": ["Libros"],
       "description": "Tras el éxito de Sapiens. De animales a dioses, Yuval Noah Harari vuelve su mirada al futuro para ver hacia dónde nos dirigimos.La guerra es algo obsoleto. Es más probable quitarse la vida que morir en un conflicto bélico.La hambruna está desapareciendo. Es más habitual sufrir obesidad que pasar hambre.La muerte es solo un problema técnico. Adiós igualdad. Hola inmortalidad.¿Qué nos depara el futuro?Yuval Noah Harari, autor bestseller de Sapiens. De animales a dioses, augura un mundo no tan lejano en el cual nos veremos enfrentados a una nueva serie de retos. Homo Deus explora los proyectos, los sueños y las pesadillas que irán moldeando el siglo XXI -desde superar la muerte hasta la creación de la inteligencia artificial.- Cuando tu Smartphone te conozca mejor de lo que te conoces a ti mismo, ¿seguirás escogiendo tu trabajo, a tu pareja y a tu presidente?- Cuando la inteligencia artificial nos desmarque del mercado laboral, ¿encontrarán los millones de desempleados algún tipo de significado en las drogas o los juegos virtuales?- Cuando los cuerpos y cerebros sean productos de diseño, ¿cederá la selección natural el paso al diseño inteligente?Esto es el futuro de la evolución. Esto es Homo Deus.",
       "price": 2000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Harari_homodeus.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Mercadolibre",
+      "cobrado": "si"
     },
     {
       "id": 73,
