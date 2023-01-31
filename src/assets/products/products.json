@@ -154,7 +154,7 @@
       "categories": ["Deportes y Fitness"],
       "description": "BARRA DOMINADAS. BARRA 4 AGARRES.\n- Distancia entre orificios de sujeción 52 cm. \n- Estética y fuerte, la mejor en ejercicios de dominadas. \n- Pintura Electrostática (resistente a la intemperie).\n- Medidas: 105 cm ancho x 60 cm largo (medido desde la pared).\n- Incluye 4 grips soft colocados en los agarres para una  ejercitación.",
       "price": 6500,
-      "status": "Publicado",
+      "status": "Disponible",
       "images": [
         "barra_dominadas2.jpeg",
         "barra_dominadas3.jpeg",
@@ -516,7 +516,7 @@
     },
     {
       "id": 38,
-      "name": "Juego Frascos de Vidrio Herméticos",
+      "name": "Juego de 6 Frascos de Vidrio Herméticos",
       "categories": ["Cocina"],
       "description": "Juego de 6 frascos de vidrio con cierre hermético. 2 chicos + 4 grandes. Tamaño chico: 17 x 10. Tamaño grande: 22 x 10",
       "price": 4000,
@@ -836,11 +836,11 @@
       "name": "Lavarropas Drean 600rpm 6kg Excellent Blue (FEBRERO)",
       "categories": ["Electrodomésticos"],
       "description": "** DISPONIBLE A PARTIR DE FEBRERO **  - Clase AA - Centrifugado 600 rpm - Capacidad 6 kg - Carga Autoadaptativa - Panel de 8 LEDs - Sistema Autobalance - 23 programas - Selector de programas bidireccional transiluminado - Super Enjuague - Antiarrugas - Lavado Rápido - Lavado 1/2 hora - Hand Wash - Ciclos Específicos de lavado - Jabonera con dispensers modificables - Efecto SOFT -• Eco Wash +- Nuevo Gabinete Medidas: ALTO 85.5 CM. ANCHO 59.5 CM. PROF. 49.5 CM. Origen Argentina",
-      "price": 65000,
+      "price": 60000,
       "status": "Disponible",
       "images": ["lavarropas_drean_1.webp"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Hermana Kam",
+      "cobrado": "no"
     },
     {
       "id": 62,
