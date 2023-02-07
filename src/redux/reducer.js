@@ -13,7 +13,7 @@ products.forEach((product) =>
 );
 
 // Shuffle init
-products.sort((a,b) => 0.5 - Math.random())
+// products.sort((a,b) => 0.5 - Math.random())
 
 const initialState = {
   allProducts: products.filter((product) => product.status !== "Vendido" && product.status !== "Pausado"),
