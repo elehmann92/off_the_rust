@@ -1,6 +1,38 @@
 {
   "products": [
     {
+      "id": 62,
+      "name": "Heladera Con Freezer Top House 231 L Hd-31f Blanco (FEBRERO)",
+      "categories": ["Electrodomésticos"],
+      "description": "** DISPONIBLE A PARTIR DE FEBRERO **  - Heladera Top Houe con freezer. Enfriamiento cíclico. Capacidad bruta 240 l (neta 231 l). COlor blanco. Capacidad neta heladera 199 l. Anaqueles contrapuerta heladera: 4. Estantes heladera: 4. Material de estantes: vidrio templado. Cajon de vegetales: sí. Soporte para latas: no. Capacidad freezer: 41 l. Anaqueles contrapuerta freezer: no. Estantes freezer: 1. Material: rejilla metálica. Fabica de hielo: no. Estantes removibles: si. Dispenser: no. Display: no. Control de temperatura: si. Eficiencia energética: A. Medidas: 55 x 55 x 159 (ancho x profundo x alto). Peso: 42kg. ",
+      "price": 70000,
+      "status": "Disponible",
+      "images": [
+        "heladera_tophouse_1.jpg",
+        "heladera_tophouse_2.jpg",
+        "heladera_tophouse_3.jpg",
+        "heladera_tophouse_4.jpg",
+        "heladera_tophouse_5.jpg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    },
+    {
+      "id": 81,
+      "name": "Sommier Cannon + Colchón espuma alta densidad",
+      "categories": ["Camas"],
+      "description": "Base box Sommier 2 plazas marca CANNON (150 x 190 cm).\n- Estructura: madera estacionada cubierta de espuma de alta densidad con patas de madera torneada y laqueada\n- Altura de la base: 20 cm.\n- Altura con patas incluidas: 31 cm.\n- Tela: Algodón totalmente matelaseada.\n- Colchón de espuma de alta densidad genérico (el colchón no es Cannon)",
+      "price": 20000,
+      "status": "Disponible",
+      "images": [
+        "sommier1.jpeg",
+        "sommier2.jpeg",
+        "sommier4.jpeg",
+        "sommier3.jpeg",
+        "colchon1.jpeg"
+      ]
+    },
+    {
       "id": 24,
       "name": "Botines Adidas Futsal",
       "categories": ["Indumentaria", "Deportes y Fitness"],
@@ -846,23 +878,7 @@
       "comprador": "Hermana Kam",
       "cobrado": "no"
     },
-    {
-      "id": 62,
-      "name": "Heladera Con Freezer Top House 231 L Hd-31f Blanco (FEBRERO)",
-      "categories": ["Electrodomésticos"],
-      "description": "** DISPONIBLE A PARTIR DE FEBRERO **  - Heladera Top Houe con freezer. Enfriamiento cíclico. Capacidad bruta 240 l (neta 231 l). COlor blanco. Capacidad neta heladera 199 l. Anaqueles contrapuerta heladera: 4. Estantes heladera: 4. Material de estantes: vidrio templado. Cajon de vegetales: sí. Soporte para latas: no. Capacidad freezer: 41 l. Anaqueles contrapuerta freezer: no. Estantes freezer: 1. Material: rejilla metálica. Fabica de hielo: no. Estantes removibles: si. Dispenser: no. Display: no. Control de temperatura: si. Eficiencia energética: A. Medidas: 55 x 55 x 159 (ancho x profundo x alto). Peso: 42kg. ",
-      "price": 70000,
-      "status": "Disponible",
-      "images": [
-        "heladera_tophouse_1.jpg",
-        "heladera_tophouse_2.jpg",
-        "heladera_tophouse_3.jpg",
-        "heladera_tophouse_4.jpg",
-        "heladera_tophouse_5.jpg"
-      ],
-      "comprador": "",
-      "cobrado": ""
-    },
+    
     {
       "id": 63,
       "name": "Grabadora DVD portátil Samsung Slim AV SE-208DB",
@@ -1074,21 +1090,7 @@
         "impresora2.jpeg",
         "impresora3.jpeg"
       ]
-    },
-    {
-      "id": 81,
-      "name": "Sommier Cannon + Colchón espuma alta densidad",
-      "categories": ["Camas"],
-      "description": "Base box Sommier 2 plazas marca CANNON (150 x 190 cm).\n- Estructura: madera estacionada cubierta de espuma de alta densidad con patas de madera torneada y laqueada\n- Altura de la base: 20 cm.\n- Altura con patas incluidas: 31 cm.\n- Tela: Algodón totalmente matelaseada.\n- Colchón de espuma de alta densidad genérico (el colchón no es Cannon)",
-      "price": 20000,
-      "status": "Disponible",
-      "images": [
-        "sommier1.jpeg",
-        "sommier2.jpeg",
-        "sommier4.jpeg",
-        "sommier3.jpeg",
-        "colchon1.jpeg"
-      ]
     }
+
   ]
 }
