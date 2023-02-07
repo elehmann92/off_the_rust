@@ -534,14 +534,17 @@
       "name": "Tostadora Sandwichera Wafflera Grill Tophouse",
       "categories": ["Electrodomésticos"],
       "description": "SANDWICHERA WAFFLERA Y GRILL 3 EN 1. Marca Tophouse. Modelo LW-616N. 220V. Sirve para preparar tostados y waffles! PLACAS INTERCAMBIABLES ANTIADHERENTE.",
-      "price": 6500,
-      "status": "Disponible",
+      "price": 4000,
+      "status": "Vendido",
       "images": [
         "sandwitchera_tophouse.webp",
         "tostadora_sandwitchera.jpeg",
         "tostadora_sandwitchera_2.jpeg",
         "tostadora_sandwitchera_3.jpeg"
-      ]
+      ],
+      "comprador": "Mercadolibre",
+      "cobrado":"si"
+      
     },
     {
       "id": 40,
