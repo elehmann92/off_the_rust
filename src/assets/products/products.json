@@ -198,9 +198,11 @@
       "name": "Zapatos Negros Sport - Zara",
       "categories": ["Indumentaria"],
       "description": "Zapatos Negros Sport Zara. Talle 41 AR (US 8 1/2). Cuerina negra con suela de goma blanca. Excelente estado.",
-      "price": 6000,
-      "status": "Disponible",
-      "images": ["zapatos_sport.jpeg", "zapatos_sport2.jpeg"]
+      "price": 3000,
+      "status": "Vendido",
+      "images": ["zapatos_sport.jpeg", "zapatos_sport2.jpeg"],
+      "comprador": "mateo ml",
+      "cobrado": "si"
     },
     {
       "id": 16,
