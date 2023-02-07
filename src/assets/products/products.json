@@ -17,8 +17,8 @@
         "Adidas_sala_super7.jpeg",
         "Adidas_sala_super8.jpeg"
       ],
-      "comprador":"César Ríos (ML) RC9959605",
-      "cobrado":"no"
+      "comprador": "César Ríos (ML) RC9959605",
+      "cobrado": "no"
     },
     {
       "id": 1,
@@ -87,8 +87,8 @@
         "Comoda4.jpg",
         "Comoda5.jpg"
       ],
-      "comprador":"",
-      "cobrado":""
+      "comprador": "",
+      "cobrado": ""
     },
 
     {
@@ -234,8 +234,8 @@
         "soporte_saxo.jpeg",
         "soporte_saxo2.jpeg"
       ],
-      "comprador":"Daniela Ballani (ML)",
-      "cobrado":"no"
+      "comprador": "Daniela Ballani (ML)",
+      "cobrado": "no"
     },
     {
       "id": 18,
@@ -545,8 +545,7 @@
         "tostadora_sandwitchera_3.jpeg"
       ],
       "comprador": "Mercadolibre",
-      "cobrado":"si"
-      
+      "cobrado": "si"
     },
     {
       "id": 40,
@@ -1061,6 +1060,35 @@
       ],
       "comprador": "",
       "cobrado": ""
+    },
+    {
+      "id": 80,
+      "name": "Impresora Epson XP-211",
+      "categories": ["Tecnología"],
+      "description": "Impresora Epson xp-211 modelo C452M- 100 a 240 V",
+      "price": 20000,
+      "status": "Disponible",
+      "images": [
+        "impresora.jpeg",
+        "impresora1.jpeg",
+        "impresora2.jpeg",
+        "impresora3.jpeg"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Sommier Cannon + Colchón espuma alta densidad",
+      "categories": ["Camas"],
+      "description": "Base box Sommier 2 plazas marca CANNON (150 x 190 cm).\n- Estructura: madera estacionada cubierta de espuma de alta densidad con patas de madera torneada y laqueada\n- Altura de la base: 20 cm.\n- Altura con patas incluidas: 31 cm.\n- Tela: Algodón totalmente matelaseada.\n- Colchón de espuma de alta densidad genérico (el colchón no es Cannon)",
+      "price": 20000,
+      "status": "Disponible",
+      "images": [
+        "sommier1.jpeg",
+        "sommier2.jpeg",
+        "sommier4.jpeg",
+        "sommier3.jpeg",
+        "colchon1.jpeg"
+      ]
     }
   ]
 }
