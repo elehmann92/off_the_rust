@@ -556,14 +556,16 @@
       "categories": ["Cocina"],
       "description": "Juego de 6 frascos de vidrio con cierre hermético. 2 chicos + 4 grandes. Tamaño chico: 17 x 10. Tamaño grande: 22 x 10",
       "price": 4000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "juego_frascos_vidrio.jpeg",
         "juego_frascos_vidrio_2.jpeg",
         "juego_frascos_vidrio_3.jpeg",
         "juego_frascos_vidrio_4.jpeg",
         "juego_frascos_vidrio_5.jpeg"
-      ]
+      ],
+      "comprador":"facebook marketplace",
+      "cobrado": "si"
     },
     {
       "id": 39,
@@ -960,10 +962,10 @@
       "categories": ["Libros"],
       "description": "Vidas al límite. El nuevo libro de Gabriel Rolón He asumido hace tiempo que jamás lograré extirpar el dolor de mis pacientes, porque el dolor es parte constitutiva de la vida. No importa cuánto alguien se analice, de todos modos sufrirá si pierde un amor, o si muere un ser querido. El dolor es inevitable, pero no el padecimiento. Y esa diferencia es la que hace que cada día vuelva al consultorio. Sé que tampoco lograré que desaparezca en ellos la sensación, aunque a veces leve y susurrada, de soledad. Pero es así, pues, como decía aquella vieja canción, estamos todos solos. En el año 2007 Gabriel Rolón publicaba Historias de diván, un verdadero fenómeno editorial en el que ponía en evidencia una manera inédita de transmitir algo tan íntimo como es el encuentro entre un analista y su paciente, una forma radicalmente distinta de poner el Psicoanálisis al alcance de cientos de miles de lectores. Hoy, siete años después de aquel primer trabajo, toma el riesgo de ir un poco más lejos, hacia una zona en la que quien padece llega a una situación límite. Por eso, por estas páginas transitan las adicciones, la discapacidad, el incesto, la mentira, la culpa, una histeria grave y sufriente, y un amor desmesurado al borde mismo de la locura. Al final de cada relato, el desarrollo de un concepto teórico y su articulación con el caso expuesto son una invitación a indagar, ya no sólo en lo acontecido durante las sesiones, sino también en el marco conceptual que sostiene la práctica clínica. Lejos está la intención de llevar esta propuesta a un texto de estudio sobre Psicoanálisis. Se trata mejor de compartir experiencias vitales, irrepetibles. Momentos sostenidos en la pura pasión de quien mira al miedo a los ojos para hacer más llevadero un mundo que duele. Y es ahí, en esa zona entre perturbadora y turbulenta, donde sale al cruce Historias inconscientes. Como testimonio y a la vez palabra de acción. Como el libro que confirma definitivamente a Gabriel Rolón entre los autores más importantes de la última década..",
       "price": 1000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Gabriel_rolon_historiasinconscientes.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Mercadolibre",
+      "cobrado": "si"
     },
     {
       "id": 70,
