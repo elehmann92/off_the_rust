@@ -19,6 +19,7 @@ specifiers:
   redux: ^4.2.0
   redux-devtools-extension: ^2.13.9
   redux-thunk: ^2.4.2
+  unidecode: ^0.1.8
   vite: ^3.2.3
 
 dependencies:
@@ -37,6 +38,7 @@ dependencies:
   redux: 4.2.0
   redux-devtools-extension: 2.13.9_redux@4.2.0
   redux-thunk: 2.4.2_redux@4.2.0
+  unidecode: 0.1.8
 
 devDependencies:
   '@types/react': 18.0.26
@@ -1509,6 +1511,11 @@ packages:
   /to-fast-properties/2.0.0:
     resolution: {integrity: sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==}
     engines: {node: '>=4'}
+
+  /unidecode/0.1.8:
+    resolution: {integrity: sha512-SdoZNxCWpN2tXTCrGkPF/0rL2HEq+i2gwRG1ReBvx8/0yTzC3enHfugOf8A9JBShVwwrRIkLX0YcDUGbzjbVCA==}
+    engines: {node: '>= 0.4.12'}
+    dev: false
 
   /update-browserslist-db/1.0.10_browserslist@4.21.4:
     resolution: {integrity: sha512-OztqDenkfFkbSG+tRxBeAnCVPckDBcvibKd35yDONx6OU8N7sqgwc7rCbkJ/WcYtVRZ4ba68d6byhC21GFh7sQ==}

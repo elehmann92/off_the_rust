@@ -1,3 +1,4 @@
+import unidecode from 'unidecode'
 import { products } from "../assets/products/products.json";
 import {
   GET_SINGLE_PRODUCT,
@@ -34,10 +35,11 @@ export default (state = initialState, { type, payload }) => {
   const stateCopy = structuredClone(state);
   switch (type) {
     case SEARCH_PRODUCTS: {
+      const unidecoded = unidecode(payload)
       return {
         ...stateCopy,
         productsToDisplay: stateCopy.allProducts.filter((product) =>
-          product.name?.toLowerCase().includes(payload?.toLowerCase())
+          unidecode(product.name)?.toLowerCase().includes(unidecoded.toLowerCase())
         ),
       };
     }
