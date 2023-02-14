@@ -141,7 +141,7 @@
       "categories": ["Muebles"],
       "description": "PRECIO POR EL JUEGO DE MESAS DE LUZ. Estilo escandinavas de madera de pino macizo. Cuenta con dos cajones y un estante de 30 x 36 x 16 cm. Pintada en esmalte blanco y barniz al agua. Incluye vidrio protector en tapa superior. Medidas: 30 (fondo) x40(ancho) x 75(alto).",
       "price": 15000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "mesa de luz A 1.jpg",
         "mesa de luz A 2.jpg",
@@ -149,7 +149,9 @@
         "mesa de luz B1.jpg",
         "mesa de luz B2.jpg",
         "mesa de luz B3.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado": "no"
     },
     {
       "id": 14,
@@ -853,8 +855,8 @@
         "silla_comedor_blanca_7.jpeg",
         "silla_comedor_blanca_8.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Tati (laura)",
+      "cobrado": "no"
     },
     {
       "id": 60,
