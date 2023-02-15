@@ -1017,10 +1017,10 @@
       "categories": ["Libros"],
       "description": "Colección La Nación",
       "price": 800,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Piaget_psicologiadelainteligencias.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Yuliana Sánchez",
+      "cobrado": "si"
     },
     {
       "id": 75,
