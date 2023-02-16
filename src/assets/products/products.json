@@ -31,8 +31,8 @@
         "sommier3.jpeg",
         "colchon1.jpeg"
       ],
-      "comprador":"amigo de percy",
-      "cobrado":"no"
+      "comprador": "amigo de percy",
+      "cobrado": "no"
     },
     {
       "id": 24,
@@ -566,7 +566,7 @@
         "juego_frascos_vidrio_4.jpeg",
         "juego_frascos_vidrio_5.jpeg"
       ],
-      "comprador":"facebook marketplace",
+      "comprador": "facebook marketplace",
       "cobrado": "si"
     },
     {
@@ -884,7 +884,7 @@
       "comprador": "Hermana Kam",
       "cobrado": "no"
     },
-    
+
     {
       "id": 63,
       "name": "Grabadora DVD portátil Samsung Slim AV SE-208DB",
@@ -1137,7 +1137,129 @@
         "IMG-20230216-WA0043.jpg",
         "IMG-20230216-WA0059.jpg"
       ]
+    },
+    {
+      "id": 85,
+      "name": "Tupper Pequeño Hermético vidrio apto horno",
+      "categories": ["Cocina"],
+      "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 15 x 15 x 6 cm",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0041.jpg",
+        "IMG-20230216-WA0044.jpg",
+        "IMG-20230216-WA0048.jpg"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Tupper Grande Hermético vidrio apto horno",
+      "categories": ["Cocina"],
+      "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 17 x 20 x 8 cm",
+      "price": 3500,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0041.jpg",
+        "IMG-20230216-WA0044.jpg",
+        "IMG-20230216-WA0048.jpg"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Tabla de picada madera",
+      "categories": ["Cocina"],
+      "description": "Tabla de picada madera. 40 x 12. Con mango.",
+      "price": 2500,
+      "status": "Disponible",
+      "images": ["IMG-20230216-WA0052.jpg", "IMG-20230216-WA0056.jpg"]
+    },
+    {
+      "id": 88,
+      "name": "Bowl Cerámica verde agua con relieve",
+      "categories": ["Cocina"],
+      "description": "Bowl Cerámica verde agua con relieve. 17cm diámetro",
+      "price": 2000,
+      "status": "Disponible",
+      "images": ["IMG-20230216-WA0045.jpg"]
+    },
+    {
+      "id": 89,
+      "name": "Bowl de vidrio 15 x 7cm",
+      "categories": ["Cocina"],
+      "description": "Bowl de vidrio 15 x 7cm. Patrón relieve.",
+      "price": 700,
+      "status": "Disponible",
+      "images": ["IMG-20230216-WA0026.jpg"]
+    },
+    {
+      "id": 90,
+      "name": "Juego 2 bowls floreados (el par)",
+      "categories": ["Cocina"],
+      "description": "Juego de 2 bowls floreados. 18 x 7 y 15 x 7 respectivamente (diámetro x alto)",
+      "price": 1000,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0050.jpg",
+        "IMG-20230216-WA0058.jpg",
+        "IMG-20230216-WA0051.jpg"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Bowl cerámica con tapa",
+      "categories": ["Cocina"],
+      "description": "Bowl de cerámica con tapa. Tamaño 17 x 7. (diámetro x alto). Motivo floreado.",
+      "price": 1700,
+      "status": "Disponible",
+      "images": ["IMG-20230216-WA0046.jpg"]
+    },
+    {
+      "id": 92,
+      "name": "Prensa Molde hamburguesas",
+      "categories": ["Cocina"],
+      "description": "2 CM ES EL DIÁMETRO TOTAL DE LA PRENSA. EL DIAMETRO DE LA HAMBURGUESA QUEDA APROX DE 10,5 CM \n-Fabricado en Fundición de Aluminio\n-Sistema a Golpe\n-Ultra Resistente\n-Diámetro Total 12 cm\n-Diámetro del Disco Aplanador 10,5 cm\n-Ideal Uso Hogareño y Comercial\n-No Contamina\n-Fácil Lavado y Limpieza\n-No Se Oxida",
+      "price": 2500,
+      "status": "Disponible",
+      "images": ["IMG-20230216-WA0062.jpg", "IMG-20230216-WA0063.jpg"]
+    },
+    {
+      "id": 93,
+      "name": "Olla de barro Curada - Ideal estofados!",
+      "categories": ["Cocina"],
+      "description": "Olla de barro curada. 5 litros.\nMedidas 20 x 10. Diámetro x alto.\nIdeal para guisos y estofados :)",
+      "price": 3000,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0053.jpg",
+        "IMG-20230216-WA0057.jpg",
+        "IMG-20230216-WA0047.jpg",
+        "IMG-20230216-WA0032.jpg"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Provoletera para picadas!",
+      "categories": ["Cocina"],
+      "description": "Provoletera para horno o parrilla, saca mini provoletitas ideales para picada. Medidas 25 x 20 cm.",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0049.jpg",
+        "IMG-20230216-WA0065.jpg"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Caja/canasto con tapa grande",
+      "categories": ["Cocina"],
+      "description": "Caja/canasto plástico con tapa. Medidas 30 x 35. Excelente espacio de guardado!",
+      "price": 3000,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0036.jpg",
+        "IMG-20230216-WA0034.jpg",
+        "IMG-20230216-WA0027.jpg"
+      ]
     }
-
   ]
 }
