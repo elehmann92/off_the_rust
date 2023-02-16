@@ -246,13 +246,13 @@
       "categories": ["Instrumentos"],
       "description": "SOPORTE ATRIL PARA GUITARRA, BAJO CUELLO BASE. Adecuado para guitarras eléctricas, acústicas y bajos. Fuerte tubo y el trípode con base de hierro antideslizantes tapas de goma. Grueso acolchado de goma para proteger su instrumento. Tope de seguridad superior para evitar caídas. Diseño totalmente plegable para el almacenamiento y transporte. Altura ajustable. Color negro",
       "price": 5500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "soporte_guitarra.webp",
         "soporte_guitarra2.jpeg",
         "soporte_guitarra.jpeg"
       ],
-      "comprador": "",
+      "comprador": "bluff",
       "cobrado": "no"
     },
     {
