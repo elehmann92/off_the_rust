@@ -1131,12 +1131,14 @@
       "categories": ["Cocina"],
       "description": "Juego de 2 frascos de vidrio con tapa plástica con cierre hermético. 500cc capacidad.",
       "price": 1300,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0042.jpg",
         "IMG-20230216-WA0043.jpg",
         "IMG-20230216-WA0059.jpg"
-      ]
+      ],
+      "comprador":"Mamá de tati",
+      "cobrado":"no"
     },
     {
       "id": 85,
@@ -1285,12 +1287,14 @@
       "categories": ["Cocina"],
       "description": "Pochoclera de aluminio. Medidas 19 x 20 (diámetro x alto).\nQuedan mejor que los del cine, y si no me creés, probalo. Partes iguales de maíz y azúcar, (agregale manteca y vainilla si te pinta), tapás, revolvés a fuego medio hasta que deja de hacer ruido ET VOILÁ!!",
       "price": 2000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0067.jpg",
         "IMG-20230216-WA0078.jpg",
         "IMG-20230216-WA0035.jpg"
-      ]
+      ],
+      "comprador":"Mamá de tati",
+      "cobrado":"no"
     },
     {
       "id": 98,
@@ -1339,13 +1343,15 @@
       "categories": ["Accesorios"],
       "description": "Organizador acrílico con dos cajones\nMedidas 18 x 9x 10\nIdeal para guardar cosméticos o pequeños objetos\nTiene algunos raspones en la superficie, aunque no tiene roturas ni rajaduras.",
       "price": 900,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0030.jpg",
         "IMG-20230216-WA0107.jpg",
         "IMG-20230216-WA0108.jpg",
         "IMG-20230216-WA0033.jpg"
-      ]
+      ],
+      "comprador":"Mamá de tati",
+      "cobrado":"no"
     },
     {
       "id": 102,
@@ -1426,11 +1432,13 @@
       "categories": ["Cocina"],
       "description": "Frasco vidrio tapa plateada 11x11x22 de 2 lt",
       "price": 1000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0082.jpg",
         "IMG-20230216-WA0085.jpg"
-      ]
+      ],
+      "comprador":"Mamá de tati",
+      "cobrado":"no"
     },
     {
       "id": 109,
