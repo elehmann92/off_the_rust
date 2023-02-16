@@ -1342,12 +1342,14 @@
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0030.jpg",
+        "IMG-20230216-WA0107.jpg",
+        "IMG-20230216-WA0108.jpg",
         "IMG-20230216-WA0033.jpg"
       ]
     },
     {
       "id": 102,
-      "name": "Canastos plásticos medianos con manijas (x2)",
+      "name": "Canastos plásticos pequeños con manijas (x2)",
       "categories": ["Accesorios"],
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 22 x 14 cm c/u.",
       "price": 1900,
@@ -1356,6 +1358,18 @@
         "IMG-20230216-WA0028.jpg",
         "IMG-20230216-WA0099.jpg",
         "IMG-20230216-WA0100.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Canastos plásticos medianos con manijas (x2)",
+      "categories": ["Accesorios"],
+      "description": "Juego de 2 canastos plásticos, sin tapa, medidas 26 x 20. c/u.",
+      "price": 2500,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0038.jpg",
+        "IMG-20230216-WA0040.jpg"
       ]
     },
     {
@@ -1368,6 +1382,29 @@
       "images": [
         "IMG-20230216-WA0102.jpg",
         "IMG-20230216-WA0103.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Canastos plásticos organizadores (x3)",
+      "categories": ["Accesorios"],
+      "description": "Juego de 3 canastos plásticos organizadores. Blanco, naranja y gris azulado. Son distintos diseños pero pertenecen a un mismo combo.",
+      "price": 1400,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0029.jpg",
+        "IMG-20230216-WA0037.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Canasto organizado enrejillado plástico",
+      "categories": ["Accesorios"],
+      "description": "Canasto plástico enrejillado plástico. Medidas 30 x 38",
+      "price": 650,
+      "status": "Disponible",
+      "images": [
+        "IMG-20230216-WA0071.jpg"
       ]
     },
     {
