@@ -113,7 +113,7 @@
       "categories": ["Muebles"],
       "description": "Cómoda de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior esmalte en color blanco y barniz. Medidas: 100 (alto)x100(ancho)x42(fondo)",
       "price": 15000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "Comoda 2.jpg",
         "Comoda1.jpg",
@@ -143,7 +143,7 @@
       "categories": ["Muebles"],
       "description": "PRECIO POR EL JUEGO DE MESAS DE LUZ. Estilo escandinavas de madera de pino macizo. Cuenta con dos cajones y un estante de 30 x 36 x 16 cm. Pintada en esmalte blanco y barniz al agua. Incluye vidrio protector en tapa superior. Medidas: 30 (fondo) x40(ancho) x 75(alto).",
       "price": 15000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "mesa de luz A 1.jpg",
         "mesa de luz A 2.jpg",
