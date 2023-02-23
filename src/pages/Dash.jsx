@@ -28,7 +28,7 @@ export default function Dash() {
       <DataGrid
         rows={rows}
         columns={columns}
-        pageSize={10}
+        pageSize={54}
         rowsPerPageOptions={[5]}
       />
     </div>
