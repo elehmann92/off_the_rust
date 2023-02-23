@@ -52,7 +52,7 @@
         "Adidas_sala_super8.jpeg"
       ],
       "comprador": "César Ríos (ML) RC9959605",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 1,
@@ -74,7 +74,7 @@
       "status": "Vendido",
       "images": ["ps40.jpg"],
       "comprador": "tina",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 3,
@@ -484,7 +484,7 @@
       "status": "Vendido",
       "images": ["bowlcitos_ceramica.jpeg", "bowlcitos_ceramica_2.jpeg"],
       "comprador": "tina",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 32,
@@ -859,8 +859,8 @@
         "silla_comedor_blanca_7.jpeg",
         "silla_comedor_blanca_8.jpeg"
       ],
-      "comprador": "Tati (laura)",
-      "cobrado": "no"
+      "comprador": "",
+      "cobrado": ""
     },
     {
       "id": 60,
