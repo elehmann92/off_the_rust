@@ -1,6 +1,22 @@
 {
   "products": [
     {
+      "id": 110,
+      "name": "Sillón clásico inglés - Terciopelo Verde Esmeralda",
+      "categories": ["Sillones"],
+      "description": "Sillón clásico estilo inglés. Antiguo. 3 cuerpos. Estructura de roble. Tapizado en terciopelo color verde esmeralda. Almohadones de pluma forrados en misma tela.\nMedidas: 186 x 80 x 85 (largo x profundidad x altura máxima del respaldo).\nSUUUUPER CÓMODO. No te dejes llevar por la antigüedad, está en excelente estado y confeccionado a la vieja escuela. Así que tranqui, tendrías sillón para siempre, si quisieras. Si te quedan dudas venite a verlo a Caballito.\nEl precio incluye la mejor siesta de tu vida.",
+      "price": 150000,
+      "status": "Disponible",
+      "images": [
+        "Sillon1.jpeg",
+        "Sillon2.jpeg",
+        "Sillon3.jpeg",
+        "Sillon4.jpeg"
+      ],
+      "comprador": "",
+      "cobrado":""
+    },
+    {
       "id": 62,
       "name": "Heladera Con Freezer Top House 231 L Hd-31f Blanco",
       "categories": ["Electrodomésticos"],
@@ -398,7 +414,7 @@
       "categories": ["Deco"],
       "description": "Modelo: SP-7. Marca: IOFI. Norma: vesa. Medida: 75 x 75 mm / 100 x 100 mm / 100 x 200 mm / 200 x 100 mm / 200 x 200 mm. Móvil: si. Carga máxima: 30 Kg. Inclinación 20°.Giro: 90° Hacia ambos ladosCaracterísticas especiales: Carcasas cubre cables, Cobertor de tornillo Tipo de brazo: Doble brazo articulado. Incluye Kit de instalación :Tornillos con diferentes diámetros, Arandelas, etc",
       "price": 5000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "Soporte armado.webp",
         "Soporte armado plano.webp",
@@ -1479,6 +1495,22 @@
       ],
       "comprador": "Tati (laura)",
       "cobrado":"si"
+    },
+    
+    {
+      "id": 111,
+      "name": "Frasco de vidrio tallado - Tapa de madera con cuerda",
+      "categories": ["Cocina"],
+      "description": "Frasco de vidrio con relieve, tapa de madera hermética y cuerda. Capacidad 1,2 l.",
+      "price": 900,
+      "status": "Disponible",
+      "images": [
+        "Frasco-vidrio-madera1.jpeg",
+        "Frasco-vidrio-madera2.jpeg",
+        "Frasco-vidrio-madera3.jpeg"
+      ],
+      "comprador": "",
+      "cobrado":""
     }
   ]
 }
