@@ -1457,12 +1457,14 @@
       "categories": ["Accesorios"],
       "description": "Tender plegable formato tijera.",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0104.jpg",
         "IMG-20230216-WA0105.jpg",
         "IMG-20230216-WA0106.jpg"
-      ]
+      ],
+      "comprador":"Hermana Kam",
+      "cobrado":"no"
     },
     {
       "id": 105,
