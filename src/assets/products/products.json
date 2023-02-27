@@ -176,13 +176,15 @@
       "name": "Puff Cajonera",
       "categories": ["Muebles"],
       "description": " Puff con tres cajones. Estructura de madera enchapada en color blanco. Medidas: 55 (fondo) x 40(ancho) x 45(alto).",
-      "price": 10000,
-      "status": "Disponible",
+      "price": 9000,
+      "status": "Vendido",
       "images": [
         "puff cajones 3.jpg",
         "puff cajones 1.jpg",
         "puff cajones 2.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 11,
@@ -415,7 +417,7 @@
       "categories": ["Deco"],
       "description": "- Modelo: SP-7 Marca: IOFI Norma: vesa Medida: 200 X 200 mm - Móvil: no - Carga máxima: 35 Kg - Inclinación 0° - Giro: 0° - Distancia a la pared: 19 mm - Tipo de brazo: Fijo - Kit de tornillos para instalación: Si",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "soporte_fijo_tv_1.webp",
         "soporte_fijo_tv_2.webp",
@@ -423,8 +425,8 @@
         "soporte_fijo_tv_4.webp",
         "soporte_fijo_tv_5.jpg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Laura",
+      "cobrado": "si"
     },
     {
       "id": 28,
@@ -492,8 +494,10 @@
       "categories": ["Cocina"],
       "description": "Bowls de cerámica lisa x 2 unidades. Sopero. Diámetro 15cm. 7cm alto",
       "price": 2000,
-      "status": "Disponible",
-      "images": ["juego_bowls_ceramica.jpeg", "bowls_ceramica_2.jpeg"]
+      "status": "Vendido",
+      "images": ["juego_bowls_ceramica.jpeg", "bowls_ceramica_2.jpeg"],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 33,
@@ -660,8 +664,10 @@
       "categories": ["Cocina"],
       "description": "Frascos de cerámica x 2 unidades. Motivos Harina y Café. Tapa de madera con cierre hermético de goma. Medida chica: 11 x 12. Medida grande 16 x 12.",
       "price": 2500,
-      "status": "Disponible",
-      "images": ["fracos_ceramica_madera_1.jpeg"]
+      "status": "Vendido",
+      "images": ["fracos_ceramica_madera_1.jpeg"],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 46,
@@ -942,10 +948,10 @@
       "categories": ["Libros"],
       "description": "El nuevo libro de Gabriel Rolón es una gran aventura. No reúne casos clínicos ni relatos de ficción, tampoco es un libro de teoría: es algo distinto. Es un trabajo en el que decide hablar consigo mismo para pensar sobre cada uno de los enigmas que lo desvelan: el deseo, el desamor, la muerte, los hijos, la pasión, la felicidad, el recuerdo y el olvido, entre otros. El desafío no es menor y Cara a cara va de frente. Porque este es, más que nada, un diálogo íntimo del analista con el analista, del hombre con el chico que fue, del licenciado que ahora sabe que ese título se juega en otra parte. Es un viaje que va del Psicoanálisis a la vida, y de la vida a un café. Y es ahí, en esa travesía con el corazón a flor de piel, donde nos encontramos con Gabriel Rolón como nunca antes, mano a mano en un espejo que le devuelve una imagen que lo interpela. Porque la verdad está muy lejos de cualquier reflejo, magia o inmediatez; él lo sabe. Eso es el análisis en una escala sensible. Y esa es la dimensión humana del analista.",
       "price": 1000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Gabriel_rolon_caraacara.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Mercadolibre",
+      "cobrado": "si"
     },
     {
       "id": 67,
@@ -1073,15 +1079,15 @@
       "name": "Cubos Madera de pino x 3",
       "categories": ["Muebles", "Deco"],
       "description": "PRECIO POR EL COMBO DE 3. Cubos de madera de pino x 3 unidades. Medidas externas 40 x 40 x 40 cm. Barnizados con Cetol.",
-      "price": 3500,
-      "status": "Disponible",
+      "price": 3000,
+      "status": "Vendido",
       "images": [
         "cubos_madera_1.jpeg",
         "cubos_madera_2.jpeg",
         "cubos_madera_3.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "facebook marketplace",
+      "cobrado": "si"
     },
     {
       "id": 80,
@@ -1181,8 +1187,10 @@
       "categories": ["Cocina"],
       "description": "Bowl Cerámica verde agua con relieve. 17cm diámetro",
       "price": 2000,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0045.jpg"]
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0045.jpg"],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 89,
@@ -1233,13 +1241,15 @@
       "categories": ["Cocina"],
       "description": "Olla de barro curada. 5 litros.\nMedidas 20 x 10. Diámetro x alto.\nIdeal para guisos y estofados :)",
       "price": 3000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0053.jpg",
         "IMG-20230216-WA0057.jpg",
         "IMG-20230216-WA0047.jpg",
         "IMG-20230216-WA0032.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 94,
@@ -1247,11 +1257,13 @@
       "categories": ["Cocina"],
       "description": "Provoletera para horno o parrilla, saca mini provoletitas ideales para picada. Medidas 25 x 20 cm.",
       "price": 2500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0049.jpg",
         "IMG-20230216-WA0065.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 95,
@@ -1259,12 +1271,14 @@
       "categories": ["Accesorios"],
       "description": "Caja/canasto plástico con tapa. Medidas 30 x 35. Excelente espacio de guardado!",
       "price": 2000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0036.jpg",
         "IMG-20230216-WA0034.jpg",
         "IMG-20230216-WA0027.jpg"
-      ]
+      ],
+      "comprador": "Mica",
+      "cobrado":"si"
     },
     {
       "id": 96,
@@ -1272,14 +1286,16 @@
       "categories": ["Cocina"],
       "description": "Plancha eléctrica Atma. Graduación de temperatura. Fácil de limpiar, teflonada. Súper práctica. Medidas 30 x 30 x 9 (volumen de cocina). El producto es un poco más grande.",
       "price": 5000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0077.jpg",
         "IMG-20230216-WA0054.jpg",
         "IMG-20230216-WA0086.jpg",
         "IMG-20230216-WA0081.jpg",
         "IMG-20230216-WA0088.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 97,
@@ -1359,12 +1375,14 @@
       "categories": ["Accesorios"],
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 22 x 14 cm c/u.",
       "price": 1900,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0028.jpg",
         "IMG-20230216-WA0099.jpg",
         "IMG-20230216-WA0100.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     },
     {
       "id": 107,
@@ -1372,11 +1390,13 @@
       "categories": ["Accesorios"],
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 26 x 20. c/u.",
       "price": 2500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0038.jpg",
         "IMG-20230216-WA0040.jpg"
-      ]
+      ],
+      "comprador": "Mica",
+      "cobrado":"si"
     },
     {
       "id": 103,
@@ -1384,11 +1404,13 @@
       "categories": ["Accesorios"],
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 30 x 25 cm. c/u.",
       "price": 1900,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0102.jpg",
         "IMG-20230216-WA0103.jpg"
-      ]
+      ],
+      "comprador": "Mica",
+      "cobrado":"si"
     },
     {
       "id": 106,
@@ -1445,7 +1467,7 @@
       "name": "Mixer Moulinex Dd7021ar Click And Mix 600w Licuadora De Mano",
       "categories": ["Electrodomésticos"],
       "description": "Procesadora / licuadora de mano Moulinex funcionando perfecto. Uno de los apliques (el rojo) está un poco gastado, pero se reemplaza fácilmente por el verde que cumple la misma función. El motor está intacto!",
-      "price": 9000,
+      "price": 5000,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0114.jpg",
@@ -1454,7 +1476,9 @@
         "IMG-20230216-WA0111.jpg",
         "IMG-20230216-WA0112.jpg",
         "IMG-20230216-WA0113.jpg"
-      ]
+      ],
+      "comprador": "Tati (laura)",
+      "cobrado":"si"
     }
   ]
 }
