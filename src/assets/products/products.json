@@ -21,7 +21,7 @@
       "name": "Heladera Con Freezer Top House 231 L Hd-31f Blanco",
       "categories": ["Electrodomésticos"],
       "description": "Heladera Top Houe con freezer. Enfriamiento cíclico. Capacidad bruta 240 l (neta 231 l). COlor blanco. Capacidad neta heladera 199 l. Anaqueles contrapuerta heladera: 4. Estantes heladera: 4. Material de estantes: vidrio templado. Cajon de vegetales: sí. Soporte para latas: no. Capacidad freezer: 41 l. Anaqueles contrapuerta freezer: no. Estantes freezer: 1. Material: rejilla metálica. Fabica de hielo: no. Estantes removibles: si. Dispenser: no. Display: no. Control de temperatura: si. Eficiencia energética: A. Medidas: 55 x 55 x 159 (ancho x profundo x alto). Peso: 42kg. ",
-      "price": 68000,
+      "price": 59000,
       "status": "Disponible",
       "images": [
         "heladera_tophouse_1.jpg",
@@ -108,7 +108,7 @@
       "name": "Cajonera",
       "categories": ["Muebles"],
       "description": "Cajonera chifonier de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Incluye vidrio protector. Medidas: 40(fondo)x60(ancho)x90(alto)",
-      "price": 10000,
+      "price": 6000,
       "status": "Disponible",
       "images": ["cajonera 1.jpg"]
     },
@@ -118,7 +118,7 @@
       "name": "Biblioteca",
       "categories": ["Muebles"],
       "description": "Biblioteca de madera de pino macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
-      "price": 6000,
+      "price": 5000,
       "status": "Disponible",
       "images": ["biblioteca.jpeg", "biblioteca2.jpeg"]
     },
@@ -314,7 +314,7 @@
       "name": "Dolce Gusto Piccolo XS",
       "categories": ["Electrodomésticos"],
       "description": "Cafetera Nescafé Moulinex Dolce Gusto Piccolo XS de corte manual black para cápsulas monodosis 220V. Color negro. Para cápsulas monodosis. Carga 0,8 litros. Potencia 1340 W. Capsulas compatibles: Dolce Gusto. Tiene un pequeño desperfecto que no altera la extracción del café y es resolvible con cambio de repuestos.",
-      "price": 12000,
+      "price": 8000,
       "status": "Disponible",
       "images": [
         "dolce_gusto1.webp",
@@ -520,7 +520,7 @@
       "name": "Platos playos grandes x 10",
       "categories": ["Cocina"],
       "description": "Juego de 10 platos playos. Cerámica. 25 cm diámetro",
-      "price": 8000,
+      "price": 5000,
       "status": "Disponible",
       "images": ["platos_grandes_1.jpeg", "platos_grandes_2.jpeg"]
     },
@@ -529,7 +529,7 @@
       "name": "Platos playos chicos x 5",
       "categories": ["Cocina"],
       "description": "Juego de 5 platos playos. Cerámica. 20 cm diámetro",
-      "price": 3500,
+      "price": 2500,
       "status": "Disponible",
       "images": ["platos chicos.jpeg", "platos chicos_2.jpeg"]
     },
@@ -568,7 +568,7 @@
       "name": "Juego Salseras / Diperas",
       "categories": ["Cocina"],
       "description": "Juego de 3 dipperas / salseras de cerámica. 2 de 22 x 6 + 1 de 13 x 6.",
-      "price": 2000,
+      "price": 1500,
       "status": "Disponible",
       "images": ["juego de picada.jpeg", "juego de picada_2.jpeg"]
     },
@@ -643,7 +643,7 @@
       "name": "Hornito Aromático a vela 1",
       "categories": ["Deco"],
       "description": "Hornito aromático a vela de cerámica. Acabado mate exterior",
-      "price": 1200,
+      "price": 500,
       "status": "Disponible",
       "images": [
         "vela_hornito_b_1.jpeg",
@@ -657,7 +657,7 @@
       "name": "Hornito Aromático a vela 2",
       "categories": ["Deco"],
       "description": "Hornito aromático a vela de cerámica. Acabado brillante exterior. Marca The Candle Shop",
-      "price": 1200,
+      "price": 800,
       "status": "Disponible",
       "images": ["vela_hornito_1.jpeg", "vela_hornito_2.jpeg"]
     },
@@ -666,7 +666,7 @@
       "name": "Set Cerámico para café",
       "categories": ["Cocina"],
       "description": "Lechera + azucarera + tarros pequeños (x 2 unidades). Cerámica pintada. Diámetro 9cm. Altura 14cm (con tapa). Cierre hermético de goma.",
-      "price": 3000,
+      "price": 1500,
       "status": "Disponible",
       "images": [
         "frasquitos_floreados_1.jpeg",
@@ -690,7 +690,7 @@
       "name": "Compoteras forma manzana x 6",
       "categories": ["Cocina"],
       "description": "Juego de 6 compoteras con forma de manzana. Material vidrio templado. Apto microondas.",
-      "price": 2500,
+      "price": 1500,
       "status": "Disponible",
       "images": ["compotera_manzana.jpeg", "compotera_manzana2.jpeg"]
     },
@@ -743,7 +743,7 @@
       "name": "Maceta Negra",
       "categories": ["Deco"],
       "description": "Maceta de cerámica bombé. Color negro. Medidas 15 x 15 cm",
-      "price": 1500,
+      "price": 700,
       "status": "Disponible",
       "images": ["maceta_negra_1.jpeg", "maceta_negra_2.jpeg"]
     },
@@ -763,7 +763,7 @@
       "name": "Set Cuchillos de Queso Laguiole",
       "categories": ["Cocina"],
       "description": "Set de queso de diseño francés con 3 cuchillos de distintos tamaños. Presentado en una cuna de madera que del dorso puede usarse de tabla. Packaging: caja rígida de cartón laminada, con ventana de cristal PVC. Producto aprobado por el I.N.A.L. para el contacto con alimentos. Medidas de la tabla: 28 x 12 x 2 cm. Marca Laguiole",
-      "price": 3500,
+      "price": 2500,
       "status": "Disponible",
       "images": [
         "laguiole_1.jpg",
@@ -803,7 +803,7 @@
       "name": "Zapatos London Cuero Negro Talle 38 - Luciano Marra",
       "categories": ["Indumentaria"],
       "description": "Stiletto de cuero vacuno color negro, con forro interno de cuero ecológico. Fondo de suela color negro. Taco aguja de 12,5 cm de alto y plataforma interna de 3,5 cm de alto. Marca Luciano Marra. Modelo London Cuero Negro",
-      "price": 5000,
+      "price": 2500,
       "status": "Disponible",
       "images": [
         "Zapatos taco 0.jpg",
@@ -851,7 +851,7 @@
       "name": "Piano / Teclado Yamaha PSR 170",
       "categories": ["Instrumentos"],
       "description": "Teclado Yamaha PSR 170 de 5 octavas (61 teclas). Tiene display LCD, entrada para auriculares y un programa de enseñanza de más de 100 clásicos. Incluye transformador, atril y base. ",
-      "price": 50000,
+      "price": 45000,
       "status": "Disponible",
       "images": [
         "Piano_yamaha_0.webp",
@@ -869,7 +869,7 @@
       "name": "Silla eames comedor nórdica x 1",
       "categories": ["Muebles"],
       "description": "Silla estilo escandinavo. Asiento plástico blanco mate. Estructura madera con refuerzos metálicos. Medidas 82 x 46 x 46. Altura del asiento 46 cm. Peso máximo soportado (estimado): 120 kg. Muy cómoda, resistente, moderna y elegante.",
-      "price": 4500,
+      "price": 3000,
       "status": "Disponible",
       "images": [
         "silla_comedor_blanca_1.webp",
@@ -912,7 +912,7 @@
       "name": "Grabadora DVD portátil Samsung Slim AV SE-208DB",
       "categories": ["Tecnología"],
       "description": "Marca Samsung. Modelo DVD-RW-Externa (SE-208DB). Grabadora externa SE-208DB/TSBS, para que puedas pasar todas tus fotos, películas y vídeos a un DVD o CD de forma rápida y segura mediante la conexión USB. Pero al revés también funciona es decir, que puede leer diferentes formatos. Gracias al cable de alimentación USB, podrás grabar a máxima velocidad sin perder la señal. Su diseño te resultará tan cómodo, que podrás llevarlo a donde quieras, porque cabe en cualquier sitio. Será el complemento perfecto para tu ordenador. No requiere fuente de alimentación externa y soporta todos los formatos. Soporta: DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-ROM, DVD-Video, DVD+R DL, DVD-R DL, DVD-RAM, CD-ROM, CD-R, CD-RW, CD-DA, CD+E (G), CD-MIDI, CD-TEXT, CD-ROM XA, Mixed Mode CD, CD-I, CD-I Bridge (Photo-CD, Video-CD), multisession CD (Photo-CD, CD-EXTRA, Portfolio) Alimentación: USB (no requiere alimentación externa) Dimensiones: 146.0 x 20.8 x 144.0mm",
-      "price": 4000,
+      "price": 2500,
       "status": "Disponible",
       "images": [
         "grabadora-samsung-se208_1.jpg",
@@ -942,7 +942,7 @@
       "name": "Freud, Obras Completas. Tomos 1 - 6, + tomo 13",
       "categories": ["Libros"],
       "description": "El precio corresponde a la colección de 7 tomos. Sigmund Freud, Obras Completas. Tomos 1 al 6 + tomo 13. Autor: La Nación. Editorial Siglo Veintiuno. Tapa blanda. Una colección dedicada al hombre que desestructuró el pensamiento del siglo XX. Todos los estudios, teorías y ensayos del padre del psicoanalisis. Una oportunidad para acercarse o para profundizar en su obra.Formato 15,5 x 23cm",
-      "price": 3500,
+      "price": 1500,
       "status": "Disponible",
       "images": [
         "Freud_coleccion_1.jpeg",
@@ -1029,7 +1029,7 @@
       "name": "John Katzenbach - Personas Desconocidas",
       "categories": ["Libros"],
       "description": "Katzenbach nos ofrece un thriller de ritmo imparable, protagonistas convincentes y trama compleja pero fascinante al mismo tiempo. Gabriel Gabe Dickenson y Marta Rodríguez-Johnson han servido a la policía de manera impecable, hasta que un día sus vidas se tuercen irreversiblemente. Ahora están condenados a trabajar juntos en esos casos olvidados y nunca aclarados que nadie quiere, en realidad, resolver. Es una manera de matar el tiempo mientras esperan a que sus jefes decidan que hacer con ellos. Sin embargo, entre ese montón de archivos polvorientos, Marta y Gabe están a punto de encontrar la clave para resolver no solo cuatro extraños asesinatos cometidos dos décadas atrás, sino también una de esas impactantes desapariciones que marcaron un antes y un después en toda una comunidad. Si hacen las preguntas adecuadas, hallarán la respuesta. Pero puede que sea mejor no preguntar. Porque lo que no sospechan es que quien está detrás de esas muertes se encuentra muy cerca de ellos. Y prefiere que no se sepa la verdad. ¿Podrán un policía alcohólico y una especialista en narcóticos incapaz de empuñar un arma enfrentarse al poder de su departamento para resolver un crimen imposible?",
-      "price": 2500,
+      "price": 1800,
       "status": "Disponible",
       "images": ["john_katzenbach_personasdesconocidas.jpeg"],
       "comprador": "",
@@ -1051,7 +1051,7 @@
       "name": "Liliana Bodoc - El Mapa Imposible",
       "categories": ["Libros"],
       "description": "Resumen de EL MAPA IMPOSIBLE. Una novela que se construye en el vaivén del tiempo y de los recuerdos. Un texto que demuestra la sensibilidad y la calidad literaria de Liliana Bodoc. Lila, Diego y Julián se dedican a investigar aquellos lugares propios de la infancia y el crecimiento, tales como la siesta, la fiebre, la adolescencia, la mentira, las escondidas, el azar. El mapa imposible es un relato atravesado por el ensueño de la infancia y por la bruma del crecimiento. Mapa de no lugares, aquellos espacios donde pasan las cosas realmente importantes: el amor, la felicidad, el miedo. Cada persona es, de alguna manera, un mapa cambiante, poético, imposible. Mapas con una crucecita roja para mostrar el tesoro que todos tenemos escondido y que hallarán los que sepan buscar. En palabras de la autora: «Siempre me pareció muy fértil esa época de la vida en que dejamos atrás la infancia... Soltamos la mano del niño que fuimos y, aunque nos esforcemos, aún no alcanzamos la mano del adulto que vamos a ser».",
-      "price": 999,
+      "price": 700,
       "status": "Disponible",
       "images": ["Liliana_bodoc_elmapaimposible.jpeg"],
       "comprador": "",
@@ -1124,7 +1124,7 @@
       "name": "Banquito plegable plástico rojo - Colombraro",
       "categories": ["Muebles"],
       "description": "Banco rojo colombraro abierto 35 x 36 x 30 ",
-      "price": 2200,
+      "price": 1800,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0064.jpg",
@@ -1139,7 +1139,7 @@
       "name": "Caja de té - Madera y vidrio",
       "categories": ["Cocina"],
       "description": "Caja de te 24 x 10x 8. Confeccionada en madera y vidrio.",
-      "price": 900,
+      "price": 500,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0069.jpg",
@@ -1167,7 +1167,7 @@
       "name": "Tupper Pequeño Hermético vidrio apto horno",
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 15 x 15 x 6 cm",
-      "price": 2500,
+      "price": 1700,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0041.jpg",
@@ -1180,7 +1180,7 @@
       "name": "Tupper Grande Hermético vidrio apto horno",
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 17 x 20 x 8 cm",
-      "price": 3500,
+      "price": 2000,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0041.jpg",
@@ -1213,7 +1213,7 @@
       "name": "Bowl de vidrio 15 x 7cm",
       "categories": ["Cocina"],
       "description": "Bowl de vidrio 15 x 7cm. Patrón relieve.",
-      "price": 700,
+      "price": 500,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0026.jpg",
@@ -1238,7 +1238,7 @@
       "name": "Bowl cerámica con tapa",
       "categories": ["Cocina"],
       "description": "Bowl de cerámica con tapa. Tamaño 17 x 7. (diámetro x alto). Motivo floreado.",
-      "price": 1700,
+      "price": 1000,
       "status": "Disponible",
       "images": ["IMG-20230216-WA0046.jpg"]
     },
@@ -1247,7 +1247,7 @@
       "name": "Prensa Molde hamburguesas",
       "categories": ["Cocina"],
       "description": "2 CM ES EL DIÁMETRO TOTAL DE LA PRENSA. EL DIAMETRO DE LA HAMBURGUESA QUEDA APROX DE 10,5 CM \n-Fabricado en Fundición de Aluminio\n-Sistema a Golpe\n-Ultra Resistente\n-Diámetro Total 12 cm\n-Diámetro del Disco Aplanador 10,5 cm\n-Ideal Uso Hogareño y Comercial\n-No Contamina\n-Fácil Lavado y Limpieza\n-No Se Oxida",
-      "price": 2500,
+      "price": 1000,
       "status": "Disponible",
       "images": ["IMG-20230216-WA0062.jpg", "IMG-20230216-WA0063.jpg"]
     },
@@ -1346,7 +1346,7 @@
       "name": "Cuchillo de Pan",
       "categories": ["Cocina"],
       "description": "Cuchillo de Pan acero inoxidable. 33 cm largo.",
-      "price": 1500,
+      "price": 900,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0031.jpg",
@@ -1358,7 +1358,7 @@
       "name": "Popurrí de cubiertos!",
       "categories": ["Cocina"],
       "description": "Popurrí de cubiertos ideal si te estás mudando.\nNo son artículos del mismo juego, pero LA REGULARIDAD ESTÁ SOBREVALORADA!\nConsta de:\n-6 cuchillos\n-8 tenedores\n-5 cucharas soperas\n-3 cucharas de té\n-7 untadores",
-      "price": 2500,
+      "price": 1500,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0089.jpg",
@@ -1433,7 +1433,7 @@
       "name": "Canastos plásticos organizadores (x3)",
       "categories": ["Accesorios"],
       "description": "Juego de 3 canastos plásticos organizadores. Blanco, naranja y gris azulado. Son distintos diseños pero pertenecen a un mismo combo.",
-      "price": 1400,
+      "price": 1000,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0029.jpg",
@@ -1456,7 +1456,7 @@
       "name": "Tender plegable",
       "categories": ["Accesorios"],
       "description": "Tender plegable formato tijera.",
-      "price": 2500,
+      "price": 1500,
       "status": "Disponible",
       "images": [
         "IMG-20230216-WA0104.jpg",
