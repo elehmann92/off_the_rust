@@ -1226,12 +1226,14 @@
       "categories": ["Cocina"],
       "description": "Juego de 2 bowls floreados. 18 x 7 y 15 x 7 respectivamente (diámetro x alto)",
       "price": 1000,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0050.jpg",
         "IMG-20230216-WA0058.jpg",
         "IMG-20230216-WA0051.jpg"
-      ]
+      ],
+      "comprador": "Valeria Gimenez",
+      "cobrado":"si"
     },
     {
       "id": 91,
@@ -1239,8 +1241,10 @@
       "categories": ["Cocina"],
       "description": "Bowl de cerámica con tapa. Tamaño 17 x 7. (diámetro x alto). Motivo floreado.",
       "price": 1000,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0046.jpg"]
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0046.jpg"],
+      "comprador": "Valeria Gimenez",
+      "cobrado":"si"
     },
     {
       "id": 92,
