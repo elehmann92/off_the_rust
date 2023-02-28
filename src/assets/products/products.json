@@ -47,7 +47,7 @@
         "heladera_tophouse_5.jpg"
       ],
       "comprador": "Eli Guede",
-      "cobrado": "No"
+      "cobrado": "no"
     },
     {
       "id": 81,
@@ -135,8 +135,13 @@
       "categories": ["Muebles"],
       "description": "Biblioteca de madera de pino macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
       "price": 5000,
-      "status": "Disponible",
-      "images": ["biblioteca.jpeg", "biblioteca2.jpeg"]
+      "status": "Reservado",
+      "images": [
+        "biblioteca.jpeg", 
+        "biblioteca2.jpeg"
+      ],
+      "comprador":"Carolina Nare",
+      "cobrado":"no"
     },
 
     {
