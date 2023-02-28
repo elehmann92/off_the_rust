@@ -14,7 +14,7 @@
         "escritorio4.jpeg"
       ],
       "comprador": "",
-      "cobrado":""
+      "cobrado": ""
     },
     {
       "id": 110,
@@ -30,7 +30,7 @@
         "Sillon4.jpeg"
       ],
       "comprador": "",
-      "cobrado":""
+      "cobrado": ""
     },
     {
       "id": 62,
@@ -216,7 +216,7 @@
         "puff cajones 2.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 11,
@@ -529,7 +529,7 @@
       "status": "Vendido",
       "images": ["juego_bowls_ceramica.jpeg", "bowls_ceramica_2.jpeg"],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 33,
@@ -699,7 +699,7 @@
       "status": "Vendido",
       "images": ["fracos_ceramica_madera_1.jpeg"],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 46,
@@ -959,7 +959,7 @@
       "categories": ["Libros"],
       "description": "El precio corresponde a la colección de 7 tomos. Sigmund Freud, Obras Completas. Tomos 1 al 6 + tomo 13. Autor: La Nación. Editorial Siglo Veintiuno. Tapa blanda. Una colección dedicada al hombre que desestructuró el pensamiento del siglo XX. Todos los estudios, teorías y ensayos del padre del psicoanalisis. Una oportunidad para acercarse o para profundizar en su obra.Formato 15,5 x 23cm",
       "price": 1500,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "Freud_coleccion_1.jpeg",
         "Freud_coleccion_2.jpeg",
@@ -971,7 +971,7 @@
         "Freud_coleccion_tomo6.jpeg",
         "Freud_coleccion_tomo13.jpeg"
       ],
-      "comprador": "",
+      "comprador": "Vicky",
       "cobrado": ""
     },
     {
@@ -1046,9 +1046,9 @@
       "categories": ["Libros"],
       "description": "Katzenbach nos ofrece un thriller de ritmo imparable, protagonistas convincentes y trama compleja pero fascinante al mismo tiempo. Gabriel Gabe Dickenson y Marta Rodríguez-Johnson han servido a la policía de manera impecable, hasta que un día sus vidas se tuercen irreversiblemente. Ahora están condenados a trabajar juntos en esos casos olvidados y nunca aclarados que nadie quiere, en realidad, resolver. Es una manera de matar el tiempo mientras esperan a que sus jefes decidan que hacer con ellos. Sin embargo, entre ese montón de archivos polvorientos, Marta y Gabe están a punto de encontrar la clave para resolver no solo cuatro extraños asesinatos cometidos dos décadas atrás, sino también una de esas impactantes desapariciones que marcaron un antes y un después en toda una comunidad. Si hacen las preguntas adecuadas, hallarán la respuesta. Pero puede que sea mejor no preguntar. Porque lo que no sospechan es que quien está detrás de esas muertes se encuentra muy cerca de ellos. Y prefiere que no se sepa la verdad. ¿Podrán un policía alcohólico y una especialista en narcóticos incapaz de empuñar un arma enfrentarse al poder de su departamento para resolver un crimen imposible?",
       "price": 1800,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": ["john_katzenbach_personasdesconocidas.jpeg"],
-      "comprador": "",
+      "comprador": "Vicky",
       "cobrado": ""
     },
     {
@@ -1175,8 +1175,8 @@
         "IMG-20230216-WA0043.jpg",
         "IMG-20230216-WA0059.jpg"
       ],
-      "comprador":"Mamá de tati",
-      "cobrado":"no"
+      "comprador": "Mamá de tati",
+      "cobrado": "no"
     },
     {
       "id": 85,
@@ -1184,12 +1184,14 @@
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 15 x 15 x 6 cm",
       "price": 1700,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0041.jpg",
         "IMG-20230216-WA0044.jpg",
         "IMG-20230216-WA0048.jpg"
-      ]
+      ],
+      "comprador": "Vicky",
+      "cobrado": "si"
     },
     {
       "id": 86,
@@ -1197,12 +1199,14 @@
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 17 x 20 x 8 cm",
       "price": 2000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0041.jpg",
         "IMG-20230216-WA0044.jpg",
         "IMG-20230216-WA0048.jpg"
-      ]
+      ],
+      "comprador": "Vicky",
+      "cobrado": ""
     },
     {
       "id": 87,
@@ -1222,7 +1226,7 @@
       "status": "Vendido",
       "images": ["IMG-20230216-WA0045.jpg"],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 89,
@@ -1231,10 +1235,7 @@
       "description": "Bowl de vidrio 15 x 7cm. Patrón relieve.",
       "price": 500,
       "status": "Disponible",
-      "images": [
-        "IMG-20230216-WA0026.jpg",
-        "IMG-20230216-WA0101.jpg"
-      ]
+      "images": ["IMG-20230216-WA0026.jpg", "IMG-20230216-WA0101.jpg"]
     },
     {
       "id": 90,
@@ -1249,7 +1250,7 @@
         "IMG-20230216-WA0051.jpg"
       ],
       "comprador": "Valeria Gimenez",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 91,
@@ -1260,7 +1261,7 @@
       "status": "Vendido",
       "images": ["IMG-20230216-WA0046.jpg"],
       "comprador": "Valeria Gimenez",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 92,
@@ -1285,7 +1286,7 @@
         "IMG-20230216-WA0032.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 94,
@@ -1294,12 +1295,9 @@
       "description": "Provoletera para horno o parrilla, saca mini provoletitas ideales para picada. Medidas 25 x 20 cm.",
       "price": 2500,
       "status": "Vendido",
-      "images": [
-        "IMG-20230216-WA0049.jpg",
-        "IMG-20230216-WA0065.jpg"
-      ],
+      "images": ["IMG-20230216-WA0049.jpg", "IMG-20230216-WA0065.jpg"],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 95,
@@ -1314,7 +1312,7 @@
         "IMG-20230216-WA0027.jpg"
       ],
       "comprador": "Mica",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 96,
@@ -1331,7 +1329,7 @@
         "IMG-20230216-WA0088.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 97,
@@ -1345,8 +1343,8 @@
         "IMG-20230216-WA0078.jpg",
         "IMG-20230216-WA0035.jpg"
       ],
-      "comprador":"Mamá de tati",
-      "cobrado":"no"
+      "comprador": "Mamá de tati",
+      "cobrado": "no"
     },
     {
       "id": 98,
@@ -1368,10 +1366,7 @@
       "description": "Cuchillo de Pan acero inoxidable. 33 cm largo.",
       "price": 900,
       "status": "Disponible",
-      "images": [
-        "IMG-20230216-WA0031.jpg",
-        "IMG-20230216-WA0061.jpg"
-      ]
+      "images": ["IMG-20230216-WA0031.jpg", "IMG-20230216-WA0061.jpg"]
     },
     {
       "id": 100,
@@ -1402,8 +1397,8 @@
         "IMG-20230216-WA0108.jpg",
         "IMG-20230216-WA0033.jpg"
       ],
-      "comprador":"Mamá de tati",
-      "cobrado":"no"
+      "comprador": "Mamá de tati",
+      "cobrado": "no"
     },
     {
       "id": 102,
@@ -1418,7 +1413,7 @@
         "IMG-20230216-WA0100.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 107,
@@ -1427,12 +1422,9 @@
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 26 x 20. c/u.",
       "price": 2500,
       "status": "Vendido",
-      "images": [
-        "IMG-20230216-WA0038.jpg",
-        "IMG-20230216-WA0040.jpg"
-      ],
+      "images": ["IMG-20230216-WA0038.jpg", "IMG-20230216-WA0040.jpg"],
       "comprador": "Mica",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 103,
@@ -1441,12 +1433,9 @@
       "description": "Juego de 2 canastos plásticos, sin tapa, medidas 30 x 25 cm. c/u.",
       "price": 1900,
       "status": "Vendido",
-      "images": [
-        "IMG-20230216-WA0102.jpg",
-        "IMG-20230216-WA0103.jpg"
-      ],
+      "images": ["IMG-20230216-WA0102.jpg", "IMG-20230216-WA0103.jpg"],
       "comprador": "Mica",
-      "cobrado":"si"
+      "cobrado": "si"
     },
     {
       "id": 106,
@@ -1455,10 +1444,7 @@
       "description": "Juego de 3 canastos plásticos organizadores. Blanco, naranja y gris azulado. Son distintos diseños pero pertenecen a un mismo combo.",
       "price": 1000,
       "status": "Disponible",
-      "images": [
-        "IMG-20230216-WA0029.jpg",
-        "IMG-20230216-WA0037.jpg"
-      ]
+      "images": ["IMG-20230216-WA0029.jpg", "IMG-20230216-WA0037.jpg"]
     },
     {
       "id": 108,
@@ -1467,9 +1453,7 @@
       "description": "Canasto plástico enrejillado plástico. Medidas 30 x 38",
       "price": 650,
       "status": "Disponible",
-      "images": [
-        "IMG-20230216-WA0071.jpg"
-      ]
+      "images": ["IMG-20230216-WA0071.jpg"]
     },
     {
       "id": 104,
@@ -1483,8 +1467,8 @@
         "IMG-20230216-WA0105.jpg",
         "IMG-20230216-WA0106.jpg"
       ],
-      "comprador":"Hermana Kam",
-      "cobrado":"no"
+      "comprador": "Hermana Kam",
+      "cobrado": "no"
     },
     {
       "id": 105,
@@ -1493,12 +1477,9 @@
       "description": "Frasco vidrio tapa plateada 11x11x22 de 2 lt",
       "price": 1000,
       "status": "Vendido",
-      "images": [
-        "IMG-20230216-WA0082.jpg",
-        "IMG-20230216-WA0085.jpg"
-      ],
-      "comprador":"Mamá de tati",
-      "cobrado":"no"
+      "images": ["IMG-20230216-WA0082.jpg", "IMG-20230216-WA0085.jpg"],
+      "comprador": "Mamá de tati",
+      "cobrado": "no"
     },
     {
       "id": 109,
@@ -1516,9 +1497,9 @@
         "IMG-20230216-WA0113.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado":"si"
+      "cobrado": "si"
     },
-    
+
     {
       "id": 111,
       "name": "Frasco de vidrio tallado - Tapa de madera con cuerda",
@@ -1532,7 +1513,7 @@
         "Frasco-vidrio-madera3.jpeg"
       ],
       "comprador": "",
-      "cobrado":""
+      "cobrado": ""
     }
   ]
 }
