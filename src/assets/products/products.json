@@ -1073,10 +1073,10 @@
       "categories": ["Libros"],
       "description": "Resumen de EL MAPA IMPOSIBLE. Una novela que se construye en el vaivén del tiempo y de los recuerdos. Un texto que demuestra la sensibilidad y la calidad literaria de Liliana Bodoc. Lila, Diego y Julián se dedican a investigar aquellos lugares propios de la infancia y el crecimiento, tales como la siesta, la fiebre, la adolescencia, la mentira, las escondidas, el azar. El mapa imposible es un relato atravesado por el ensueño de la infancia y por la bruma del crecimiento. Mapa de no lugares, aquellos espacios donde pasan las cosas realmente importantes: el amor, la felicidad, el miedo. Cada persona es, de alguna manera, un mapa cambiante, poético, imposible. Mapas con una crucecita roja para mostrar el tesoro que todos tenemos escondido y que hallarán los que sepan buscar. En palabras de la autora: «Siempre me pareció muy fértil esa época de la vida en que dejamos atrás la infancia... Soltamos la mano del niño que fuimos y, aunque nos esforcemos, aún no alcanzamos la mano del adulto que vamos a ser».",
       "price": 700,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["Liliana_bodoc_elmapaimposible.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Veronica",
+      "cobrado": "si"
     },
     {
       "id": 76,
