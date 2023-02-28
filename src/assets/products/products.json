@@ -959,7 +959,7 @@
       "categories": ["Libros"],
       "description": "El precio corresponde a la colección de 7 tomos. Sigmund Freud, Obras Completas. Tomos 1 al 6 + tomo 13. Autor: La Nación. Editorial Siglo Veintiuno. Tapa blanda. Una colección dedicada al hombre que desestructuró el pensamiento del siglo XX. Todos los estudios, teorías y ensayos del padre del psicoanalisis. Una oportunidad para acercarse o para profundizar en su obra.Formato 15,5 x 23cm",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "Freud_coleccion_1.jpeg",
         "Freud_coleccion_2.jpeg",
@@ -1046,7 +1046,7 @@
       "categories": ["Libros"],
       "description": "Katzenbach nos ofrece un thriller de ritmo imparable, protagonistas convincentes y trama compleja pero fascinante al mismo tiempo. Gabriel Gabe Dickenson y Marta Rodríguez-Johnson han servido a la policía de manera impecable, hasta que un día sus vidas se tuercen irreversiblemente. Ahora están condenados a trabajar juntos en esos casos olvidados y nunca aclarados que nadie quiere, en realidad, resolver. Es una manera de matar el tiempo mientras esperan a que sus jefes decidan que hacer con ellos. Sin embargo, entre ese montón de archivos polvorientos, Marta y Gabe están a punto de encontrar la clave para resolver no solo cuatro extraños asesinatos cometidos dos décadas atrás, sino también una de esas impactantes desapariciones que marcaron un antes y un después en toda una comunidad. Si hacen las preguntas adecuadas, hallarán la respuesta. Pero puede que sea mejor no preguntar. Porque lo que no sospechan es que quien está detrás de esas muertes se encuentra muy cerca de ellos. Y prefiere que no se sepa la verdad. ¿Podrán un policía alcohólico y una especialista en narcóticos incapaz de empuñar un arma enfrentarse al poder de su departamento para resolver un crimen imposible?",
       "price": 1800,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": ["john_katzenbach_personasdesconocidas.jpeg"],
       "comprador": "",
       "cobrado": ""
@@ -1184,7 +1184,7 @@
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 15 x 15 x 6 cm",
       "price": 1700,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0041.jpg",
         "IMG-20230216-WA0044.jpg",
@@ -1197,7 +1197,7 @@
       "categories": ["Cocina"],
       "description": "Tupper Hermético de vidrio templado, apto horno (excepto la tapa). Medidas 17 x 20 x 8 cm",
       "price": 2000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0041.jpg",
         "IMG-20230216-WA0044.jpg",
