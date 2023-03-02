@@ -136,12 +136,9 @@
       "description": "Biblioteca de madera de pino macizo con 5 estantes y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Medidas: 184(alto)x40(ancho)x25(fondo)",
       "price": 5000,
       "status": "Vendido",
-      "images": [
-        "biblioteca.jpeg", 
-        "biblioteca2.jpeg"
-      ],
-      "comprador":"Carolina Nare",
-      "cobrado":"si"
+      "images": ["biblioteca.jpeg", "biblioteca2.jpeg"],
+      "comprador": "Carolina Nare",
+      "cobrado": "si"
     },
 
     {
@@ -765,8 +762,10 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica bombé. Color negro. Medidas 15 x 15 cm",
       "price": 700,
-      "status": "Disponible",
-      "images": ["maceta_negra_1.jpeg", "maceta_negra_2.jpeg"]
+      "status": "Vendido",
+      "images": ["maceta_negra_1.jpeg", "maceta_negra_2.jpeg"],
+      "comprador": "Juani",
+      "cobrado": "si"
     },
     {
       "id": 52,
