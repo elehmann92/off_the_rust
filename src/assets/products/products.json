@@ -1145,14 +1145,16 @@
       "categories": ["Muebles"],
       "description": "Banco rojo colombraro abierto 35 x 36 x 30 ",
       "price": 1800,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "IMG-20230216-WA0064.jpg",
         "IMG-20230216-WA0072.jpg",
         "IMG-20230216-WA0074.jpg",
         "IMG-20230216-WA0076.jpg",
         "IMG-20230216-WA0080.jpg"
-      ]
+      ],
+      "comprador":"sonia",
+      "cobrado":"si"
     },
     {
       "id": 83,
@@ -1447,8 +1449,10 @@
       "categories": ["Accesorios"],
       "description": "Juego de 3 canastos plásticos organizadores. Blanco, naranja y gris azulado. Son distintos diseños pero pertenecen a un mismo combo.",
       "price": 1000,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0029.jpg", "IMG-20230216-WA0037.jpg"]
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0029.jpg", "IMG-20230216-WA0037.jpg"],
+      "comprador":"amiga de agus",
+      "cobrado":"si"
     },
     {
       "id": 108,
