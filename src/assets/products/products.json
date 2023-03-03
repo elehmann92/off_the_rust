@@ -1368,12 +1368,14 @@
       "categories": ["Cocina"],
       "description": "Juego de 4 cuchillos  Jumbo Tramontina Polywood Madera Asado Carne. Son un viaje de ida, posta... 25cm largo, acero inoxidable, madera barnizada oscura. Nada... los querés en tu cocina. Creeme.",
       "price": 2500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0073.jpg",
         "IMG-20230216-WA0075.jpg",
         "IMG-20230216-WA0083.jpg"
-      ]
+      ],
+      "comprador": "nacho",
+      "cobrado": "si"
     },
     {
       "id": 99,
