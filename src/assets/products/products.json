@@ -6,15 +6,15 @@
       "categories": ["Muebles"],
       "description": "Escritorio de madera maciza (no es enchapado) con 2 cajones.\nBarnizado vintage. Súper cómodo.\nMedidas: 100 x 50 x 78 (ancho x profundo x alto).\n *No incluye monitor ni silla",
       "price": 6000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "escritorio2.jpeg",
         "escritorio1.jpeg",
         "escritorio3.jpeg",
         "escritorio4.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "facebook marketplace",
+      "cobrado": "no"
     },
     {
       "id": 110,
@@ -38,7 +38,7 @@
       "categories": ["Electrodomésticos"],
       "description": "Heladera Top Houe con freezer. Enfriamiento cíclico. Capacidad bruta 240 l (neta 231 l). COlor blanco. Capacidad neta heladera 199 l. Anaqueles contrapuerta heladera: 4. Estantes heladera: 4. Material de estantes: vidrio templado. Cajon de vegetales: sí. Soporte para latas: no. Capacidad freezer: 41 l. Anaqueles contrapuerta freezer: no. Estantes freezer: 1. Material: rejilla metálica. Fabica de hielo: no. Estantes removibles: si. Dispenser: no. Display: no. Control de temperatura: si. Eficiencia energética: A. Medidas: 55 x 55 x 159 (ancho x profundo x alto). Peso: 42kg. ",
       "price": 59000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "heladera_tophouse_1.jpg",
         "heladera_tophouse_2.jpg",
@@ -125,8 +125,10 @@
       "categories": ["Muebles"],
       "description": "Cajonera chifonier de madera de pino macizo con 5 cajones y fondo de terciado de pino. Pintura exterior en color blanco y encerado hidrofóbico. Incluye vidrio protector. Medidas: 40(fondo)x60(ancho)x90(alto)",
       "price": 6000,
-      "status": "Disponible",
-      "images": ["cajonera 1.jpg"]
+      "status": "Vendido",
+      "images": ["cajonera 1.jpg"],
+      "comprador": "Claudio",
+      "cobrado": "no"
     },
 
     {
@@ -225,7 +227,7 @@
       "name": "Barra Dominadas (blanca)",
       "categories": ["Deportes y Fitness"],
       "description": "BARRA DOMINADAS. BARRA 4 AGARRES.\n- Distancia entre orificios de sujeción 52 cm. \n- Estética y fuerte, la mejor en ejercicios de dominadas. \n- Pintura Electrostática (resistente a la intemperie).\n- Medidas: 105 cm ancho x 60 cm largo (medido desde la pared).\n- Incluye 4 grips soft colocados en los agarres para una  ejercitación.",
-      "price": 6500,
+      "price": 4500,
       "status": "Disponible",
       "images": [
         "barra_dominadas2.jpeg",
@@ -467,7 +469,7 @@
       "name": "TV Monitor LCD Samsung P2470HN 24’’",
       "categories": ["Tecnología"],
       "description": "Monitor TV Full HD Samsung LCD 2'' P2470HN WideScreen Posee parlantes incorporados, sintonizador e incluye control remoto. Se envia en su caja original y  en excelente estado! Resolución 1920x1080 “Full HD”  Contraste dinámico 50000/1 Brillo de 300 cd/m² Tiempo de respuesta 5ms Angulo de visión de 170° Entrada HDMI Entrada DVI Entrada PC (VGA) Entrada audio 3.5’ (sincroniza con VGA) Entrada antena coaxil Entrada videocomponente Entrada RCA (AV) Salida audio análoga 3.5’ Salida audio óptica",
-      "price": 29000,
+      "price": 24000,
       "status": "Disponible",
       "images": [
         "tv_samsung_0.webp",
@@ -662,13 +664,15 @@
       "categories": ["Deco"],
       "description": "Hornito aromático a vela de cerámica. Acabado mate exterior",
       "price": 500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "vela_hornito_b_1.jpeg",
         "vela_hornito_b_2.jpeg",
         "vela_hornito_b_3.jpeg",
         "vela_hornito_b_4.jpeg"
-      ]
+      ],
+      "comprador":"Hermana Kam",
+      "cobrado":"si"
     },
     {
       "id": 43,
@@ -709,8 +713,10 @@
       "categories": ["Cocina"],
       "description": "Juego de 6 compoteras con forma de manzana. Material vidrio templado. Apto microondas.",
       "price": 1500,
-      "status": "Disponible",
-      "images": ["compotera_manzana.jpeg", "compotera_manzana2.jpeg"]
+      "status": "Vendido",
+      "images": ["compotera_manzana.jpeg", "compotera_manzana2.jpeg"],
+      "comprador": "maría vicky",
+      "cobrado": "si"
     },
     {
       "id": 47,
@@ -890,7 +896,7 @@
       "categories": ["Muebles"],
       "description": "Silla estilo escandinavo. Asiento plástico blanco mate. Estructura madera con refuerzos metálicos. Medidas 82 x 46 x 46. Altura del asiento 46 cm. Peso máximo soportado (estimado): 120 kg. Muy cómoda, resistente, moderna y elegante.",
       "price": 3000,
-      "status": "Disponible",
+      "status": "Reservado",
       "images": [
         "silla_comedor_blanca_1.webp",
         "silla_comedor_blanca_2.webp",
@@ -901,8 +907,8 @@
         "silla_comedor_blanca_7.jpeg",
         "silla_comedor_blanca_8.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Alejandra",
+      "cobrado": "no"
     },
     {
       "id": 60,
@@ -1145,7 +1151,7 @@
       "categories": ["Muebles"],
       "description": "Banco rojo colombraro abierto 35 x 36 x 30 ",
       "price": 1800,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0064.jpg",
         "IMG-20230216-WA0072.jpg",
@@ -1162,12 +1168,14 @@
       "categories": ["Cocina"],
       "description": "Caja de te 24 x 10x 8. Confeccionada en madera y vidrio.",
       "price": 500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0069.jpg",
         "IMG-20230216-WA0079.jpg",
         "IMG-20230216-WA0087.jpg"
-      ]
+      ],
+      "comprador": "Hermana Kam",
+      "cobrado": "si"
     },
     {
       "id": 84,
@@ -1275,8 +1283,10 @@
       "categories": ["Cocina"],
       "description": "2 CM ES EL DIÁMETRO TOTAL DE LA PRENSA. EL DIAMETRO DE LA HAMBURGUESA QUEDA APROX DE 10,5 CM \n-Fabricado en Fundición de Aluminio\n-Sistema a Golpe\n-Ultra Resistente\n-Diámetro Total 12 cm\n-Diámetro del Disco Aplanador 10,5 cm\n-Ideal Uso Hogareño y Comercial\n-No Contamina\n-Fácil Lavado y Limpieza\n-No Se Oxida",
       "price": 1000,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0062.jpg", "IMG-20230216-WA0063.jpg"]
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0062.jpg", "IMG-20230216-WA0063.jpg"],
+      "comprador": "maría vicky",
+      "cobrado": "si"
     },
     {
       "id": 93,
@@ -1461,7 +1471,9 @@
       "description": "Canasto plástico enrejillado plástico. Medidas 30 x 38",
       "price": 650,
       "status": "Disponible",
-      "images": ["IMG-20230216-WA0071.jpg"]
+      "images": ["IMG-20230216-WA0071.jpg"],
+      "comprador": "amiga de agus",
+      "cobrado": "no"
     },
     {
       "id": 104,
