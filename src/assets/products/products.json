@@ -6,15 +6,15 @@
       "categories": ["Muebles"],
       "description": "Escritorio de madera maciza (no es enchapado) con 2 cajones.\nBarnizado vintage. Súper cómodo.\nMedidas: 100 x 50 x 78 (ancho x profundo x alto).\n *No incluye monitor ni silla",
       "price": 6000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "escritorio2.jpeg",
         "escritorio1.jpeg",
         "escritorio3.jpeg",
         "escritorio4.jpeg"
       ],
-      "comprador": "facebook marketplace",
-      "cobrado": "no"
+      "comprador": "Franco enrique",
+      "cobrado": "si"
     },
     {
       "id": 110,
@@ -541,17 +541,21 @@
       "categories": ["Cocina"],
       "description": "Juego de 10 platos playos. Cerámica. 25 cm diámetro",
       "price": 5000,
-      "status": "Disponible",
-      "images": ["platos_grandes_1.jpeg", "platos_grandes_2.jpeg"]
+      "status": "Vendido",
+      "images": ["platos_grandes_1.jpeg", "platos_grandes_2.jpeg"],
+      "comprador":"juan adei",
+      "cobrado":"no"
     },
     {
       "id": 34,
       "name": "Platos playos chicos x 5",
       "categories": ["Cocina"],
       "description": "Juego de 5 platos playos. Cerámica. 20 cm diámetro",
-      "price": 2500,
-      "status": "Disponible",
-      "images": ["platos chicos.jpeg", "platos chicos_2.jpeg"]
+      "price": 1100,
+      "status": "Vendido",
+      "images": ["platos chicos.jpeg", "platos chicos_2.jpeg"],
+      "comprador":"juan adei",
+      "cobrado":"no"
     },
     {
       "id": 35,
@@ -589,8 +593,10 @@
       "categories": ["Cocina"],
       "description": "Juego de 3 dipperas / salseras de cerámica. 2 de 22 x 6 + 1 de 13 x 6.",
       "price": 1500,
-      "status": "Disponible",
-      "images": ["juego de picada.jpeg", "juego de picada_2.jpeg"]
+      "status": "Vendido",
+      "images": ["juego de picada.jpeg", "juego de picada_2.jpeg"],
+      "comprador":"juan adei",
+      "cobrado":"no"
     },
     {
       "id": 38,
@@ -896,7 +902,7 @@
       "categories": ["Muebles"],
       "description": "Silla estilo escandinavo. Asiento plástico blanco mate. Estructura madera con refuerzos metálicos. Medidas 82 x 46 x 46. Altura del asiento 46 cm. Peso máximo soportado (estimado): 120 kg. Muy cómoda, resistente, moderna y elegante.",
       "price": 3000,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": [
         "silla_comedor_blanca_1.webp",
         "silla_comedor_blanca_2.webp",
@@ -907,8 +913,8 @@
         "silla_comedor_blanca_7.jpeg",
         "silla_comedor_blanca_8.jpeg"
       ],
-      "comprador": "Alejandra",
-      "cobrado": "no"
+      "comprador": "Franco enrique",
+      "cobrado": "si"
     },
     {
       "id": 60,
@@ -1392,7 +1398,7 @@
       "categories": ["Cocina"],
       "description": "Popurrí de cubiertos ideal si te estás mudando.\nNo son artículos del mismo juego, pero LA REGULARIDAD ESTÁ SOBREVALORADA!\nConsta de:\n-6 cuchillos\n-8 tenedores\n-5 cucharas soperas\n-3 cucharas de té\n-7 untadores",
       "price": 1500,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "IMG-20230216-WA0089.jpg",
         "IMG-20230216-WA0055.jpg",
@@ -1400,7 +1406,9 @@
         "IMG-20230216-WA0084.jpg",
         "IMG-20230216-WA0060.jpg",
         "IMG-20230216-WA0070.jpg"
-      ]
+      ],
+      "comprador":"juan adei",
+      "cobrado":"no"
     },
     {
       "id": 101,
@@ -1528,14 +1536,14 @@
       "categories": ["Cocina"],
       "description": "Frasco de vidrio con relieve, tapa de madera hermética y cuerda. Capacidad 1,2 l.",
       "price": 900,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": [
         "Frasco-vidrio-madera1.jpeg",
         "Frasco-vidrio-madera2.jpeg",
         "Frasco-vidrio-madera3.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador":"juan adei",
+      "cobrado":"no"
     }
   ]
 }
