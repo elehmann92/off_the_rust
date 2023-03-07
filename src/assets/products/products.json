@@ -1,6 +1,37 @@
 {
   "products": [
     {
+      "id": 113,
+      "name": "Cajonera De Recepción - Simil Bajomesada",
+      "categories": ["Muebles"],
+      "description": "Mueble aparador de entrada / recepción. Simil bajomesada.\nFabricado en melamina.\nConsta de 2 cajones amplios y una puerta tipo alacena.\nMedidas 40 x 32 x 83 (ancho x fondo x alto)",
+      "price": 5000,
+      "status": "Disponible",
+      "images": [
+        "mueblecito1.webp",
+        "mueblecito2.webp",
+        "mueblecito3.webp"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    },
+    {
+      "id":114,
+      "name": "Mueble-Bar",
+      "categories": ["Muebles"],
+      "description": "Antiguo mueble para videocaseteras.\nPerfecto para utizar como mini bar.\nBuen espacio de guardado, suficiente para almacenar botellas, copas, vasos.\nAmplia superficie de apoyo superior.\nMedidas: 54 x 44 x 76 cm. (ancho x profundidad x alto incluyendo ruedas)",
+      "price": 5000,
+      "status": "Disponible",
+      "images": [
+        "Bar1.jpeg",
+        "Bar2.jpeg",
+        "Bar3.jpeg",
+        "Bar4.jpeg"
+      ],
+      "comprador": "",
+      "cobrado": ""
+    },
+    {
       "id": 112,
       "name": "Escritorio Vintage",
       "categories": ["Muebles"],
@@ -21,7 +52,7 @@
       "name": "Sillón clásico inglés - Terciopelo Verde Esmeralda",
       "categories": ["Sillones"],
       "description": "Sillón clásico estilo inglés. Antiguo. 3 cuerpos. Estructura de roble. Tapizado en terciopelo color verde esmeralda. Almohadones de pluma forrados en misma tela.\nMedidas: 186 x 80 x 85 (largo x profundidad x altura máxima del respaldo).\nSUUUUPER CÓMODO. No te dejes llevar por la antigüedad, está en excelente estado y confeccionado a la vieja escuela. Así que tranqui, tendrías sillón para siempre, si quisieras. Si te quedan dudas venite a verlo a Caballito.\nEl precio incluye la mejor siesta de tu vida.",
-      "price": 150000,
+      "price": 115000,
       "status": "Disponible",
       "images": [
         "Sillon1.jpeg",
