@@ -741,7 +741,7 @@
       "categories": ["Deco"],
       "description": "Maceta de cerámica esmaltada. Motivos floreados. Medidas 13 x 8 cm",
       "price": 1500,
-      "status": "Reservado",
+      "status": "Vendido",
       "images": ["maceta_floreada_1.jpeg", "maceta_floreada_2.jpeg"],
       "comprador": "barbi",
       "cobrado": "no"
@@ -1482,7 +1482,7 @@
       "categories": ["Accesorios"],
       "description": "Canasto plástico enrejillado plástico. Medidas 30 x 38",
       "price": 650,
-      "status": "Disponible",
+      "status": "Vendido",
       "images": ["IMG-20230216-WA0071.jpg"],
       "comprador": "amiga de agus",
       "cobrado": "no"
