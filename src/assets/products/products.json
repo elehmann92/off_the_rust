@@ -365,8 +365,8 @@
       "name": "Dolce Gusto Piccolo XS",
       "categories": ["Electrodomésticos"],
       "description": "Cafetera Nescafé Moulinex Dolce Gusto Piccolo XS de corte manual black para cápsulas monodosis 220V. Color negro. Para cápsulas monodosis. Carga 0,8 litros. Potencia 1340 W. Capsulas compatibles: Dolce Gusto. Tiene un pequeño desperfecto que no altera la extracción del café y es resolvible con cambio de repuestos.",
-      "price": 8000,
-      "status": "Disponible",
+      "price": 6000,
+      "status": "Vendido",
       "images": [
         "dolce_gusto1.webp",
         "dolce_gusto2.webp",
@@ -375,7 +375,9 @@
         "dolce_gusto5.jpeg",
         "dolce_gusto6.jpeg",
         "dolce_gusto7.jpeg"
-      ]
+      ],
+      "comprador":"Chavez",
+      "cobrado":"si"
     },
     {
       "id": 20,
@@ -1421,9 +1423,11 @@
       "name": "Cuchillo de Pan",
       "categories": ["Cocina"],
       "description": "Cuchillo de Pan acero inoxidable. 33 cm largo.",
-      "price": 900,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0031.jpg", "IMG-20230216-WA0061.jpg"]
+      "price": 0,
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0031.jpg", "IMG-20230216-WA0061.jpg"],
+      "comprador":"nacho",
+      "cobrado":"si"
     },
     {
       "id": 100,
