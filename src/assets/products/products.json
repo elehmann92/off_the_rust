@@ -5,31 +5,31 @@
       "name": "Cajonera De Recepción - Simil Bajomesada",
       "categories": ["Muebles"],
       "description": "Mueble aparador de entrada / recepción. Simil bajomesada.\nFabricado en melamina.\nConsta de 2 cajones amplios y una puerta tipo alacena.\nMedidas 40 x 32 x 83 (ancho x fondo x alto)",
-      "price": 5000,
-      "status": "Disponible",
+      "price": 4500,
+      "status": "Vendido",
       "images": [
         "mueblecito1.webp",
         "mueblecito2.webp",
         "mueblecito3.webp"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Guillermo ML",
+      "cobrado": "si"
     },
     {
       "id":114,
       "name": "Mueble-Bar",
       "categories": ["Muebles"],
       "description": "Antiguo mueble para videocaseteras.\nPerfecto para utizar como mini bar.\nBuen espacio de guardado, suficiente para almacenar botellas, copas, vasos.\nAmplia superficie de apoyo superior.\nMedidas: 54 x 44 x 76 cm. (ancho x profundidad x alto incluyendo ruedas)",
-      "price": 5000,
-      "status": "Disponible",
+      "price": 0,
+      "status": "Vendido",
       "images": [
         "Bar1.jpeg",
         "Bar2.jpeg",
         "Bar3.jpeg",
         "Bar4.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Jose luis",
+      "cobrado": "si"
     },
     {
       "id": 112,
@@ -52,16 +52,16 @@
       "name": "Sillón clásico inglés - Terciopelo Verde Esmeralda",
       "categories": ["Sillones"],
       "description": "Sillón clásico estilo inglés. Antiguo. 3 cuerpos. Estructura de roble. Tapizado en terciopelo color verde esmeralda. Almohadones de pluma forrados en misma tela.\nMedidas: 186 x 80 x 85 (largo x profundidad x altura máxima del respaldo).\nSUUUUPER CÓMODO. No te dejes llevar por la antigüedad, está en excelente estado y confeccionado a la vieja escuela. Así que tranqui, tendrías sillón para siempre, si quisieras. Si te quedan dudas venite a verlo a Caballito.\nEl precio incluye la mejor siesta de tu vida.",
-      "price": 115000,
-      "status": "Disponible",
+      "price": 100000,
+      "status": "Vendido",
       "images": [
         "Sillon1.jpeg",
         "Sillon2.jpeg",
         "Sillon3.jpeg",
         "Sillon4.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Tati (laura)",
+      "cobrado": "si"
     },
     {
       "id": 62,
@@ -918,8 +918,8 @@
       "name": "Piano / Teclado Yamaha PSR 170",
       "categories": ["Instrumentos"],
       "description": "Teclado Yamaha PSR 170 de 5 octavas (61 teclas). Tiene display LCD, entrada para auriculares y un programa de enseñanza de más de 100 clásicos. Incluye transformador, atril y base. ",
-      "price": 45000,
-      "status": "Disponible",
+      "price": 30000,
+      "status": "Vendido",
       "images": [
         "Piano_yamaha_0.webp",
         "Piano_yamaha_1.jpeg",
@@ -928,8 +928,8 @@
         "Piano_yamaha_4.jpeg",
         "Piano_yamaha_5.jpeg"
       ],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Some ML Cat",
+      "cobrado": "si"
     },
     {
       "id": 59,
@@ -1268,9 +1268,11 @@
       "name": "Tabla de picada madera",
       "categories": ["Cocina"],
       "description": "Tabla de picada madera. 40 x 12. Con mango.",
-      "price": 2500,
-      "status": "Disponible",
-      "images": ["IMG-20230216-WA0052.jpg", "IMG-20230216-WA0056.jpg"]
+      "price": 0,
+      "status": "Vendido",
+      "images": ["IMG-20230216-WA0052.jpg", "IMG-20230216-WA0056.jpg"],
+      "comprador":"Hermana Kam",
+      "cobrado":"si"
     },
     {
       "id": 88,
