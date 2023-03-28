@@ -7,27 +7,18 @@
       "description": "Mueble aparador de entrada / recepción. Simil bajomesada.\nFabricado en melamina.\nConsta de 2 cajones amplios y una puerta tipo alacena.\nMedidas 40 x 32 x 83 (ancho x fondo x alto)",
       "price": 4500,
       "status": "Vendido",
-      "images": [
-        "mueblecito1.webp",
-        "mueblecito2.webp",
-        "mueblecito3.webp"
-      ],
+      "images": ["mueblecito1.webp", "mueblecito2.webp", "mueblecito3.webp"],
       "comprador": "Guillermo ML",
       "cobrado": "si"
     },
     {
-      "id":114,
+      "id": 114,
       "name": "Mueble-Bar",
       "categories": ["Muebles"],
       "description": "Antiguo mueble para videocaseteras.\nPerfecto para utizar como mini bar.\nBuen espacio de guardado, suficiente para almacenar botellas, copas, vasos.\nAmplia superficie de apoyo superior.\nMedidas: 54 x 44 x 76 cm. (ancho x profundidad x alto incluyendo ruedas)",
       "price": 0,
       "status": "Vendido",
-      "images": [
-        "Bar1.jpeg",
-        "Bar2.jpeg",
-        "Bar3.jpeg",
-        "Bar4.jpeg"
-      ],
+      "images": ["Bar1.jpeg", "Bar2.jpeg", "Bar3.jpeg", "Bar4.jpeg"],
       "comprador": "Jose luis",
       "cobrado": "si"
     },
@@ -78,7 +69,7 @@
         "heladera_tophouse_5.jpg"
       ],
       "comprador": "Eli Guede",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 81,
@@ -95,7 +86,7 @@
         "colchon1.jpeg"
       ],
       "comprador": "amigo de percy",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 24,
@@ -159,7 +150,7 @@
       "status": "Vendido",
       "images": ["cajonera 1.jpg"],
       "comprador": "Claudio",
-      "cobrado": "no"
+      "cobrado": "si"
     },
 
     {
@@ -189,7 +180,7 @@
         "Comoda5.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado": "no"
+      "cobrado": "si"
     },
 
     {
@@ -220,7 +211,7 @@
         "mesa de luz B3.jpg"
       ],
       "comprador": "Tati (laura)",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 14,
@@ -322,7 +313,7 @@
         "soporte_guitarra.jpeg"
       ],
       "comprador": "bluff",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 17,
@@ -340,7 +331,7 @@
         "soporte_saxo2.jpeg"
       ],
       "comprador": "Daniela Ballani (ML)",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 18,
@@ -376,8 +367,8 @@
         "dolce_gusto6.jpeg",
         "dolce_gusto7.jpeg"
       ],
-      "comprador":"Chavez",
-      "cobrado":"si"
+      "comprador": "Chavez",
+      "cobrado": "si"
     },
     {
       "id": 20,
@@ -395,7 +386,7 @@
         "pava_bixler6.jpeg"
       ],
       "comprador": "tina",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 21,
@@ -478,7 +469,7 @@
         "Soporte TV movible 5.jpg"
       ],
       "comprador": "kam",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 7,
@@ -529,7 +520,7 @@
         "tv_lg_32lj600b_6.webp"
       ],
       "comprador": "kam",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 30,
@@ -544,7 +535,7 @@
         "Phillips_40PFG5000_3.webp"
       ],
       "comprador": "tina",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 31,
@@ -576,8 +567,8 @@
       "price": 5000,
       "status": "Vendido",
       "images": ["platos_grandes_1.jpeg", "platos_grandes_2.jpeg"],
-      "comprador":"juan adei",
-      "cobrado":"no"
+      "comprador": "juan adei",
+      "cobrado": "si"
     },
     {
       "id": 34,
@@ -587,8 +578,8 @@
       "price": 1100,
       "status": "Vendido",
       "images": ["platos chicos.jpeg", "platos chicos_2.jpeg"],
-      "comprador":"juan adei",
-      "cobrado":"no"
+      "comprador": "juan adei",
+      "cobrado": "si"
     },
     {
       "id": 35,
@@ -628,8 +619,8 @@
       "price": 1500,
       "status": "Vendido",
       "images": ["juego de picada.jpeg", "juego de picada_2.jpeg"],
-      "comprador":"juan adei",
-      "cobrado":"no"
+      "comprador": "juan adei",
+      "cobrado": "si"
     },
     {
       "id": 38,
@@ -679,7 +670,7 @@
         "filtro_psa_5.jpeg"
       ],
       "comprador": "cabe",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 41,
@@ -710,8 +701,8 @@
         "vela_hornito_b_3.jpeg",
         "vela_hornito_b_4.jpeg"
       ],
-      "comprador":"Hermana Kam",
-      "cobrado":"si"
+      "comprador": "Hermana Kam",
+      "cobrado": "si"
     },
     {
       "id": 43,
@@ -766,7 +757,7 @@
       "status": "Vendido",
       "images": ["copas_tirabuzon.jpeg", "copas_tirabuzon2.jpeg"],
       "comprador": "da",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 48,
@@ -777,7 +768,7 @@
       "status": "Vendido",
       "images": ["maceta_floreada_1.jpeg", "maceta_floreada_2.jpeg"],
       "comprador": "barbi",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 49,
@@ -840,8 +831,8 @@
         "laguiole_7.jpg",
         "laguiole_8.jpg"
       ],
-      "comprador":"kan grejo ML",
-      "cobrado":"si"
+      "comprador": "kan grejo ML",
+      "cobrado": "si"
     },
     {
       "id": 54,
@@ -911,7 +902,7 @@
         "aspiradora_nex_7.jpeg"
       ],
       "comprador": "da",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 58,
@@ -971,7 +962,7 @@
       "status": "Vendido",
       "images": ["lavarropas_drean_1.webp"],
       "comprador": "Hermana Kam",
-      "cobrado": "no"
+      "cobrado": "si"
     },
 
     {
@@ -1063,11 +1054,11 @@
       "name": "Gabriel Rolón - Los padecientes",
       "categories": ["Libros"],
       "description": "Un thriller psicológico cargado de zonas oscuras. Los padecientes Gabriel Rolón Hace poco menos de un año que Pablo Rouviot, un reconocido psicoanalista, terminó una turbulenta historia de amor desde entonces, se ha transformado en un hombre taciturno y solitario. Una noche, una joven de 27 años llega a su consultorio y le formula un pedido bastante particular. El cuerpo de su padre, un poderoso empresario, fue encontrado acuchillado en un descampado cercano a su casa, y su hermano, un joven con graves problemas psicológicos, está acusado de haber sido el responsable del crimen. Paula necesita que la ayude a demostrar que su hermano es inimputable, alguien incapaz de comprender la peligrosidad de sus actos. Sin embargo, antes de responderle, Pablo decide hacer algunas averiguaciones y de a poco recompone una trama siniestra en la que nada es lo que parece. Médicos, policías, abogados y amantes se confabulan en un cuadro turbio que se suma a una historia familiar cargada de violencia y zonas oscuras. Desde ese momento, el día a día del psicólogo se transforma en una pesadilla en la que únicamente lo moviliza una obsesión: llegar a la verdad, por más dolorosa que sea. Los padecientes, la primera novela de Gabriel Rolón, es un thriller psicológico que lleva algo de luz a los umbrales de las relaciones humanas sin por eso perder de vista dos características que lo convierten en un libro vibrante: su pulso cinematográfico y el vértigo de un policial que corta el aliento..",
-      "price": 1000,
-      "status": "Disponible",
+      "price": 0,
+      "status": "Vendido",
       "images": ["Gabriel_rolon_lospadecientes.jpeg"],
-      "comprador": "",
-      "cobrado": ""
+      "comprador": "Mari",
+      "cobrado": "si"
     },
     {
       "id": 71,
@@ -1078,7 +1069,7 @@
       "status": "Vendido",
       "images": ["German_torres_pandegarage.jpeg"],
       "comprador": "Benjamín Sánchez (ML)",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 72,
@@ -1200,8 +1191,8 @@
         "IMG-20230216-WA0076.jpg",
         "IMG-20230216-WA0080.jpg"
       ],
-      "comprador":"sonia",
-      "cobrado":"si"
+      "comprador": "sonia",
+      "cobrado": "si"
     },
     {
       "id": 83,
@@ -1231,7 +1222,7 @@
         "IMG-20230216-WA0059.jpg"
       ],
       "comprador": "Mamá de tati",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 85,
@@ -1271,8 +1262,8 @@
       "price": 0,
       "status": "Vendido",
       "images": ["IMG-20230216-WA0052.jpg", "IMG-20230216-WA0056.jpg"],
-      "comprador":"Hermana Kam",
-      "cobrado":"si"
+      "comprador": "Hermana Kam",
+      "cobrado": "si"
     },
     {
       "id": 88,
@@ -1403,7 +1394,7 @@
         "IMG-20230216-WA0035.jpg"
       ],
       "comprador": "Mamá de tati",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 98,
@@ -1428,8 +1419,8 @@
       "price": 0,
       "status": "Vendido",
       "images": ["IMG-20230216-WA0031.jpg", "IMG-20230216-WA0061.jpg"],
-      "comprador":"nacho",
-      "cobrado":"si"
+      "comprador": "nacho",
+      "cobrado": "si"
     },
     {
       "id": 100,
@@ -1446,8 +1437,8 @@
         "IMG-20230216-WA0060.jpg",
         "IMG-20230216-WA0070.jpg"
       ],
-      "comprador":"juan adei",
-      "cobrado":"no"
+      "comprador": "juan adei",
+      "cobrado": "si"
     },
     {
       "id": 101,
@@ -1463,7 +1454,7 @@
         "IMG-20230216-WA0033.jpg"
       ],
       "comprador": "Mamá de tati",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 102,
@@ -1510,8 +1501,8 @@
       "price": 1000,
       "status": "Vendido",
       "images": ["IMG-20230216-WA0029.jpg", "IMG-20230216-WA0037.jpg"],
-      "comprador":"amiga de agus",
-      "cobrado":"si"
+      "comprador": "amiga de agus",
+      "cobrado": "si"
     },
     {
       "id": 108,
@@ -1522,7 +1513,7 @@
       "status": "Vendido",
       "images": ["IMG-20230216-WA0071.jpg"],
       "comprador": "amiga de agus",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 104,
@@ -1537,7 +1528,7 @@
         "IMG-20230216-WA0106.jpg"
       ],
       "comprador": "Hermana Kam",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 105,
@@ -1548,7 +1539,7 @@
       "status": "Vendido",
       "images": ["IMG-20230216-WA0082.jpg", "IMG-20230216-WA0085.jpg"],
       "comprador": "Mamá de tati",
-      "cobrado": "no"
+      "cobrado": "si"
     },
     {
       "id": 109,
@@ -1581,8 +1572,8 @@
         "Frasco-vidrio-madera2.jpeg",
         "Frasco-vidrio-madera3.jpeg"
       ],
-      "comprador":"juan adei",
-      "cobrado":"no"
+      "comprador": "juan adei",
+      "cobrado": "si"
     }
   ]
 }
