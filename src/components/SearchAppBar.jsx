@@ -15,6 +15,7 @@ import { useDispatch } from "react-redux";
 import { searchProducts, setCategoryFilter } from "../redux/actions";
 import FilterButton from "./FilterButton";
 import { useNavigate } from "react-router-dom";
+import SoldToggle from "./SoldToggle";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -91,6 +92,7 @@ export default function SearchAppBar() {
               component="div"
               sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
             ></Typography>
+            <SoldToggle/>
             <Search>
               <SearchIconWrapper>
                 <SearchIcon />
